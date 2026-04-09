@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T15:06:32.200Z",
+  "generatedAt": "2026-04-09T16:47:04.695Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -139,6 +139,21 @@
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
+      "id": "20418dc6-1870-4018-adda-1e6156717f02",
+      "missionName": "Starlink Group 17-14",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "net": "2026-04-22T02:00:00Z",
+      "windowStart": "2026-04-22T02:00:00Z",
+      "windowEnd": "2026-04-22T06:00:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
       "id": "9281afa8-140d-425b-a560-2fa59feef814",
       "missionName": "Kakushin Rising (JAXA Rideshare)",
       "rocket": "Electron",
@@ -152,21 +167,6 @@
       "missionType": "Technology",
       "description": "JAXA-manifested rideshare of eight separate spacecraft that includes educational small sats, an ocean monitoring satellite, a demonstration satellite for ultra-small multispectral cameras, and a deployable antenna that can be packed tightly using origami folding techniques and unfurled to 25 times its size.\r\n\r\nThe satellites were originally planned to launch with RAISE-4 on a Japanese Epsilon-S rocket, but the Epsilon-S was heavily delayed due to test firing failures.\r\n\r\nThe 8 satellites are:\r\n\r\n* MAGNARO-II\r\n* KOSEN-2R\r\n* WASEDA-SAT-ZERO-II\r\n* FSI-SAT2\r\n* OrigamiSat-2\r\n* Mono-Nikko\r\n* ARICA-2\r\n* PRELUDE",
       "mapUrl": null
-    },
-    {
-      "id": "33eb7522-d371-4195-addb-c22aeff30c41",
-      "missionName": "Progress MS-34 (95P)",
-      "rocket": "Soyuz 2.1a",
-      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "pad": "31/6",
-      "status": "To Be Confirmed",
-      "net": "2026-04-25T22:21:00Z",
-      "windowStart": "2026-04-25T22:21:00Z",
-      "windowEnd": "2026-04-25T22:21:00Z",
-      "missionType": "Resupply",
-      "description": "Progress resupply mission to the International Space Station.",
-      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     }
   ]
 }
