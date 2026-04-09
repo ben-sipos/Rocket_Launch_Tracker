@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Launch Tracker | Upcoming Rocket Launches Worldwide</title>
+  <meta
+    name="description"
+    content="A live launch dashboard tracking upcoming rocket launches worldwide with mission details, launch sites, and a countdown to the next liftoff."
+  >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Launch Monitoring Station</p>
+        <h1>Launch Tracker</h1>
+        <p class="hero-text">
+          A live dashboard for upcoming rocket launches worldwide, refreshed from public launch data and tuned for GitHub Pages.
+        </p>
+      </div>
+
+      <div class="hero-status">
+        <article class="status-card">
+          <span class="status-label">Next Launch</span>
+          <strong id="next-launch-name">Loading launch feed...</strong>
+        </article>
+        <article class="status-card">
+          <span class="status-label">Upcoming Missions</span>
+          <strong id="launch-count">--</strong>
+        </article>
+        <article class="status-card">
+          <span class="status-label">Last Synced</span>
+          <strong id="last-updated">--</strong>
+        </article>
+      </div>
+    </header>
+
+    <main class="dashboard">
+      <section class="countdown-panel" aria-labelledby="countdown-title">
+        <div>
+          <p class="section-kicker">Featured Countdown</p>
+          <h2 id="countdown-title">Next worldwide launch</h2>
+          <p id="countdown-summary" class="countdown-summary">
+            Pulling the latest launch manifest...
+          </p>
+        </div>
+
+        <div class="countdown-grid" aria-live="polite">
+          <article class="time-card">
+            <span>Days</span>
+            <strong id="days">--</strong>
+          </article>
+          <article class="time-card">
+            <span>Hours</span>
+            <strong id="hours">--</strong>
+          </article>
+          <article class="time-card">
+            <span>Minutes</span>
+            <strong id="minutes">--</strong>
+          </article>
+          <article class="time-card">
+            <span>Seconds</span>
+            <strong id="seconds">--</strong>
+          </article>
+        </div>
+      </section>
+
+      <section class="next-launch-panel" aria-labelledby="featured-title">
+        <div class="panel-heading">
+          <div>
+            <p class="section-kicker">Mission Brief</p>
+            <h2 id="featured-title">Next launch details</h2>
+          </div>
+          <button id="refresh-button" class="refresh-button" type="button">Reload Data</button>
+        </div>
+
+        <div id="featured-launch" class="featured-launch">
+          <p class="empty-state">Loading next launch details...</p>
+        </div>
+      </section>
+
+      <section class="launch-list-panel" aria-labelledby="list-title">
+        <div class="panel-heading">
+          <div>
+            <p class="section-kicker">Global Schedule</p>
+            <h2 id="list-title">Upcoming launches</h2>
+          </div>
+          <p class="data-note">
+            Source: <a href="https://thespacedevs.com/llapi" target="_blank" rel="noreferrer">The Space Devs Launch Library 2</a>
+          </p>
+        </div>
+
+        <div class="table-wrap">
+          <table class="launch-table">
+            <thead>
+              <tr>
+                <th>Date / Time</th>
+                <th>Mission</th>
+                <th>Rocket</th>
+                <th>Launch Site</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody id="launch-table-body">
+              <tr>
+                <td colspan="5" class="loading-row">Loading upcoming launches...</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="./main.js"></script>
+</body>
+</html>
