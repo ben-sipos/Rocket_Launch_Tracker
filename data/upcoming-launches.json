@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T13:21:29.389Z",
+  "generatedAt": "2026-04-09T15:06:32.200Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -17,21 +17,6 @@
       "missionType": "Test Flight",
       "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
       "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
-    },
-    {
-      "id": "33b673eb-b25b-462a-a092-040a6875654c",
-      "missionName": "Unknown Payload",
-      "rocket": "Kinetica 1",
-      "provider": "CAS Space",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 130",
-      "status": "Go for Launch",
-      "net": "2026-04-10T04:00:00Z",
-      "windowStart": "2026-04-10T03:54:00Z",
-      "windowEnd": "2026-04-10T04:15:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.8182,100.22514"
     },
     {
       "id": "f6c9396f-5f02-49e6-a847-83e4c774e0e9",
@@ -77,6 +62,21 @@
       "missionType": "Resupply",
       "description": "This is the 24th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 23rd flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
+      "id": "33b673eb-b25b-462a-a092-040a6875654c",
+      "missionName": "Unknown Payload",
+      "rocket": "Kinetica 1",
+      "provider": "CAS Space",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Area 130",
+      "status": "Go for Launch",
+      "net": "2026-04-14T04:00:00Z",
+      "windowStart": "2026-04-14T03:54:00Z",
+      "windowEnd": "2026-04-14T04:15:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=40.8182,100.22514"
     },
     {
       "id": "5352577c-d94a-4e68-a0c8-b0b684621a4f",
