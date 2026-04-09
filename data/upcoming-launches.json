@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-04-09T17:56:55.215Z",
+  "generatedAt": "2026-04-09T19:10:39.674Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "missionName": "Onward and Upward",
-      "rocket": "Spectrum",
-      "provider": "Isar Aerospace",
-      "launchSite": "Andøya Spaceport",
-      "pad": "Orbital Launch Pad",
-      "status": "Go for Launch",
-      "net": "2026-04-09T20:00:00Z",
-      "windowStart": "2026-04-09T20:00:00Z",
-      "windowEnd": "2026-04-09T20:50:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
-      "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
-    },
     {
       "id": "f6c9396f-5f02-49e6-a847-83e4c774e0e9",
       "missionName": "Starlink Group 17-21",
@@ -167,6 +152,21 @@
       "missionType": "Technology",
       "description": "JAXA-manifested rideshare of eight separate spacecraft that includes educational small sats, an ocean monitoring satellite, a demonstration satellite for ultra-small multispectral cameras, and a deployable antenna that can be packed tightly using origami folding techniques and unfurled to 25 times its size.\r\n\r\nThe satellites were originally planned to launch with RAISE-4 on a Japanese Epsilon-S rocket, but the Epsilon-S was heavily delayed due to test firing failures.\r\n\r\nThe 8 satellites are:\r\n\r\n* MAGNARO-II\r\n* KOSEN-2R\r\n* WASEDA-SAT-ZERO-II\r\n* FSI-SAT2\r\n* OrigamiSat-2\r\n* Mono-Nikko\r\n* ARICA-2\r\n* PRELUDE",
       "mapUrl": null
+    },
+    {
+      "id": "33eb7522-d371-4195-addb-c22aeff30c41",
+      "missionName": "Progress MS-34 (95P)",
+      "rocket": "Soyuz 2.1a",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "31/6",
+      "status": "To Be Confirmed",
+      "net": "2026-04-25T22:21:00Z",
+      "windowStart": "2026-04-25T22:21:00Z",
+      "windowEnd": "2026-04-25T22:21:00Z",
+      "missionType": "Resupply",
+      "description": "Progress resupply mission to the International Space Station.",
+      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     }
   ]
 }
