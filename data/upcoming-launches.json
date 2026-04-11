@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T14:34:38.363Z",
+  "generatedAt": "2026-04-11T15:31:09.185Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 9,
   "launches": [
@@ -109,6 +109,21 @@
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "missionName": "Demo Flight",
+      "rocket": "South Korean ADD Solid-Fuel SLV",
+      "provider": "Agency for Defense Development",
+      "launchSite": "Sea Launch",
+      "pad": "ADD Offshore launch platform",
+      "status": "To Be Confirmed",
+      "net": "2026-04-22T05:00:00Z",
+      "windowStart": "2026-04-22T05:00:00Z",
+      "windowEnd": "2026-04-22T09:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+      "mapUrl": null
+    },
+    {
       "id": "9281afa8-140d-425b-a560-2fa59feef814",
       "missionName": "Kakushin Rising (JAXA Rideshare)",
       "rocket": "Electron",
@@ -122,21 +137,6 @@
       "missionType": "Technology",
       "description": "JAXA-manifested rideshare of eight separate spacecraft that includes educational small sats, an ocean monitoring satellite, a demonstration satellite for ultra-small multispectral cameras, and a deployable antenna that can be packed tightly using origami folding techniques and unfurled to 25 times its size.\r\n\r\nThe satellites were originally planned to launch with RAISE-4 on a Japanese Epsilon-S rocket, but the Epsilon-S was heavily delayed due to test firing failures.\r\n\r\nThe 8 satellites are:\r\n\r\n* MAGNARO-II\r\n* KOSEN-2R\r\n* WASEDA-SAT-ZERO-II\r\n* FSI-SAT2\r\n* OrigamiSat-2\r\n* Mono-Nikko\r\n* ARICA-2\r\n* PRELUDE",
       "mapUrl": null
-    },
-    {
-      "id": "33eb7522-d371-4195-addb-c22aeff30c41",
-      "missionName": "Progress MS-34 (95P)",
-      "rocket": "Soyuz 2.1a",
-      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "pad": "31/6",
-      "status": "To Be Confirmed",
-      "net": "2026-04-25T22:21:00Z",
-      "windowStart": "2026-04-25T22:21:00Z",
-      "windowEnd": "2026-04-25T22:21:00Z",
-      "missionType": "Resupply",
-      "description": "Progress resupply mission to the International Space Station.",
-      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     }
   ]
 }
