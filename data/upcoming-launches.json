@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T22:08:45.368Z",
+  "generatedAt": "2026-04-15T23:09:01.885Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -115,10 +115,10 @@
       "provider": "Rocket Lab",
       "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-04-23T00:00:00Z",
-      "windowStart": "2026-04-23T00:00:00Z",
-      "windowEnd": "2026-04-23T00:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-04-23T03:09:00Z",
+      "windowStart": "2026-04-23T03:09:00Z",
+      "windowEnd": "2026-04-23T03:09:00Z",
       "missionType": "Technology",
       "description": "JAXA-manifested rideshare of eight separate spacecraft that includes educational small sats, an ocean monitoring satellite, a demonstration satellite for ultra-small multispectral cameras, and a deployable antenna that can be packed tightly using origami folding techniques and unfurled to 25 times its size.\r\n\r\nThe satellites were originally planned to launch with RAISE-4 on a Japanese Epsilon-S rocket, but the Epsilon-S was heavily delayed due to test firing failures.\r\n\r\nThe 8 satellites are:\r\n\r\n* MAGNARO-II\r\n* KOSEN-2R\r\n* WASEDA-SAT-ZERO-II\r\n* FSI-SAT2\r\n* OrigamiSat-2\r\n* Mono-Nikko\r\n* ARICA-2\r\n* PRELUDE",
       "mapUrl": null
