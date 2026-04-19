@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T10:06:32.408Z",
+  "generatedAt": "2026-04-19T11:06:10.571Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -11,7 +11,7 @@
       "launchSite": "Cape Canaveral SFS, FL, USA",
       "pad": "Launch Complex 36A",
       "status": "Go for Launch",
-      "net": "2026-04-19T10:45:00Z",
+      "net": "2026-04-19T11:25:00Z",
       "windowStart": "2026-04-19T10:45:00Z",
       "windowEnd": "2026-04-19T12:45:00Z",
       "missionType": "Communications",
