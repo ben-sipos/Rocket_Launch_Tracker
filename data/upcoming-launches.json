@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-04-21T06:00:47.947Z",
+  "generatedAt": "2026-04-21T08:16:07.919Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "2c5686ec-b0fd-4987-935d-587e3c85fa2d",
-      "missionName": "GPS III SV10",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
-      "net": "2026-04-21T06:53:25Z",
-      "windowStart": "2026-04-21T06:53:00Z",
-      "windowEnd": "2026-04-21T07:08:00Z",
-      "missionType": "Navigation",
-      "description": "Tenth of ten GPS III missions.",
-      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
     {
       "id": "4e074623-426a-4ab2-8729-a85200684bef",
       "missionName": "Bubbles",
