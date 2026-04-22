@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-04-21T23:32:27.912Z",
+  "generatedAt": "2026-04-22T02:13:22.011Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "4e074623-426a-4ab2-8729-a85200684bef",
-      "missionName": "Bubbles",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Wallops Flight Facility, Virginia, USA",
-      "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-      "status": "Go for Launch",
-      "net": "2026-04-22T00:00:00Z",
-      "windowStart": "2026-04-22T00:00:00Z",
-      "windowEnd": "2026-04-22T05:00:00Z",
-      "missionType": "Government/Top Secret",
-      "description": "Sub-orbital launch under Rocket Lab’s Hypersonic Accelerator Suborbital Test Electron (HASTE) program, details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=37.833262,-75.488235"
-    },
     {
       "id": "20418dc6-1870-4018-adda-1e6156717f02",
       "missionName": "Starlink Group 17-14",
@@ -77,6 +62,21 @@
       "missionType": "Test Flight",
       "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
       "mapUrl": null
+    },
+    {
+      "id": "88ab98d8-44e9-4aae-ac0f-02006a1d7ce6",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 6",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 16",
+      "status": "Go for Launch",
+      "net": "2026-04-25T12:15:00Z",
+      "windowStart": "2026-04-25T12:08:00Z",
+      "windowEnd": "2026-04-25T12:37:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=38.868222,111.58024"
     },
     {
       "id": "33eb7522-d371-4195-addb-c22aeff30c41",
@@ -152,21 +152,6 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n32 satellites are carried on this launch.",
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
-    },
-    {
-      "id": "41139aa5-3f45-440a-8131-9cb391ddc995",
-      "missionName": "Kosmos (Unknown Payload)",
-      "rocket": "Angara 1.2",
-      "provider": "Russian Space Forces",
-      "launchSite": "Plesetsk Cosmodrome, Russian Federation",
-      "pad": "35/1",
-      "status": "To Be Determined",
-      "net": "2026-04-30T00:00:00Z",
-      "windowStart": "2026-04-30T00:00:00Z",
-      "windowEnd": "2026-04-30T00:00:00Z",
-      "missionType": "Government/Top Secret",
-      "description": "Unknown satellite(s) for the Russian military.",
-      "mapUrl": "https://www.google.com/maps?q=62.927319,40.574897"
     }
   ]
 }
