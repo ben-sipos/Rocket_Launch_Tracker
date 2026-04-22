@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T02:13:22.011Z",
+  "generatedAt": "2026-04-22T05:11:12.865Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
@@ -47,21 +47,6 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=28.247059,102.029008"
-    },
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "missionName": "Demo Flight",
-      "rocket": "South Korean ADD Solid-Fuel SLV",
-      "provider": "Agency for Defense Development",
-      "launchSite": "Sea Launch",
-      "pad": "ADD Offshore launch platform",
-      "status": "Go for Launch",
-      "net": "2026-04-25T05:00:00Z",
-      "windowStart": "2026-04-25T05:00:00Z",
-      "windowEnd": "2026-04-25T09:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
     },
     {
       "id": "88ab98d8-44e9-4aae-ac0f-02006a1d7ce6",
@@ -152,6 +137,21 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n32 satellites are carried on this launch.",
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
+    },
+    {
+      "id": "41139aa5-3f45-440a-8131-9cb391ddc995",
+      "missionName": "Kosmos (Unknown Payload)",
+      "rocket": "Angara 1.2",
+      "provider": "Russian Space Forces",
+      "launchSite": "Plesetsk Cosmodrome, Russian Federation",
+      "pad": "35/1",
+      "status": "To Be Determined",
+      "net": "2026-04-30T00:00:00Z",
+      "windowStart": "2026-04-30T00:00:00Z",
+      "windowEnd": "2026-04-30T00:00:00Z",
+      "missionType": "Government/Top Secret",
+      "description": "Unknown satellite(s) for the Russian military.",
+      "mapUrl": "https://www.google.com/maps?q=62.927319,40.574897"
     }
   ]
 }
