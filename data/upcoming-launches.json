@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-22T05:11:12.865Z",
+  "generatedAt": "2026-04-22T07:10:49.781Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "20418dc6-1870-4018-adda-1e6156717f02",
@@ -152,6 +152,21 @@
       "missionType": "Government/Top Secret",
       "description": "Unknown satellite(s) for the Russian military.",
       "mapUrl": "https://www.google.com/maps?q=62.927319,40.574897"
+    },
+    {
+      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
+      "missionName": "Demo Flight",
+      "rocket": "Long March 10B",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-2",
+      "status": "To Be Determined",
+      "net": "2026-04-30T00:00:00Z",
+      "windowStart": "2026-04-30T00:00:00Z",
+      "windowEnd": "2026-04-30T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "First test launch of CASC’s Long March 10B rocket.",
+      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
     }
   ]
 }
