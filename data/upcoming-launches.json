@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T23:42:08.446Z",
+  "generatedAt": "2026-04-24T02:25:49.143Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 9,
   "launches": [
@@ -47,6 +47,21 @@
       "missionType": "Resupply",
       "description": "Progress resupply mission to the International Space Station.",
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
+    },
+    {
+      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
+      "missionName": "Demo Flight",
+      "rocket": "Soyuz-5",
+      "provider": "RKK Energiya",
+      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "45/1",
+      "status": "To Be Confirmed",
+      "net": "2026-04-26T11:00:00Z",
+      "windowStart": "2026-04-26T11:00:00Z",
+      "windowEnd": "2026-04-26T13:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Demonstration Flight for Russia's new Soyuz-5 launch vehicle, with a mass simulator on board. Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=45.943492,63.653014"
     },
     {
       "id": "d3a6d59f-c38d-4fcd-9f5d-b091aa14afa9",
@@ -122,21 +137,6 @@
       "missionType": "Test Flight",
       "description": "First test launch of CASC’s Long March 10B rocket.",
       "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
-    },
-    {
-      "id": "6d2beb1a-6869-4505-9fc1-a4aa224178e2",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 7A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "201",
-      "status": "To Be Determined",
-      "net": "2026-04-30T00:00:00Z",
-      "windowStart": "2026-04-30T00:00:00Z",
-      "windowEnd": "2026-04-30T00:00:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
     }
   ]
 }
