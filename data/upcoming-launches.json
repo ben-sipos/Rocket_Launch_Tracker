@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-24T02:25:49.143Z",
+  "generatedAt": "2026-04-24T05:20:33.067Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 9,
+  "total": 11,
   "launches": [
     {
       "id": "214b4db1-7112-4428-a999-29d2765c8306",
@@ -137,6 +137,36 @@
       "missionType": "Test Flight",
       "description": "First test launch of CASC’s Long March 10B rocket.",
       "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
+    },
+    {
+      "id": "6d2beb1a-6869-4505-9fc1-a4aa224178e2",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 7A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "201",
+      "status": "To Be Determined",
+      "net": "2026-04-30T00:00:00Z",
+      "windowStart": "2026-04-30T00:00:00Z",
+      "windowEnd": "2026-04-30T00:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
+    },
+    {
+      "id": "aafe107e-46d8-420c-bcb9-192069d80893",
+      "missionName": "16 x Rassvet-3",
+      "rocket": "Soyuz 2.1b",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "launchSite": "Plesetsk Cosmodrome, Russian Federation",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-04-30T00:00:00Z",
+      "windowStart": "2026-04-30T00:00:00Z",
+      "windowEnd": "2026-04-30T00:00:00Z",
+      "missionType": "Communications",
+      "description": "Note: Payload identities uncertain.\r\n\r\nBatch of 16 Rassvet-3 Low Earth Orbit communication satellites for the Russian Byuro-1440 (Bureau 1440) constellation for broadband high-speed internet access in Russia.",
+      "mapUrl": "https://www.google.com/maps?q=62.925556,40.577778"
     }
   ]
 }
