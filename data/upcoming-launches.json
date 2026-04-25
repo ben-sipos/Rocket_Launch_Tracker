@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-25T05:46:32.114Z",
+  "generatedAt": "2026-04-25T07:11:03.364Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "88ab98d8-44e9-4aae-ac0f-02006a1d7ce6",
@@ -167,6 +167,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=40.91491,100.245488"
+    },
+    {
+      "id": "6bfe08b4-a35d-4297-8de7-dec0eb678eb6",
+      "missionName": "Starlink Group 17-36",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "net": "2026-04-30T02:00:00Z",
+      "windowStart": "2026-04-30T02:00:00Z",
+      "windowEnd": "2026-04-30T06:00:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     }
   ]
 }
