@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-26T13:01:07.946Z",
+  "generatedAt": "2026-04-26T14:12:23.132Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "d3a6d59f-c38d-4fcd-9f5d-b091aa14afa9",
@@ -62,6 +62,21 @@
       "missionType": "Communications",
       "description": "Note: Payload identities uncertain.\r\n\r\nBatch of 16 Rassvet-3 Low Earth Orbit communication satellites for the Russian Byuro-1440 (Bureau 1440) constellation for broadband high-speed internet access in Russia.",
       "mapUrl": "https://www.google.com/maps?q=62.925556,40.577778"
+    },
+    {
+      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
+      "missionName": "Demo Flight",
+      "rocket": "Soyuz-5",
+      "provider": "RKK Energiya",
+      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "45/1",
+      "status": "To Be Determined",
+      "net": "2026-04-30T00:00:00Z",
+      "windowStart": "2026-04-30T00:00:00Z",
+      "windowEnd": "2026-04-30T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Demonstration Flight for Russia's new Soyuz-5 launch vehicle, with a mass simulator on board. Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=45.943492,63.653014"
     },
     {
       "id": "4aa02420-1bcb-4dd9-afa8-06d5ff89d248",
