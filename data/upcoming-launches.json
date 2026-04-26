@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-04-26T10:42:45.229Z",
+  "generatedAt": "2026-04-26T11:37:13.260Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 9,
   "launches": [
-    {
-      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
-      "missionName": "Demo Flight",
-      "rocket": "Soyuz-5",
-      "provider": "RKK Energiya",
-      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "pad": "45/1",
-      "status": "To Be Confirmed",
-      "net": "2026-04-26T11:00:00Z",
-      "windowStart": "2026-04-26T11:00:00Z",
-      "windowEnd": "2026-04-26T13:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Demonstration Flight for Russia's new Soyuz-5 launch vehicle, with a mass simulator on board. Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=45.943492,63.653014"
-    },
     {
       "id": "d3a6d59f-c38d-4fcd-9f5d-b091aa14afa9",
       "missionName": "Starlink Group 17-16",
