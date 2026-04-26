@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-26T22:03:54.530Z",
+  "generatedAt": "2026-04-26T23:05:17.202Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "4cc237b2-c61a-491e-9532-466cce81f524",
@@ -152,6 +152,21 @@
       "missionType": "Communications",
       "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
+      "missionName": "Dragon CRS-2 SpX-34",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Unknown Pad",
+      "status": "To Be Confirmed",
+      "net": "2026-05-12T23:00:00Z",
+      "windowStart": "2026-05-12T23:00:00Z",
+      "windowEnd": "2026-05-12T23:00:00Z",
+      "missionType": "Resupply",
+      "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
+      "mapUrl": "https://www.google.com/maps?q=28.458,-80.528"
     }
   ]
 }
