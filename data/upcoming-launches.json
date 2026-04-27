@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-04-27T13:46:30.336Z",
+  "generatedAt": "2026-04-27T15:45:26.039Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
-    {
-      "id": "4cc237b2-c61a-491e-9532-466cce81f524",
-      "missionName": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-      "rocket": "Falcon Heavy",
-      "provider": "SpaceX",
-      "launchSite": "Kennedy Space Center, FL, USA",
-      "pad": "Launch Complex 39A",
-      "status": "Go for Launch",
-      "net": "2026-04-27T14:21:00Z",
-      "windowStart": "2026-04-27T14:21:00Z",
-      "windowEnd": "2026-04-27T15:46:00Z",
-      "missionType": "Communications",
-      "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
-      "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
-    },
     {
       "id": "7e89e423-6f47-40a0-b075-c6fc1d9cf228",
       "missionName": "Amazon Leo (LA-06)",
@@ -32,6 +17,21 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n29 satellites are carried on this launch.",
       "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
+    },
+    {
+      "id": "4cc237b2-c61a-491e-9532-466cce81f524",
+      "missionName": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
+      "rocket": "Falcon Heavy",
+      "provider": "SpaceX",
+      "launchSite": "Kennedy Space Center, FL, USA",
+      "pad": "Launch Complex 39A",
+      "status": "To Be Confirmed",
+      "net": "2026-04-28T14:17:00Z",
+      "windowStart": "2026-04-28T14:17:00Z",
+      "windowEnd": "2026-04-28T15:42:00Z",
+      "missionType": "Communications",
+      "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
+      "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
     },
     {
       "id": "aafe107e-46d8-420c-bcb9-192069d80893",
@@ -167,6 +167,21 @@
       "missionType": "Resupply",
       "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
       "mapUrl": "https://www.google.com/maps?q=28.458,-80.528"
+    },
+    {
+      "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+      "missionName": "Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
+      "rocket": "Vega-C",
+      "provider": "Avio S.p.A",
+      "launchSite": "Guiana Space Centre, French Guiana",
+      "pad": "Ariane Launch Area 1 (ELV)",
+      "status": "Go for Launch",
+      "net": "2026-05-19T03:52:00Z",
+      "windowStart": "2026-05-19T03:52:00Z",
+      "windowEnd": "2026-05-19T03:52:00Z",
+      "missionType": "Astrophysics",
+      "description": "Joint mission between the European Space Agency and the Chinese Academy of Sciences to investigate the interaction between Earth’s protective shield – the magnetosphere – and the supersonic solar wind.",
+      "mapUrl": "https://www.google.com/maps?q=5.236,-52.775"
     }
   ]
 }
