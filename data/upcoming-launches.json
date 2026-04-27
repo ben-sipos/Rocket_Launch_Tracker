@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T17:19:19.571Z",
+  "generatedAt": "2026-04-27T18:48:24.094Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -25,10 +25,10 @@
       "provider": "SpaceX",
       "launchSite": "Kennedy Space Center, FL, USA",
       "pad": "Launch Complex 39A",
-      "status": "To Be Confirmed",
-      "net": "2026-04-28T14:17:00Z",
-      "windowStart": "2026-04-28T14:17:00Z",
-      "windowEnd": "2026-04-28T15:42:00Z",
+      "status": "Go for Launch",
+      "net": "2026-04-29T14:13:00Z",
+      "windowStart": "2026-04-29T14:13:00Z",
+      "windowEnd": "2026-04-29T15:38:00Z",
       "missionType": "Communications",
       "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
       "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
