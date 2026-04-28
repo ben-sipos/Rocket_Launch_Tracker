@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T19:05:45.732Z",
+  "generatedAt": "2026-04-28T20:47:04.409Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -47,21 +47,6 @@
       "missionType": "Test Flight",
       "description": "Demonstration Flight for Russia's new Soyuz-5 launch vehicle, with a mass simulator on board. Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=45.943492,63.653014"
-    },
-    {
-      "id": "4aa02420-1bcb-4dd9-afa8-06d5ff89d248",
-      "missionName": "Unknown Payload",
-      "rocket": "Zhuque-2E",
-      "provider": "LandSpace",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 96A",
-      "status": "To Be Determined",
-      "net": "2026-04-30T00:00:00Z",
-      "windowStart": "2026-04-30T00:00:00Z",
-      "windowEnd": "2026-04-30T00:00:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.91491,100.245488"
     },
     {
       "id": "6bfe08b4-a35d-4297-8de7-dec0eb678eb6",
@@ -167,6 +152,21 @@
       "missionType": "Astrophysics",
       "description": "Joint mission between the European Space Agency and the Chinese Academy of Sciences to investigate the interaction between Earth’s protective shield – the magnetosphere – and the supersonic solar wind.",
       "mapUrl": "https://www.google.com/maps?q=5.236,-52.775"
+    },
+    {
+      "id": "ff0a6a32-6513-4e85-9fd8-a2d022add74d",
+      "missionName": "Amazon Leo (LA-07)",
+      "rocket": "Atlas V 551",
+      "provider": "United Launch Alliance",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 41",
+      "status": "To Be Determined",
+      "net": "2026-05-22T00:00:00Z",
+      "windowStart": "2026-05-22T00:00:00Z",
+      "windowEnd": "2026-05-22T00:00:00Z",
+      "missionType": "Communications",
+      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n29 satellites are carried on this launch.",
+      "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
     }
   ]
 }
