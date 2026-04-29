@@ -1,8 +1,23 @@
 {
-  "generatedAt": "2026-04-28T23:53:24.483Z",
+  "generatedAt": "2026-04-29T02:39:31.538Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
+    {
+      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
+      "missionName": "Demo Flight",
+      "rocket": "Soyuz-5",
+      "provider": "RKK Energiya",
+      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "45/1",
+      "status": "To Be Confirmed",
+      "net": "2026-04-29T11:00:00Z",
+      "windowStart": "2026-04-29T11:00:00Z",
+      "windowEnd": "2026-04-29T13:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Demonstration Flight for Russia's new Soyuz-5 launch vehicle, with a mass simulator on board. Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=45.943492,63.653014"
+    },
     {
       "id": "4cc237b2-c61a-491e-9532-466cce81f524",
       "missionName": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
@@ -17,36 +32,6 @@
       "missionType": "Communications",
       "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
       "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
-    },
-    {
-      "id": "aafe107e-46d8-420c-bcb9-192069d80893",
-      "missionName": "16 x Rassvet-3",
-      "rocket": "Soyuz 2.1b",
-      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-      "launchSite": "Plesetsk Cosmodrome, Russian Federation",
-      "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-04-30T00:00:00Z",
-      "windowStart": "2026-04-30T00:00:00Z",
-      "windowEnd": "2026-04-30T00:00:00Z",
-      "missionType": "Communications",
-      "description": "Note: Payload identities uncertain.\r\n\r\nBatch of 16 Rassvet-3 Low Earth Orbit communication satellites for the Russian Byuro-1440 (Bureau 1440) constellation for broadband high-speed internet access in Russia.",
-      "mapUrl": "https://www.google.com/maps?q=62.925556,40.577778"
-    },
-    {
-      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
-      "missionName": "Demo Flight",
-      "rocket": "Soyuz-5",
-      "provider": "RKK Energiya",
-      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "pad": "45/1",
-      "status": "To Be Determined",
-      "net": "2026-04-30T00:00:00Z",
-      "windowStart": "2026-04-30T00:00:00Z",
-      "windowEnd": "2026-04-30T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Demonstration Flight for Russia's new Soyuz-5 launch vehicle, with a mass simulator on board. Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=45.943492,63.653014"
     },
     {
       "id": "6bfe08b4-a35d-4297-8de7-dec0eb678eb6",
@@ -129,14 +114,14 @@
       "rocket": "Falcon 9 Block 5",
       "provider": "SpaceX",
       "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Unknown Pad",
+      "pad": "Space Launch Complex 40",
       "status": "To Be Confirmed",
       "net": "2026-05-12T23:00:00Z",
       "windowStart": "2026-05-12T23:00:00Z",
       "windowEnd": "2026-05-12T23:00:00Z",
       "missionType": "Resupply",
       "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
-      "mapUrl": "https://www.google.com/maps?q=28.458,-80.528"
+      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
       "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
@@ -167,6 +152,36 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n29 satellites are carried on this launch.",
       "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
+    },
+    {
+      "id": "156a9e46-01b5-46f4-818e-ea563c71c5fe",
+      "missionName": "StriX Launch 9",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-05-31T00:00:00Z",
+      "windowStart": "2026-05-31T00:00:00Z",
+      "windowEnd": "2026-05-31T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+      "mapUrl": null
+    },
+    {
+      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
+      "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-05-31T00:00:00Z",
+      "windowStart": "2026-05-31T00:00:00Z",
+      "windowEnd": "2026-05-31T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "mapUrl": null
     }
   ]
 }
