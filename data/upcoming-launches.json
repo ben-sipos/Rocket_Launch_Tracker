@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-04-29T11:58:57.443Z",
+  "generatedAt": "2026-04-29T14:20:44.439Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "4cc237b2-c61a-491e-9532-466cce81f524",
-      "missionName": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-      "rocket": "Falcon Heavy",
-      "provider": "SpaceX",
-      "launchSite": "Kennedy Space Center, FL, USA",
-      "pad": "Launch Complex 39A",
-      "status": "Go for Launch",
-      "net": "2026-04-29T14:13:00Z",
-      "windowStart": "2026-04-29T14:13:00Z",
-      "windowEnd": "2026-04-29T15:38:00Z",
-      "missionType": "Communications",
-      "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
-      "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
-    },
     {
       "id": "6bfe08b4-a35d-4297-8de7-dec0eb678eb6",
       "missionName": "Starlink Group 17-36",
@@ -26,7 +11,7 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-04-30T02:00:00Z",
+      "net": "2026-04-30T02:37:53Z",
       "windowStart": "2026-04-30T02:00:00Z",
       "windowEnd": "2026-04-30T06:00:00Z",
       "missionType": "Communications",
@@ -55,7 +40,7 @@
       "provider": "RKK Energiya",
       "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
       "pad": "45/1",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "net": "2026-04-30T11:00:00Z",
       "windowStart": "2026-04-30T11:00:00Z",
       "windowEnd": "2026-04-30T13:00:00Z",
