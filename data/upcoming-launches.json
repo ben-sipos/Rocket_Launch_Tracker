@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T20:57:55.682Z",
+  "generatedAt": "2026-04-30T22:00:24.193Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 9,
   "launches": [
@@ -11,7 +11,7 @@
       "launchSite": "Cape Canaveral SFS, FL, USA",
       "pad": "Space Launch Complex 40",
       "status": "Go for Launch",
-      "net": "2026-05-01T17:33:00Z",
+      "net": "2026-05-01T17:35:20Z",
       "windowStart": "2026-05-01T17:33:00Z",
       "windowEnd": "2026-05-01T21:33:00Z",
       "missionType": "Communications",
@@ -115,10 +115,10 @@
       "provider": "Rocket Lab",
       "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-05-22T00:00:00Z",
-      "windowStart": "2026-05-22T00:00:00Z",
-      "windowEnd": "2026-05-22T00:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-05-22T09:30:00Z",
+      "windowStart": "2026-05-22T09:30:00Z",
+      "windowEnd": "2026-05-22T09:30:00Z",
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": null
