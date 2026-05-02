@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T18:08:15.756Z",
+  "generatedAt": "2026-05-02T19:32:58.799Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -125,7 +125,7 @@
     },
     {
       "id": "156a9e46-01b5-46f4-818e-ea563c71c5fe",
-      "missionName": "Viva La Strix (StriX Launch 9)",
+      "missionName": "Viva La StriX (StriX Launch 9)",
       "rocket": "Electron",
       "provider": "Rocket Lab",
       "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
