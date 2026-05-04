@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-04T06:09:42.853Z",
+  "generatedAt": "2026-05-04T09:02:07.730Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "dd82ccd7-9ab2-410a-ac41-306218015c05",
@@ -167,6 +167,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
+    },
+    {
+      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
+      "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-05-31T00:00:00Z",
+      "windowStart": "2026-05-31T00:00:00Z",
+      "windowEnd": "2026-05-31T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "mapUrl": null
     }
   ]
 }
