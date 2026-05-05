@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T14:14:43.644Z",
+  "generatedAt": "2026-05-05T17:58:01.398Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -11,7 +11,7 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-05-06T02:35:30Z",
+      "net": "2026-05-06T02:35:40Z",
       "windowStart": "2026-05-06T02:00:00Z",
       "windowEnd": "2026-05-06T06:00:00Z",
       "missionType": "Communications",
@@ -116,9 +116,9 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-05-16T02:11:00Z",
-      "windowStart": "2026-05-16T02:11:00Z",
-      "windowEnd": "2026-05-16T06:11:00Z",
+      "net": "2026-05-17T02:11:00Z",
+      "windowStart": "2026-05-17T02:11:00Z",
+      "windowEnd": "2026-05-17T06:11:00Z",
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
@@ -169,19 +169,19 @@
       "mapUrl": null
     },
     {
-      "id": "6d2beb1a-6869-4505-9fc1-a4aa224178e2",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 7A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "201",
-      "status": "To Be Confirmed",
-      "net": "2026-05-26T16:00:00Z",
-      "windowStart": "2026-05-26T16:00:00Z",
-      "windowEnd": "2026-05-26T22:00:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
+      "id": "ef65c43b-faf9-4adb-9155-289eaabdd097",
+      "missionName": "Starlink Group 10-31",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "status": "Go for Launch",
+      "net": "2026-05-22T11:00:00Z",
+      "windowStart": "2026-05-22T11:00:00Z",
+      "windowEnd": "2026-05-22T15:00:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     }
   ]
 }
