@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T14:02:31.639Z",
+  "generatedAt": "2026-05-06T16:13:34.054Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -49,21 +49,6 @@
       "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
     },
     {
-      "id": "24f0b5b1-f573-4cc9-8898-1eb7fd5cc0f2",
-      "missionName": "NROL-172",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "To Be Confirmed",
-      "net": "2026-05-12T22:15:00Z",
-      "windowStart": "2026-05-12T22:15:00Z",
-      "windowEnd": "2026-05-13T02:15:00Z",
-      "missionType": "Government/Top Secret",
-      "description": "Thirteenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
       "id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
       "missionName": "Dragon CRS-2 SpX-34",
       "rocket": "Falcon 9 Block 5",
@@ -77,6 +62,21 @@
       "missionType": "Resupply",
       "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
+      "id": "24f0b5b1-f573-4cc9-8898-1eb7fd5cc0f2",
+      "missionName": "NROL-172",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "status": "To Be Confirmed",
+      "net": "2026-05-13T22:01:00Z",
+      "windowStart": "2026-05-13T22:01:00Z",
+      "windowEnd": "2026-05-14T02:01:00Z",
+      "missionType": "Government/Top Secret",
+      "description": "Thirteenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.",
+      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
       "id": "ed83366c-872c-4484-97c1-bc74832304fc",
