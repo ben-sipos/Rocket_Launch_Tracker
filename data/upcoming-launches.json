@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T19:52:58.936Z",
+  "generatedAt": "2026-05-08T20:56:53.651Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -110,7 +110,7 @@
     },
     {
       "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
-      "missionName": "9 x Globalstar 2-R",
+      "missionName": "Globalstar 2-R Mission 1 (x 9)",
       "rocket": "Falcon 9 Block 5",
       "provider": "SpaceX",
       "launchSite": "Cape Canaveral SFS, FL, USA",
