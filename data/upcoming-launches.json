@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T22:08:34.863Z",
+  "generatedAt": "2026-05-10T23:13:48.466Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -11,7 +11,7 @@
       "launchSite": "Wenchang Space Launch Site, People's Republic of China",
       "pad": "201",
       "status": "Go for Launch",
-      "net": "2026-05-11T00:14:00Z",
+      "net": "2026-05-11T00:13:00Z",
       "windowStart": "2026-05-11T00:05:00Z",
       "windowEnd": "2026-05-11T00:29:00Z",
       "missionType": "Resupply",
