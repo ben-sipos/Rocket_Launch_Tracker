@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T11:57:14.486Z",
+  "generatedAt": "2026-05-10T13:23:45.618Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -139,6 +139,21 @@
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
+      "id": "aef8f8ea-522b-4bdb-9d57-212bbe981946",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 8",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-1",
+      "status": "Go for Launch",
+      "net": "2026-05-17T14:40:00Z",
+      "windowStart": "2026-05-17T14:34:00Z",
+      "windowEnd": "2026-05-17T14:57:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
+    },
+    {
       "id": "7ba18bcb-c711-4329-9fc1-7ac017fadfff",
       "missionName": "Starlink Group 17-42",
       "rocket": "Falcon 9 Block 5",
@@ -167,21 +182,6 @@
       "missionType": "Astrophysics",
       "description": "Joint mission between the European Space Agency and the Chinese Academy of Sciences to investigate the interaction between Earth’s protective shield – the magnetosphere – and the supersonic solar wind.",
       "mapUrl": "https://www.google.com/maps?q=5.236,-52.775"
-    },
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "missionName": "Demo Flight",
-      "rocket": "South Korean ADD Solid-Fuel SLV",
-      "provider": "Agency for Defense Development",
-      "launchSite": "Sea Launch",
-      "pad": "ADD Offshore launch platform",
-      "status": "To Be Confirmed",
-      "net": "2026-05-20T05:00:00Z",
-      "windowStart": "2026-05-20T05:00:00Z",
-      "windowEnd": "2026-05-20T09:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
     }
   ]
 }
