@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-12T23:56:53.623Z",
+  "generatedAt": "2026-05-13T03:36:20.585Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
@@ -152,6 +152,21 @@
       "missionType": "Test Flight",
       "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
       "mapUrl": null
+    },
+    {
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "missionName": "GISAT-1A (EOS-05)",
+      "rocket": "GSLV Mk. II",
+      "provider": "Indian Space Research Organization",
+      "launchSite": "Satish Dhawan Space Centre, India",
+      "pad": "Satish Dhawan Space Centre Second Launch Pad",
+      "status": "To Be Confirmed",
+      "net": "2026-05-21T03:15:00Z",
+      "windowStart": "2026-05-21T03:15:00Z",
+      "windowEnd": "2026-05-21T07:15:00Z",
+      "missionType": "Earth Science",
+      "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
+      "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
     }
   ]
 }
