@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T13:13:19.762Z",
+  "generatedAt": "2026-05-14T15:40:21.003Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -50,7 +50,7 @@
     },
     {
       "id": "aef8f8ea-522b-4bdb-9d57-212bbe981946",
-      "missionName": "Unknown Payload",
+      "missionName": "SpaceSail Polar Group TBD",
       "rocket": "Long March 8",
       "provider": "China Aerospace Science and Technology Corporation",
       "launchSite": "Wenchang Space Launch Site, People's Republic of China",
@@ -59,8 +59,8 @@
       "net": "2026-05-17T14:40:00Z",
       "windowStart": "2026-05-17T14:34:00Z",
       "windowEnd": "2026-05-17T14:57:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
+      "missionType": "Communications",
+      "description": "Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
     },
     {
@@ -131,27 +131,12 @@
       "launchSite": "Cape Canaveral SFS, FL, USA",
       "pad": "Space Launch Complex 40",
       "status": "Go for Launch",
-      "net": "2026-05-20T11:54:00Z",
-      "windowStart": "2026-05-20T11:54:00Z",
-      "windowEnd": "2026-05-20T12:08:00Z",
+      "net": "2026-05-20T12:04:00Z",
+      "windowStart": "2026-05-20T12:04:00Z",
+      "windowEnd": "2026-05-20T12:18:00Z",
       "missionType": "Communications",
       "description": "The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees.\r\n\r\nIn early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation refresh satellites to replenish the existing constellation. Rocket Lab is sub-contracted to build the satellites' buses and the launch dispensers.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "missionName": "GISAT-1A (EOS-05)",
-      "rocket": "GSLV Mk. II",
-      "provider": "Indian Space Research Organization",
-      "launchSite": "Satish Dhawan Space Centre, India",
-      "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "status": "To Be Confirmed",
-      "net": "2026-05-21T03:15:00Z",
-      "windowStart": "2026-05-21T03:15:00Z",
-      "windowEnd": "2026-05-21T07:15:00Z",
-      "missionType": "Earth Science",
-      "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
-      "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
     },
     {
       "id": "ef65c43b-faf9-4adb-9155-289eaabdd097",
@@ -167,6 +152,21 @@
       "missionType": "Communications",
       "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
+      "id": "156a9e46-01b5-46f4-818e-ea563c71c5fe",
+      "missionName": "Viva La StriX (StriX Launch 9)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "Go for Launch",
+      "net": "2026-05-22T09:30:00Z",
+      "windowStart": "2026-05-22T09:30:00Z",
+      "windowEnd": "2026-05-22T09:30:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+      "mapUrl": null
     }
   ]
 }
