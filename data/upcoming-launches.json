@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T05:49:22.536Z",
+  "generatedAt": "2026-05-18T09:56:37.562Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -94,6 +94,21 @@
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
+      "id": "a0e0f590-1cb4-4b6b-845c-0087633af132",
+      "missionName": "Shenzhou 23",
+      "rocket": "Long March 2F/G",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Area 91 (SLS-1 / 921)",
+      "status": "Go for Launch",
+      "net": "2026-05-24T15:08:00Z",
+      "windowStart": "2026-05-24T14:58:00Z",
+      "windowEnd": "2026-05-24T15:38:00Z",
+      "missionType": "Human Exploration",
+      "description": "Shenzhou 23 will be the 23rd flight of the Shenzhou program.",
+      "mapUrl": "https://www.google.com/maps?q=40.957893,100.290944"
+    },
+    {
       "id": "e6159040-124e-4a2a-91db-41f5a48acfd8",
       "missionName": "Starlink Group 10-47",
       "rocket": "Falcon 9 Block 5",
@@ -152,21 +167,6 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n29 satellites are carried on this launch.",
       "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
-    },
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "missionName": "GISAT-1A (EOS-05)",
-      "rocket": "GSLV Mk. II",
-      "provider": "Indian Space Research Organization",
-      "launchSite": "Satish Dhawan Space Centre, India",
-      "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "status": "To Be Determined",
-      "net": "2026-05-31T00:00:00Z",
-      "windowStart": "2026-05-31T00:00:00Z",
-      "windowEnd": "2026-05-31T00:00:00Z",
-      "missionType": "Earth Science",
-      "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
-      "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
     }
   ]
 }
