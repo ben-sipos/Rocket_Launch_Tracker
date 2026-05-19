@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-05-19T00:12:57.577Z",
+  "generatedAt": "2026-05-19T04:40:42.450Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
-      "missionName": "Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
-      "rocket": "Vega-C",
-      "provider": "Avio S.p.A",
-      "launchSite": "Guiana Space Centre, French Guiana",
-      "pad": "Ariane Launch Area 1 (ELV)",
-      "status": "Go for Launch",
-      "net": "2026-05-19T03:52:00Z",
-      "windowStart": "2026-05-19T03:52:00Z",
-      "windowEnd": "2026-05-19T03:52:00Z",
-      "missionType": "Astrophysics",
-      "description": "Joint mission between the European Space Agency and the Chinese Academy of Sciences to investigate the interaction between Earth’s protective shield – the magnetosphere – and the supersonic solar wind.",
-      "mapUrl": "https://www.google.com/maps?q=5.236,-52.775"
-    },
     {
       "id": "7ba18bcb-c711-4329-9fc1-7ac017fadfff",
       "missionName": "Starlink Group 17-42",
