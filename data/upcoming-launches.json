@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T14:03:50.521Z",
+  "generatedAt": "2026-05-20T17:38:51.079Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -124,6 +124,21 @@
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
+      "id": "384fb817-2a18-46ec-b294-613c08ecea52",
+      "missionName": "Starlink Group 10-53",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "status": "Go for Launch",
+      "net": "2026-05-29T11:52:00Z",
+      "windowStart": "2026-05-29T11:52:00Z",
+      "windowEnd": "2026-05-29T15:52:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
       "id": "ff0a6a32-6513-4e85-9fd8-a2d022add74d",
       "missionName": "Amazon Leo (LA-07)",
       "rocket": "Atlas V 551",
@@ -131,9 +146,9 @@
       "launchSite": "Cape Canaveral SFS, FL, USA",
       "pad": "Space Launch Complex 41",
       "status": "Go for Launch",
-      "net": "2026-05-29T16:27:00Z",
-      "windowStart": "2026-05-29T16:27:00Z",
-      "windowEnd": "2026-05-29T16:56:00Z",
+      "net": "2026-05-29T23:33:00Z",
+      "windowStart": "2026-05-29T23:33:00Z",
+      "windowEnd": "2026-05-30T00:02:00Z",
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n29 satellites are carried on this launch.",
       "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
@@ -152,21 +167,6 @@
       "missionType": "Earth Science",
       "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
       "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
-    },
-    {
-      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
-      "missionName": "Demo Flight",
-      "rocket": "Long March 10B",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-2",
-      "status": "To Be Determined",
-      "net": "2026-05-31T00:00:00Z",
-      "windowStart": "2026-05-31T00:00:00Z",
-      "windowEnd": "2026-05-31T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "First test launch of CASC’s Long March 10B rocket.",
-      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
     }
   ]
 }
