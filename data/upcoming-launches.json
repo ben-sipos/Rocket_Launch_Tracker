@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-05-20T00:01:46.510Z",
+  "generatedAt": "2026-05-20T04:44:39.115Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
-    {
-      "id": "7ba18bcb-c711-4329-9fc1-7ac017fadfff",
-      "missionName": "Starlink Group 17-42",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "net": "2026-05-20T02:36:00Z",
-      "windowStart": "2026-05-20T02:11:00Z",
-      "windowEnd": "2026-05-20T06:11:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
     {
       "id": "ef65c43b-faf9-4adb-9155-289eaabdd097",
       "missionName": "Starlink Group 10-31",
@@ -167,6 +152,21 @@
       "missionType": "Earth Science",
       "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
       "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
+    },
+    {
+      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
+      "missionName": "Demo Flight",
+      "rocket": "Long March 10B",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-2",
+      "status": "To Be Determined",
+      "net": "2026-05-31T00:00:00Z",
+      "windowStart": "2026-05-31T00:00:00Z",
+      "windowEnd": "2026-05-31T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "First test launch of CASC’s Long March 10B rocket.",
+      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
     }
   ]
 }
