@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T21:10:41.323Z",
+  "generatedAt": "2026-05-21T22:48:17.248Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -11,7 +11,7 @@
       "launchSite": "SpaceX Starbase, TX, USA",
       "pad": "Orbital Launch Pad 2",
       "status": "Go for Launch",
-      "net": "2026-05-21T22:30:01Z",
+      "net": "2026-05-21T23:30:00Z",
       "windowStart": "2026-05-21T22:30:00Z",
       "windowEnd": "2026-05-22T00:00:00Z",
       "missionType": "Test Flight",
@@ -154,19 +154,19 @@
       "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
     },
     {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "missionName": "Demo Flight",
-      "rocket": "South Korean ADD Solid-Fuel SLV",
-      "provider": "Agency for Defense Development",
-      "launchSite": "Sea Launch",
-      "pad": "ADD Offshore launch platform",
+      "id": "aafe107e-46d8-420c-bcb9-192069d80893",
+      "missionName": "16 x Rassvet-3",
+      "rocket": "Soyuz 2.1b",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "launchSite": "Plesetsk Cosmodrome, Russian Federation",
+      "pad": "Unknown Pad",
       "status": "To Be Determined",
       "net": "2026-05-31T00:00:00Z",
       "windowStart": "2026-05-31T00:00:00Z",
       "windowEnd": "2026-05-31T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
+      "missionType": "Communications",
+      "description": "Note: Payload identities uncertain.\r\n\r\nBatch of 16 Rassvet-3 Low Earth Orbit communication satellites for the Russian Byuro-1440 (Bureau 1440) constellation for broadband high-speed internet access in Russia.",
+      "mapUrl": "https://www.google.com/maps?q=62.925556,40.577778"
     }
   ]
 }
