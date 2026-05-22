@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T23:59:32.203Z",
+  "generatedAt": "2026-05-22T04:22:24.995Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -25,7 +25,7 @@
       "provider": "SpaceX",
       "launchSite": "SpaceX Starbase, TX, USA",
       "pad": "Orbital Launch Pad 2",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "net": "2026-05-22T22:30:00Z",
       "windowStart": "2026-05-22T22:30:00Z",
       "windowEnd": "2026-05-23T00:00:00Z",
