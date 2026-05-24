@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T23:28:58.522Z",
+  "generatedAt": "2026-05-24T01:30:24.539Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -154,6 +154,21 @@
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "missionName": "GISAT-1A (EOS-05)",
+      "rocket": "GSLV Mk. II",
+      "provider": "Indian Space Research Organization",
+      "launchSite": "Satish Dhawan Space Centre, India",
+      "pad": "Satish Dhawan Space Centre Second Launch Pad",
+      "status": "To Be Determined",
+      "net": "2026-06-10T00:00:00Z",
+      "windowStart": "2026-06-10T00:00:00Z",
+      "windowEnd": "2026-06-10T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
+      "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
+    },
+    {
       "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
       "missionName": "H3-30 Test Flight",
       "rocket": "H3-30",
@@ -167,21 +182,6 @@
       "missionType": "Test Flight",
       "description": "Test flight of the H3-30 variant of the H3 launch vehicle with 3 LE-9 engines in the first stage and no SRBs. The flight will carry a dummy main payload (Vehicle Evaluation Payload 5, VEP-5) and several hitchhiking small satellites:\r\n\r\n* PETREL\r\n\r\n* STARS-X\r\n\r\n* BRO-22\r\n\r\n* VERTECS\r\n\r\n* HORN-L/R",
       "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
-    },
-    {
-      "id": "c7b7e18f-1b42-467e-a8ed-181fb58080e8",
-      "missionName": "Starlink Group 17-44",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "net": "2026-06-10T14:00:00Z",
-      "windowStart": "2026-06-10T14:00:00Z",
-      "windowEnd": "2026-06-10T18:00:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     }
   ]
 }
