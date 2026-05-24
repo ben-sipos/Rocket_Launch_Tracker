@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-05-24T14:48:33.242Z",
+  "generatedAt": "2026-05-24T15:59:03.574Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "a0e0f590-1cb4-4b6b-845c-0087633af132",
-      "missionName": "Shenzhou 23",
-      "rocket": "Long March 2F/G",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 91 (SLS-1 / 921)",
-      "status": "Go for Launch",
-      "net": "2026-05-24T15:08:00Z",
-      "windowStart": "2026-05-24T14:58:00Z",
-      "windowEnd": "2026-05-24T15:38:00Z",
-      "missionType": "Human Exploration",
-      "description": "Shenzhou 23 will be the 23rd flight of the Shenzhou program.",
-      "mapUrl": "https://www.google.com/maps?q=40.957893,100.290944"
-    },
     {
       "id": "e6159040-124e-4a2a-91db-41f5a48acfd8",
       "missionName": "Starlink Group 10-47",
