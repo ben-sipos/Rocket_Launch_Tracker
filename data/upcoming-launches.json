@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T06:43:34.188Z",
+  "generatedAt": "2026-05-26T13:51:56.877Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "75a35be5-b3bd-4591-b978-9a876da9fa96",
@@ -167,6 +167,21 @@
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
+      "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-06-30T00:00:00Z",
+      "windowStart": "2026-06-30T00:00:00Z",
+      "windowEnd": "2026-06-30T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "mapUrl": null
     }
   ]
 }
