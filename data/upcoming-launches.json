@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-05-29T12:13:02.950Z",
+  "generatedAt": "2026-05-29T16:13:36.553Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "384fb817-2a18-46ec-b294-613c08ecea52",
-      "missionName": "Starlink Group 10-53",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
-      "net": "2026-05-29T12:57:15Z",
-      "windowStart": "2026-05-29T11:52:00Z",
-      "windowEnd": "2026-05-29T15:52:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
     {
       "id": "ff0a6a32-6513-4e85-9fd8-a2d022add74d",
       "missionName": "Amazon Leo (LA-07)",
