@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T00:08:42.187Z",
+  "generatedAt": "2026-05-29T04:51:43.822Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -124,21 +124,6 @@
       "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
     },
     {
-      "id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
-      "missionName": "Amazon Leo (LN-01)",
-      "rocket": "New Glenn",
-      "provider": "Blue Origin",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Launch Complex 36A",
-      "status": "To Be Confirmed",
-      "net": "2026-06-04T17:21:00Z",
-      "windowStart": "2026-06-04T17:21:00Z",
-      "windowEnd": "2026-06-04T19:30:00Z",
-      "missionType": "Communications",
-      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n48 satellites will be carried on this New Glenn launch.",
-      "mapUrl": "https://www.google.com/maps?q=28.4705556,-80.542194"
-    },
-    {
       "id": "3dd21d77-a37d-419c-86fb-8591fe256583",
       "missionName": "Unknown Payload",
       "rocket": "Long March 8",
@@ -182,6 +167,21 @@
       "missionType": "Earth Science",
       "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
       "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
+    },
+    {
+      "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
+      "missionName": "H3-30 Test Flight",
+      "rocket": "H3-30",
+      "provider": "Mitsubishi Heavy Industries",
+      "launchSite": "Tanegashima Space Center, Japan",
+      "pad": "Yoshinobu Launch Complex LP-2",
+      "status": "Go for Launch",
+      "net": "2026-06-10T00:53:59Z",
+      "windowStart": "2026-06-10T00:53:59Z",
+      "windowEnd": "2026-06-10T02:52:46Z",
+      "missionType": "Test Flight",
+      "description": "Test flight of the H3-30 variant of the H3 launch vehicle with 3 LE-9 engines in the first stage and no SRBs. The flight will carry a dummy main payload (Vehicle Evaluation Payload 5, VEP-5) and several hitchhiking small satellites:\r\n\r\n* PETREL\r\n\r\n* STARS-X\r\n\r\n* BRO-22\r\n\r\n* VERTECS\r\n\r\n* HORN-L/R",
+      "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
     }
   ]
 }
