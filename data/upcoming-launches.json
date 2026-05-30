@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-05-30T16:59:39.857Z",
+  "generatedAt": "2026-05-30T18:08:24.410Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 9,
   "launches": [
-    {
-      "id": "0ab3587d-bb8c-4515-a321-2ec154840659",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 2D",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Xichang Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Complex 3 (LC-3/LA-1)",
-      "status": "Go for Launch",
-      "net": "2026-05-30T18:07:00Z",
-      "windowStart": "2026-05-30T17:57:00Z",
-      "windowEnd": "2026-05-30T18:17:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=28.247059,102.029008"
-    },
     {
       "id": "cfff5e89-af2e-46b1-9446-7b0f18de4ef7",
       "missionName": "Starlink Group 10-43",
