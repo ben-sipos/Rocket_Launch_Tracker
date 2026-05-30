@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-30T12:45:33.687Z",
+  "generatedAt": "2026-05-30T14:27:02.285Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "a7341350-789e-4f61-99a4-a61ebc40c05b",
@@ -152,6 +152,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=36.631333,121.198361"
+    },
+    {
+      "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
+      "missionName": "H3-30 Test Flight",
+      "rocket": "H3-30",
+      "provider": "Mitsubishi Heavy Industries",
+      "launchSite": "Tanegashima Space Center, Japan",
+      "pad": "Yoshinobu Launch Complex LP-2",
+      "status": "Go for Launch",
+      "net": "2026-06-10T00:53:59Z",
+      "windowStart": "2026-06-10T00:53:59Z",
+      "windowEnd": "2026-06-10T02:52:46Z",
+      "missionType": "Test Flight",
+      "description": "Test flight of the H3-30 variant of the H3 launch vehicle with 3 LE-9 engines in the first stage and no SRBs. The flight will carry a dummy main payload (Vehicle Evaluation Payload 5, VEP-5) and several hitchhiking small satellites:\r\n\r\n* PETREL\r\n\r\n* STARS-X\r\n\r\n* BRO-22\r\n\r\n* VERTECS\r\n\r\n* HORN-L/R",
+      "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
     }
   ]
 }
