@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T03:39:14.319Z",
+  "generatedAt": "2026-06-02T08:26:17.075Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -55,10 +55,10 @@
       "provider": "China Aerospace Science and Technology Corporation",
       "launchSite": "Wenchang Space Launch Site, People's Republic of China",
       "pad": "Commercial LC-1",
-      "status": "To Be Confirmed",
-      "net": "2026-06-05T05:00:00Z",
-      "windowStart": "2026-06-05T05:00:00Z",
-      "windowEnd": "2026-06-05T09:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-06-05T06:30:00Z",
+      "windowStart": "2026-06-05T06:25:00Z",
+      "windowEnd": "2026-06-05T06:48:00Z",
       "missionType": "Unknown",
       "description": "Details TBD, probably SpaceSail Polar Orbit LEO communication satellites.",
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
@@ -94,21 +94,6 @@
       "mapUrl": null
     },
     {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "missionName": "GISAT-1A (EOS-05)",
-      "rocket": "GSLV Mk. II",
-      "provider": "Indian Space Research Organization",
-      "launchSite": "Satish Dhawan Space Centre, India",
-      "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "status": "To Be Determined",
-      "net": "2026-06-10T00:00:00Z",
-      "windowStart": "2026-06-10T00:00:00Z",
-      "windowEnd": "2026-06-10T00:00:00Z",
-      "missionType": "Earth Science",
-      "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
-      "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
-    },
-    {
       "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
       "missionName": "Unknown Payload",
       "rocket": "Smart Dragon 3",
@@ -137,6 +122,21 @@
       "missionType": "Test Flight",
       "description": "Test flight of the H3-30 variant of the H3 launch vehicle with 3 LE-9 engines in the first stage and no SRBs. The flight will carry a dummy main payload (Vehicle Evaluation Payload 5, VEP-5) and several hitchhiking small satellites:\r\n\r\n* PETREL\r\n\r\n* STARS-X\r\n\r\n* BRO-22\r\n\r\n* VERTECS\r\n\r\n* HORN-L/R",
       "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
+    },
+    {
+      "id": "2670e4f1-d58b-4787-9c3f-f9eb03349513",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 5",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "101",
+      "status": "To Be Confirmed",
+      "net": "2026-06-10T06:00:00Z",
+      "windowStart": "2026-06-10T06:00:00Z",
+      "windowEnd": "2026-06-10T10:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=19.614334,110.951011"
     },
     {
       "id": "c7b7e18f-1b42-467e-a8ed-181fb58080e8",
