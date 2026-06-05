@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-06-05T03:29:25.657Z",
+  "generatedAt": "2026-06-05T07:52:45.245Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 9,
   "launches": [
-    {
-      "id": "3dd21d77-a37d-419c-86fb-8591fe256583",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 8",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-1",
-      "status": "Go for Launch",
-      "net": "2026-06-05T06:30:00Z",
-      "windowStart": "2026-06-05T06:25:00Z",
-      "windowEnd": "2026-06-05T06:48:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD, probably SpaceSail Polar Orbit LEO communication satellites.",
-      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
-    },
     {
       "id": "af8d71dd-f439-47b3-91ed-57f959a581e0",
       "missionName": "Starlink Group 17-43",
