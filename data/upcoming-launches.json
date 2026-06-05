@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-05T07:52:45.245Z",
+  "generatedAt": "2026-06-05T11:24:53.611Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 9,
+  "total": 10,
   "launches": [
     {
       "id": "af8d71dd-f439-47b3-91ed-57f959a581e0",
@@ -137,6 +137,21 @@
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "0ff43072-5407-425b-8c8d-6bca068143b9",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 3B/E",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Xichang Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 2 (LC-2)",
+      "status": "To Be Confirmed",
+      "net": "2026-06-16T08:00:00Z",
+      "windowStart": "2026-06-16T08:00:00Z",
+      "windowEnd": "2026-06-16T12:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=28.245504,102.026768"
     }
   ]
 }
