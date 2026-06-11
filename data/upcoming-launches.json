@@ -1,38 +1,8 @@
 {
-  "generatedAt": "2026-06-11T03:57:57.373Z",
+  "generatedAt": "2026-06-11T08:48:48.531Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 10,
   "launches": [
-    {
-      "id": "e6cefffc-19a6-4a4b-a7f0-ebe907d5a6aa",
-      "missionName": "Curveball",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Wallops Flight Facility, Virginia, USA",
-      "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-      "status": "Go for Launch",
-      "net": "2026-06-11T04:00:00Z",
-      "windowStart": "2026-06-11T04:00:00Z",
-      "windowEnd": "2026-06-11T09:15:00Z",
-      "missionType": "Government/Top Secret",
-      "description": "Sub-orbital launch under Rocket Lab’s Hypersonic Accelerator Suborbital Test Electron (HASTE) program, details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=37.833262,-75.488235"
-    },
-    {
-      "id": "2670e4f1-d58b-4787-9c3f-f9eb03349513",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 5",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "101",
-      "status": "Go for Launch",
-      "net": "2026-06-11T07:30:00Z",
-      "windowStart": "2026-06-11T07:22:00Z",
-      "windowEnd": "2026-06-11T08:40:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=19.614334,110.951011"
-    },
     {
       "id": "c7b7e18f-1b42-467e-a8ed-181fb58080e8",
       "missionName": "Starlink Group 17-44",
