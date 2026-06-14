@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T08:12:49.723Z",
+  "generatedAt": "2026-06-14T11:11:59.522Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -40,7 +40,7 @@
       "provider": "Isar Aerospace",
       "launchSite": "Andøya Spaceport",
       "pad": "Orbital Launch Pad",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "net": "2026-06-15T20:00:00Z",
       "windowStart": "2026-06-15T20:00:00Z",
       "windowEnd": "2026-06-15T21:00:00Z",
