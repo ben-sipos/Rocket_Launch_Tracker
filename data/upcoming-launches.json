@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-06-15T01:58:41.889Z",
+  "generatedAt": "2026-06-15T07:28:06.159Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "ffc0aee1-fdd7-4638-b098-9d0c01b40663",
-      "missionName": "Unknown Payload",
-      "rocket": "Kinetica 1",
-      "provider": "CAS Space",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 130",
-      "status": "Go for Launch",
-      "net": "2026-06-15T03:40:00Z",
-      "windowStart": "2026-06-15T03:34:00Z",
-      "windowEnd": "2026-06-15T03:55:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.8182,100.22514"
-    },
     {
       "id": "bad5ea8c-8b17-4cb3-a063-d427fb092275",
       "missionName": "Starlink Group 17-54",
