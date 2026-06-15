@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-06-15T18:22:27.741Z",
+  "generatedAt": "2026-06-15T21:29:28.160Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "missionName": "Onward and Upward",
-      "rocket": "Spectrum",
-      "provider": "Isar Aerospace",
-      "launchSite": "Andøya Spaceport",
-      "pad": "Orbital Launch Pad",
-      "status": "Go for Launch",
-      "net": "2026-06-15T20:00:00Z",
-      "windowStart": "2026-06-15T20:00:00Z",
-      "windowEnd": "2026-06-15T21:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
-      "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
-    },
     {
       "id": "0ff43072-5407-425b-8c8d-6bca068143b9",
       "missionName": "Unknown Payload",
@@ -32,6 +17,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=28.245504,102.026768"
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "missionName": "Onward and Upward",
+      "rocket": "Spectrum",
+      "provider": "Isar Aerospace",
+      "launchSite": "Andøya Spaceport",
+      "pad": "Orbital Launch Pad",
+      "status": "To Be Confirmed",
+      "net": "2026-06-16T20:00:00Z",
+      "windowStart": "2026-06-16T20:00:00Z",
+      "windowEnd": "2026-06-16T21:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
+      "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
     },
     {
       "id": "756a042f-3da8-4a21-bb42-5996fc148050",
