@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T23:19:57.609Z",
+  "generatedAt": "2026-06-16T02:05:39.891Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
@@ -17,21 +17,6 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=28.245504,102.026768"
-    },
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "missionName": "Onward and Upward",
-      "rocket": "Spectrum",
-      "provider": "Isar Aerospace",
-      "launchSite": "Andøya Spaceport",
-      "pad": "Orbital Launch Pad",
-      "status": "To Be Confirmed",
-      "net": "2026-06-16T20:00:00Z",
-      "windowStart": "2026-06-16T20:00:00Z",
-      "windowEnd": "2026-06-16T21:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
-      "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
     },
     {
       "id": "756a042f-3da8-4a21-bb42-5996fc148050",
@@ -152,6 +137,21 @@
       "missionType": "Technology",
       "description": "Note: Mission profile and payload details are TBD.\r\n\r\nDemonstration mission for SpaceX’s Project Starfall, which aims to mass-produce reentry capsules designed to autonomously transport valuable customer experiments and other payloads safely back from space to Earth, including for in-orbit manufacturing. \r\n\r\nStarfall is a cylindrical shaped capsule approximately 0.75 meters tall with a diameter of 3.1 meters, weighing approximately 2100 kilograms, and capable of carrying 1000 kilograms of payload. It is designed to be carried on Starship flights.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
+      "id": "f72c6ea1-dc44-4f0e-bb51-1c52eff9efe8",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 7A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "201",
+      "status": "To Be Confirmed",
+      "net": "2026-06-23T02:00:00Z",
+      "windowStart": "2026-06-23T02:00:00Z",
+      "windowEnd": "2026-06-23T06:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
     }
   ]
 }
