@@ -1,53 +1,8 @@
 {
-  "generatedAt": "2026-06-17T02:00:15.822Z",
+  "generatedAt": "2026-06-17T07:22:25.996Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 8,
   "launches": [
-    {
-      "id": "756a042f-3da8-4a21-bb42-5996fc148050",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 12",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-2",
-      "status": "Go for Launch",
-      "net": "2026-06-17T02:45:00Z",
-      "windowStart": "2026-06-17T02:37:00Z",
-      "windowEnd": "2026-06-17T03:06:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
-    },
-    {
-      "id": "cf655887-1cc5-4ef5-b8be-2821d5af17c9",
-      "missionName": "Unknown Payload",
-      "rocket": "Kuaizhou 11",
-      "provider": "ExPace",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 95A",
-      "status": "Go for Launch",
-      "net": "2026-06-17T03:40:00Z",
-      "windowStart": "2026-06-17T03:31:00Z",
-      "windowEnd": "2026-06-17T04:10:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.969117,100.343333"
-    },
-    {
-      "id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
-      "missionName": "BlueBird Block 2 #3-5",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
-      "net": "2026-06-17T06:39:00Z",
-      "windowStart": "2026-06-17T06:39:00Z",
-      "windowEnd": "2026-06-17T08:15:00Z",
-      "missionType": "Communications",
-      "description": "AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites.",
-      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
     {
       "id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
       "missionName": "Amazon Leo (LE-03)",
@@ -62,21 +17,6 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n36 satellites will be carried on this Ariane 6 launch.",
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
-    },
-    {
-      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
-      "missionName": "Ten Owl Of Ten (StriX Launch 10)",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Unknown Pad",
-      "status": "Go for Launch",
-      "net": "2026-06-17T20:40:00Z",
-      "windowStart": "2026-06-17T20:40:00Z",
-      "windowEnd": "2026-06-17T20:40:00Z",
-      "missionType": "Earth Science",
-      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
-      "mapUrl": null
     },
     {
       "id": "5d4099bf-a0be-4f54-b236-b6ab3aed4146",
@@ -167,6 +107,21 @@
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "missionName": "Swift Boost Mission",
+      "rocket": "Pegasus XL",
+      "provider": "Northrop Grumman Space Systems",
+      "launchSite": "Air launch to orbit",
+      "pad": "Kwajalein Atoll",
+      "status": "To Be Confirmed",
+      "net": "2026-06-27T09:00:00Z",
+      "windowStart": "2026-06-27T09:00:00Z",
+      "windowEnd": "2026-06-27T14:28:00Z",
+      "missionType": "Mission Extension",
+      "description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA’s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission’s science lifetime in gamma ray astronomy.",
+      "mapUrl": "https://www.google.com/maps?q=8.716667,167.733333"
     }
   ]
 }
