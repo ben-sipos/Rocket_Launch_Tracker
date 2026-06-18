@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-18T05:15:03.944Z",
+  "generatedAt": "2026-06-18T09:52:05.797Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "5d4099bf-a0be-4f54-b236-b6ab3aed4146",
@@ -55,10 +55,10 @@
       "provider": "China Aerospace Science and Technology Corporation",
       "launchSite": "Wenchang Space Launch Site, People's Republic of China",
       "pad": "201",
-      "status": "To Be Confirmed",
-      "net": "2026-06-23T02:00:00Z",
-      "windowStart": "2026-06-23T02:00:00Z",
-      "windowEnd": "2026-06-23T06:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-06-23T02:10:00Z",
+      "windowStart": "2026-06-23T02:02:00Z",
+      "windowEnd": "2026-06-23T03:00:00Z",
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
@@ -85,7 +85,7 @@
       "provider": "Northrop Grumman Space Systems",
       "launchSite": "Air launch to orbit",
       "pad": "Kwajalein Atoll",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "net": "2026-06-27T09:00:00Z",
       "windowStart": "2026-06-27T09:00:00Z",
       "windowEnd": "2026-06-27T14:28:00Z",
@@ -152,6 +152,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=36.631333,121.198361"
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "missionName": "Demo Flight",
+      "rocket": "South Korean ADD Solid-Fuel SLV",
+      "provider": "Agency for Defense Development",
+      "launchSite": "Sea Launch",
+      "pad": "ADD Offshore launch platform",
+      "status": "To Be Determined",
+      "net": "2026-06-30T00:00:00Z",
+      "windowStart": "2026-06-30T00:00:00Z",
+      "windowEnd": "2026-06-30T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+      "mapUrl": null
     }
   ]
 }
