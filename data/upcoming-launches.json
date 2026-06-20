@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-20T08:19:40.095Z",
+  "generatedAt": "2026-06-20T10:56:09.604Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "de5fbae3-66b9-4bbf-8938-4d55f3318c07",
@@ -167,6 +167,21 @@
       "missionType": "Test Flight",
       "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
       "mapUrl": null
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "missionName": "Onward and Upward",
+      "rocket": "Spectrum",
+      "provider": "Isar Aerospace",
+      "launchSite": "Andøya Spaceport",
+      "pad": "Orbital Launch Pad",
+      "status": "To Be Determined",
+      "net": "2026-06-30T00:00:00Z",
+      "windowStart": "2026-06-30T00:00:00Z",
+      "windowEnd": "2026-06-30T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
+      "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
     }
   ]
 }
