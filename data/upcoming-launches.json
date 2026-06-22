@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T08:36:29.540Z",
+  "generatedAt": "2026-06-22T14:34:19.726Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -79,6 +79,21 @@
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
+      "id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
+      "missionName": "Sirius SXM-11",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "status": "To Be Confirmed",
+      "net": "2026-06-29T02:25:00Z",
+      "windowStart": "2026-06-29T02:25:00Z",
+      "windowEnd": "2026-06-29T07:04:00Z",
+      "missionType": "Communications",
+      "description": "SXM-11 is the 12th high-powered, digital, audio radio satellite built by Lanteris Space (ex-Maxar, Space System/Loral) for SiriusXM. The SXM-11 satellite will be based on the proven IM-1300 (ex-LS-1300)-class platform and built at the company’s manufacturing facility in Palo Alto, California. SXM-11 has a large, mesh, unfurlable reflector almost 10 meters in diameter that allows SiriusXM programming to reach its radios, including those in moving vehicles.",
+      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
       "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
       "missionName": "Ten Owl Of Ten (StriX Launch 10)",
       "rocket": "Electron",
@@ -152,21 +167,6 @@
       "missionType": "Test Flight",
       "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
       "mapUrl": null
-    },
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "missionName": "Onward and Upward",
-      "rocket": "Spectrum",
-      "provider": "Isar Aerospace",
-      "launchSite": "Andøya Spaceport",
-      "pad": "Orbital Launch Pad",
-      "status": "To Be Determined",
-      "net": "2026-06-30T00:00:00Z",
-      "windowStart": "2026-06-30T00:00:00Z",
-      "windowEnd": "2026-06-30T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
-      "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
     }
   ]
 }
