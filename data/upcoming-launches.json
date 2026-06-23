@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T12:30:14.544Z",
+  "generatedAt": "2026-06-23T15:36:37.666Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
@@ -64,6 +64,21 @@
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "missionName": "Demo Flight",
+      "rocket": "South Korean ADD Solid-Fuel SLV",
+      "provider": "Agency for Defense Development",
+      "launchSite": "Sea Launch",
+      "pad": "ADD Offshore launch platform",
+      "status": "Go for Launch",
+      "net": "2026-06-29T05:00:00Z",
+      "windowStart": "2026-06-29T05:00:00Z",
+      "windowEnd": "2026-06-29T09:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+      "mapUrl": null
+    },
+    {
       "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
       "missionName": "Ten Owl Of Ten (StriX Launch 10)",
       "rocket": "Electron",
@@ -109,36 +124,6 @@
       "mapUrl": "https://www.google.com/maps?q=36.631333,121.198361"
     },
     {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "missionName": "Demo Flight",
-      "rocket": "South Korean ADD Solid-Fuel SLV",
-      "provider": "Agency for Defense Development",
-      "launchSite": "Sea Launch",
-      "pad": "ADD Offshore launch platform",
-      "status": "To Be Determined",
-      "net": "2026-06-30T00:00:00Z",
-      "windowStart": "2026-06-30T00:00:00Z",
-      "windowEnd": "2026-06-30T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
-    },
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "missionName": "Onward and Upward",
-      "rocket": "Spectrum",
-      "provider": "Isar Aerospace",
-      "launchSite": "Andøya Spaceport",
-      "pad": "Orbital Launch Pad",
-      "status": "To Be Determined",
-      "net": "2026-06-30T00:00:00Z",
-      "windowStart": "2026-06-30T00:00:00Z",
-      "windowEnd": "2026-06-30T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
-      "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
-    },
-    {
       "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
       "missionName": "T1H-1",
       "rocket": "Themis Demonstrator",
@@ -152,6 +137,21 @@
       "missionType": "Test Flight",
       "description": "First low-altitude hop test of a Themis demonstrator, with a targeted altitude up to 100 m.",
       "mapUrl": "https://www.google.com/maps?q=67.877368,21.165001"
+    },
+    {
+      "id": "a8d8d683-3ab0-40ab-beb0-e66bb55afd91",
+      "missionName": "Demo Flight",
+      "rocket": "Nebula-1",
+      "provider": "Deep Blue Aerospace",
+      "launchSite": "Haiyang Oriental Spaceport",
+      "pad": "Land Launch Pad 1",
+      "status": "To Be Determined",
+      "net": "2026-06-30T00:00:00Z",
+      "windowStart": "2026-06-30T00:00:00Z",
+      "windowEnd": "2026-06-30T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "First test launch of Deep Blue Aerospace’s Nebula-1 rocket.\r\n\r\nThe test flight profile is reported to be sub-orbital.",
+      "mapUrl": "https://www.google.com/maps?q=36.664312,121.188333"
     }
   ]
 }
