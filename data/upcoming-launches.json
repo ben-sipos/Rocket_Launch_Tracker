@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-06-23T01:29:07.580Z",
+  "generatedAt": "2026-06-23T05:46:07.184Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "f72c6ea1-dc44-4f0e-bb51-1c52eff9efe8",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 7A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "201",
-      "status": "Go for Launch",
-      "net": "2026-06-23T02:10:00Z",
-      "windowStart": "2026-06-23T02:02:00Z",
-      "windowEnd": "2026-06-23T03:00:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
-    },
     {
       "id": "74bf8472-9ba1-42d6-9245-b014f8e91de9",
       "missionName": "Project Starfall Demonstration Mission",
