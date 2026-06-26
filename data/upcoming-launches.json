@@ -1,8 +1,23 @@
 {
-  "generatedAt": "2026-06-25T23:51:05.882Z",
+  "generatedAt": "2026-06-26T03:23:40.009Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
+    {
+      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
+      "missionName": "Ten Owl Of Ten (StriX Launch 10)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "Go for Launch",
+      "net": "2026-06-26T16:45:00Z",
+      "windowStart": "2026-06-26T16:45:00Z",
+      "windowEnd": "2026-06-26T16:45:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+      "mapUrl": null
+    },
     {
       "id": "f596ad48-881e-47d6-806d-113c6dd97427",
       "missionName": "Swift Boost Mission",
@@ -61,21 +76,6 @@
       "windowEnd": "2026-06-29T09:00:00Z",
       "missionType": "Test Flight",
       "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
-    },
-    {
-      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
-      "missionName": "Ten Owl Of Ten (StriX Launch 10)",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-06-30T00:00:00Z",
-      "windowStart": "2026-06-30T00:00:00Z",
-      "windowEnd": "2026-06-30T00:00:00Z",
-      "missionType": "Earth Science",
-      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": null
     },
     {
