@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T10:35:11.228Z",
+  "generatedAt": "2026-06-26T13:08:25.976Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -17,21 +17,6 @@
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": null
-    },
-    {
-      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
-      "missionName": "Swift Boost Mission",
-      "rocket": "Pegasus XL",
-      "provider": "Northrop Grumman Space Systems",
-      "launchSite": "Air launch to orbit",
-      "pad": "Kwajalein Atoll",
-      "status": "Go for Launch",
-      "net": "2026-06-27T09:00:00Z",
-      "windowStart": "2026-06-27T09:00:00Z",
-      "windowEnd": "2026-06-27T14:28:00Z",
-      "missionType": "Mission Extension",
-      "description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA’s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission’s science lifetime in gamma ray astronomy.",
-      "mapUrl": "https://www.google.com/maps?q=8.716667,167.733333"
     },
     {
       "id": "0740c699-9877-4331-8aef-4e29ea6281c0",
@@ -94,6 +79,36 @@
       "mapUrl": null
     },
     {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "missionName": "Swift Boost Mission",
+      "rocket": "Pegasus XL",
+      "provider": "Northrop Grumman Space Systems",
+      "launchSite": "Air launch to orbit",
+      "pad": "Kwajalein Atoll",
+      "status": "Go for Launch",
+      "net": "2026-06-30T07:30:00Z",
+      "windowStart": "2026-06-30T07:30:00Z",
+      "windowEnd": "2026-06-30T13:28:00Z",
+      "missionType": "Mission Extension",
+      "description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA’s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission’s science lifetime in gamma ray astronomy.",
+      "mapUrl": "https://www.google.com/maps?q=8.716667,167.733333"
+    },
+    {
+      "id": "2bedbf8c-8df2-4e24-8397-8c2a08fab581",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 4C",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Area 94 (SLS-2 / 603)",
+      "status": "Go for Launch",
+      "net": "2026-07-01T23:45:00Z",
+      "windowStart": "2026-07-01T23:38:00Z",
+      "windowEnd": "2026-07-02T00:07:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=40.960482,100.298059"
+    },
+    {
       "id": "491122a3-3eff-42db-aff3-424b3431fc0b",
       "missionName": "Starlink Group 17-46",
       "rocket": "Falcon 9 Block 5",
@@ -124,6 +139,21 @@
       "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
     },
     {
+      "id": "888e0de3-ce4d-4daf-8140-bb0d3a4c8245",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 8",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-1",
+      "status": "To Be Confirmed",
+      "net": "2026-07-02T12:00:00Z",
+      "windowStart": "2026-07-02T12:00:00Z",
+      "windowEnd": "2026-07-02T15:30:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
+    },
+    {
       "id": "1ef27ca1-af91-48bb-b934-3da5abd9f711",
       "missionName": "Starlink Group 10-50",
       "rocket": "Falcon 9 Block 5",
@@ -139,49 +169,19 @@
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
-      "id": "135fb199-a39e-48cc-ba27-0aecd96ba9f8",
-      "missionName": "Starlink Group 17-48",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
+      "id": "9e0f6efb-4742-4ba3-9fd4-4ea218576c71",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 6A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 9A",
       "status": "Go for Launch",
-      "net": "2026-07-06T14:00:00Z",
-      "windowStart": "2026-07-06T14:00:00Z",
-      "windowEnd": "2026-07-06T18:00:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
-      "id": "62d4cd48-ed28-418b-b58c-526781a50a39",
-      "missionName": "Starlink Group 10-42",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
-      "net": "2026-07-09T09:05:00Z",
-      "windowStart": "2026-07-09T09:05:00Z",
-      "windowEnd": "2026-07-09T13:05:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
-    {
-      "id": "a556b963-0f36-4660-95a8-fdffdba653e2",
-      "missionName": "Soyuz MS-29",
-      "rocket": "Soyuz 2.1a",
-      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "pad": "31/6",
-      "status": "To Be Confirmed",
-      "net": "2026-07-14T14:43:00Z",
-      "windowStart": "2026-07-14T14:43:00Z",
-      "windowEnd": "2026-07-14T14:43:00Z",
-      "missionType": "Human Exploration",
-      "description": "Soyuz MS-29 will carry three cosmonauts and one astronaut to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. The crew consists of Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, as well as NASA astronaut Anil Menon.",
-      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
+      "net": "2026-07-04T09:31:00Z",
+      "windowStart": "2026-07-04T09:21:00Z",
+      "windowEnd": "2026-07-04T09:41:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
     }
   ]
 }
