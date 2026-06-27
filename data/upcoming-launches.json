@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T15:01:22.664Z",
+  "generatedAt": "2026-06-27T16:36:52.572Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -130,10 +130,10 @@
       "provider": "China Aerospace Science and Technology Corporation",
       "launchSite": "Wenchang Space Launch Site, People's Republic of China",
       "pad": "Commercial LC-1",
-      "status": "To Be Confirmed",
-      "net": "2026-07-02T12:00:00Z",
-      "windowStart": "2026-07-02T12:00:00Z",
-      "windowEnd": "2026-07-02T15:30:00Z",
+      "status": "Go for Launch",
+      "net": "2026-07-02T13:50:00Z",
+      "windowStart": "2026-07-02T13:46:00Z",
+      "windowEnd": "2026-07-02T14:12:00Z",
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
