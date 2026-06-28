@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-06-28T15:47:21.629Z",
+  "generatedAt": "2026-06-28T17:05:43.110Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "0740c699-9877-4331-8aef-4e29ea6281c0",
-      "missionName": "Starlink Group 17-40",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "net": "2026-06-28T16:09:18Z",
-      "windowStart": "2026-06-28T14:00:00Z",
-      "windowEnd": "2026-06-28T18:00:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
     {
       "id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
       "missionName": "Sirius SXM-11",
