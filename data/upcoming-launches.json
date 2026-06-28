@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T18:42:42.085Z",
+  "generatedAt": "2026-06-28T20:10:40.787Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -25,10 +25,10 @@
       "provider": "Rocket Lab",
       "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-06-30T00:00:00Z",
-      "windowStart": "2026-06-30T00:00:00Z",
-      "windowEnd": "2026-06-30T00:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-06-30T01:15:00Z",
+      "windowStart": "2026-06-30T01:15:00Z",
+      "windowEnd": "2026-06-30T01:15:00Z",
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
       "mapUrl": null
