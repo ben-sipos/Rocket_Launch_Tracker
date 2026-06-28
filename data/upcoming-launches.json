@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T12:01:31.178Z",
+  "generatedAt": "2026-06-28T14:21:11.652Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -11,7 +11,7 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-06-28T14:36:16Z",
+      "net": "2026-06-28T16:09:18Z",
       "windowStart": "2026-06-28T14:00:00Z",
       "windowEnd": "2026-06-28T18:00:00Z",
       "missionType": "Communications",
@@ -34,21 +34,6 @@
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "missionName": "Demo Flight",
-      "rocket": "South Korean ADD Solid-Fuel SLV",
-      "provider": "Agency for Defense Development",
-      "launchSite": "Sea Launch",
-      "pad": "ADD Offshore launch platform",
-      "status": "Go for Launch",
-      "net": "2026-06-29T05:00:00Z",
-      "windowStart": "2026-06-29T05:00:00Z",
-      "windowEnd": "2026-06-29T09:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
-    },
-    {
       "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
       "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
       "rocket": "Electron",
@@ -61,6 +46,21 @@
       "windowEnd": "2026-06-30T00:00:00Z",
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "mapUrl": null
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "missionName": "Demo Flight",
+      "rocket": "South Korean ADD Solid-Fuel SLV",
+      "provider": "Agency for Defense Development",
+      "launchSite": "Sea Launch",
+      "pad": "ADD Offshore launch platform",
+      "status": "Go for Launch",
+      "net": "2026-06-30T05:00:00Z",
+      "windowStart": "2026-06-30T05:00:00Z",
+      "windowEnd": "2026-06-30T09:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
       "mapUrl": null
     },
     {
