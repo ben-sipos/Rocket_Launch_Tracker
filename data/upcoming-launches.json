@@ -1,38 +1,8 @@
 {
-  "generatedAt": "2026-06-29T00:16:05.558Z",
+  "generatedAt": "2026-06-29T05:10:23.383Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
-      "missionName": "Sirius SXM-11",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
-      "net": "2026-06-29T02:25:00Z",
-      "windowStart": "2026-06-29T02:25:00Z",
-      "windowEnd": "2026-06-29T06:21:00Z",
-      "missionType": "Communications",
-      "description": "SXM-11 is the 12th high-powered, digital, audio radio satellite built by Lanteris Space (ex-Maxar, Space System/Loral) for SiriusXM. The SXM-11 satellite will be based on the proven IM-1300 (ex-LS-1300)-class platform and built at the company’s manufacturing facility in Palo Alto, California. SXM-11 has a large, mesh, unfurlable reflector almost 10 meters in diameter that allows SiriusXM programming to reach its radios, including those in moving vehicles.",
-      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
-    {
-      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
-      "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Unknown Pad",
-      "status": "Go for Launch",
-      "net": "2026-06-30T01:15:00Z",
-      "windowStart": "2026-06-30T01:15:00Z",
-      "windowEnd": "2026-06-30T01:15:00Z",
-      "missionType": "Earth Science",
-      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-      "mapUrl": null
-    },
     {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
       "missionName": "Demo Flight",
@@ -62,6 +32,21 @@
       "missionType": "Mission Extension",
       "description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA’s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission’s science lifetime in gamma ray astronomy.",
       "mapUrl": "https://www.google.com/maps?q=8.716667,167.733333"
+    },
+    {
+      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
+      "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "Go for Launch",
+      "net": "2026-07-01T13:00:00Z",
+      "windowStart": "2026-07-01T13:00:00Z",
+      "windowEnd": "2026-07-01T13:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "mapUrl": null
     },
     {
       "id": "2bedbf8c-8df2-4e24-8397-8c2a08fab581",
