@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T14:33:02.482Z",
+  "generatedAt": "2026-06-29T17:33:18.677Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
@@ -152,6 +152,21 @@
       "missionType": "Communications",
       "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
+      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
+      "missionName": "Demo Flight",
+      "rocket": "Long March 10B",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-2",
+      "status": "To Be Confirmed",
+      "net": "2026-07-10T05:00:00Z",
+      "windowStart": "2026-07-10T05:00:00Z",
+      "windowEnd": "2026-07-10T09:00:00Z",
+      "missionType": "Test Flight",
+      "description": "First test launch of CASC’s Long March 10B rocket.",
+      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
     }
   ]
 }
