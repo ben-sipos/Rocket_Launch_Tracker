@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T08:27:51.414Z",
+  "generatedAt": "2026-06-30T11:27:58.266Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -11,9 +11,9 @@
       "launchSite": "Air launch to orbit",
       "pad": "Kwajalein Atoll",
       "status": "Go for Launch",
-      "net": "2026-06-30T10:17:00Z",
-      "windowStart": "2026-06-30T07:30:00Z",
-      "windowEnd": "2026-06-30T13:28:00Z",
+      "net": "2026-07-01T09:43:00Z",
+      "windowStart": "2026-07-01T07:30:00Z",
+      "windowEnd": "2026-07-01T13:28:00Z",
       "missionType": "Mission Extension",
       "description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA’s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission’s science lifetime in gamma ray astronomy.",
       "mapUrl": "https://www.google.com/maps?q=8.716667,167.733333"
