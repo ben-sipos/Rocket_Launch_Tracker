@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T16:04:09.563Z",
+  "generatedAt": "2026-07-01T18:23:40.141Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -26,7 +26,7 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-07-02T02:57:00Z",
+      "net": "2026-07-02T02:58:19Z",
       "windowStart": "2026-07-02T02:00:00Z",
       "windowEnd": "2026-07-02T06:00:00Z",
       "missionType": "Communications",
@@ -79,21 +79,6 @@
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
     },
     {
-      "id": "1ef27ca1-af91-48bb-b934-3da5abd9f711",
-      "missionName": "Starlink Group 10-50",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
-      "net": "2026-07-03T11:20:00Z",
-      "windowStart": "2026-07-03T11:20:00Z",
-      "windowEnd": "2026-07-03T15:20:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
-    {
       "id": "9e0f6efb-4742-4ba3-9fd4-4ea218576c71",
       "missionName": "Unknown Payload",
       "rocket": "Long March 6A",
@@ -107,6 +92,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
+    },
+    {
+      "id": "1ef27ca1-af91-48bb-b934-3da5abd9f711",
+      "missionName": "Starlink Group 10-50",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "status": "Go for Launch",
+      "net": "2026-07-05T10:36:00Z",
+      "windowStart": "2026-07-05T10:36:00Z",
+      "windowEnd": "2026-07-05T14:36:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
       "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
