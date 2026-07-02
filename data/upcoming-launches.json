@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-07-01T23:19:17.808Z",
+  "generatedAt": "2026-07-02T01:31:10.363Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "2bedbf8c-8df2-4e24-8397-8c2a08fab581",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 4C",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 94 (SLS-2 / 603)",
-      "status": "Go for Launch",
-      "net": "2026-07-01T23:45:00Z",
-      "windowStart": "2026-07-01T23:38:00Z",
-      "windowEnd": "2026-07-02T00:07:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.960482,100.298059"
-    },
     {
       "id": "491122a3-3eff-42db-aff3-424b3431fc0b",
       "missionName": "Starlink Group 17-46",
