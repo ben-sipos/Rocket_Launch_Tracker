@@ -1,38 +1,8 @@
 {
-  "generatedAt": "2026-07-02T01:31:10.363Z",
+  "generatedAt": "2026-07-02T05:56:24.275Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 9,
   "launches": [
-    {
-      "id": "491122a3-3eff-42db-aff3-424b3431fc0b",
-      "missionName": "Starlink Group 17-46",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "net": "2026-07-02T02:58:19Z",
-      "windowStart": "2026-07-02T02:00:00Z",
-      "windowEnd": "2026-07-02T06:00:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
-      "id": "9eb09815-c237-4fdd-9057-5b161131240c",
-      "missionName": "Amazon Leo (LA-08)",
-      "rocket": "Atlas V 551",
-      "provider": "United Launch Alliance",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 41",
-      "status": "Go for Launch",
-      "net": "2026-07-02T04:24:00Z",
-      "windowStart": "2026-07-02T04:24:00Z",
-      "windowEnd": "2026-07-02T04:53:00Z",
-      "missionType": "Communications",
-      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n29 satellites are carried on this launch.",
-      "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
-    },
     {
       "id": "f596ad48-881e-47d6-806d-113c6dd97427",
       "missionName": "Swift Boost Mission",
@@ -49,21 +19,6 @@
       "mapUrl": "https://www.google.com/maps?q=8.716667,167.733333"
     },
     {
-      "id": "888e0de3-ce4d-4daf-8140-bb0d3a4c8245",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 8A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-1",
-      "status": "Go for Launch",
-      "net": "2026-07-02T13:50:00Z",
-      "windowStart": "2026-07-02T13:46:00Z",
-      "windowEnd": "2026-07-02T14:12:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
-    },
-    {
       "id": "9e0f6efb-4742-4ba3-9fd4-4ea218576c71",
       "missionName": "Unknown Payload",
       "rocket": "Long March 6A",
@@ -77,6 +32,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
+    },
+    {
+      "id": "888e0de3-ce4d-4daf-8140-bb0d3a4c8245",
+      "missionName": "SpaceSail Polar Group TBD",
+      "rocket": "Long March 8A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-1",
+      "status": "To Be Determined",
+      "net": "2026-07-05T00:00:00Z",
+      "windowStart": "2026-07-05T00:00:00Z",
+      "windowEnd": "2026-07-05T00:00:00Z",
+      "missionType": "Communications",
+      "description": "Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
+      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
     },
     {
       "id": "1ef27ca1-af91-48bb-b934-3da5abd9f711",
