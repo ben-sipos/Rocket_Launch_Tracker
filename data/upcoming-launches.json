@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T11:32:27.964Z",
+  "generatedAt": "2026-07-02T13:52:19.372Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 9,
   "launches": [
@@ -45,7 +45,7 @@
       "windowStart": "2026-07-05T10:36:00Z",
       "windowEnd": "2026-07-05T14:36:00Z",
       "missionType": "Communications",
-      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.\r\n\r\nThe Falcon 9 1st stage carries 2 customer payload from Besxar for testing their Fabships pilot reusable manufacturing pods in launch and re-entry environments.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
