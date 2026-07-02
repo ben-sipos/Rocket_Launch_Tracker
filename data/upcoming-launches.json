@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-07-02T08:55:53.978Z",
+  "generatedAt": "2026-07-02T11:32:27.964Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 9,
   "launches": [
-    {
-      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
-      "missionName": "Swift Boost Mission",
-      "rocket": "Pegasus XL",
-      "provider": "Northrop Grumman Space Systems",
-      "launchSite": "Air launch to orbit",
-      "pad": "Kwajalein Atoll",
-      "status": "Go for Launch",
-      "net": "2026-07-02T09:09:00Z",
-      "windowStart": "2026-07-02T07:30:00Z",
-      "windowEnd": "2026-07-02T13:28:00Z",
-      "missionType": "Mission Extension",
-      "description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA’s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission’s science lifetime in gamma ray astronomy.",
-      "mapUrl": "https://www.google.com/maps?q=8.716667,167.733333"
-    },
     {
       "id": "9e0f6efb-4742-4ba3-9fd4-4ea218576c71",
       "missionName": "Unknown Payload",
@@ -137,6 +122,21 @@
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "a556b963-0f36-4660-95a8-fdffdba653e2",
+      "missionName": "Soyuz MS-29",
+      "rocket": "Soyuz 2.1a",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "31/6",
+      "status": "Go for Launch",
+      "net": "2026-07-14T14:47:00Z",
+      "windowStart": "2026-07-14T14:47:00Z",
+      "windowEnd": "2026-07-14T14:47:00Z",
+      "missionType": "Human Exploration",
+      "description": "Soyuz MS-29 will carry three cosmonauts and one astronaut to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. The crew consists of Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, as well as NASA astronaut Anil Menon.",
+      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     }
   ]
 }
