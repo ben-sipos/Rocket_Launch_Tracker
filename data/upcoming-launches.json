@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T13:20:44.365Z",
+  "generatedAt": "2026-07-03T15:32:44.329Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -109,21 +109,6 @@
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
-      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
-      "missionName": "Demo Flight",
-      "rocket": "Vikram-I",
-      "provider": "Skyroot Aerospace",
-      "launchSite": "Satish Dhawan Space Centre, India",
-      "pad": "Satish Dhawan Space Centre First Launch Pad",
-      "status": "To Be Determined",
-      "net": "2026-07-12T00:00:00Z",
-      "windowStart": "2026-07-12T00:00:00Z",
-      "windowEnd": "2026-07-12T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "First launch of Skyroot Aerospace's Vikram-I launch vehicle, with several cubesats on board. Payload identities TBD.",
-      "mapUrl": "https://www.google.com/maps?q=13.733,80.235"
-    },
-    {
       "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
       "missionName": "Unknown Payload",
       "rocket": "Gravity-1",
@@ -137,6 +122,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=36.631333,121.198361"
+    },
+    {
+      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
+      "missionName": "Demo Flight",
+      "rocket": "Vikram-I",
+      "provider": "Skyroot Aerospace",
+      "launchSite": "Satish Dhawan Space Centre, India",
+      "pad": "Satish Dhawan Space Centre First Launch Pad",
+      "status": "To Be Confirmed",
+      "net": "2026-07-12T05:00:00Z",
+      "windowStart": "2026-07-12T05:00:00Z",
+      "windowEnd": "2026-07-12T09:00:00Z",
+      "missionType": "Test Flight",
+      "description": "First launch of Skyroot Aerospace's Vikram-I launch vehicle, with several cubesats on board. Payload identities TBD.",
+      "mapUrl": "https://www.google.com/maps?q=13.733,80.235"
     },
     {
       "id": "e09f254f-18bc-4985-963e-6075fa3d7a1c",
