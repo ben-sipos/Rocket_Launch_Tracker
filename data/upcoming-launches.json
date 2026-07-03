@@ -1,8 +1,23 @@
 {
-  "generatedAt": "2026-07-03T01:08:26.230Z",
+  "generatedAt": "2026-07-03T05:11:55.317Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 12,
   "launches": [
+    {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "missionName": "Swift Boost Mission",
+      "rocket": "Pegasus XL",
+      "provider": "Northrop Grumman Space Systems",
+      "launchSite": "Air launch to orbit",
+      "pad": "Kwajalein Atoll",
+      "status": "Go for Launch",
+      "net": "2026-07-03T08:35:00Z",
+      "windowStart": "2026-07-03T08:35:00Z",
+      "windowEnd": "2026-07-03T08:35:00Z",
+      "missionType": "Mission Extension",
+      "description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA’s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission’s science lifetime in gamma ray astronomy.",
+      "mapUrl": "https://www.google.com/maps?q=8.716667,167.733333"
+    },
     {
       "id": "9e0f6efb-4742-4ba3-9fd4-4ea218576c71",
       "missionName": "Unknown Payload",
@@ -151,6 +166,21 @@
       "windowEnd": "2026-07-17T00:00:00Z",
       "missionType": "Technology",
       "description": "LOXSAT 1 is a demonstration satellite of a complete cryogenic oxygen fluid management system in orbit, developed by Eta Space and sponsored by NASA's Tipping Point program.\r\n\r\nThe system will be integrated on a Rocket Lab Photon-LEO satellite bus and collect critical cryogenic fluid management data in orbit for 9 months, demonstrating capabilities of in-space cryogenic storage and transferal. Eta Space plans to use technology developed for this mission to develop a truly commercial depot intended to serve multiple customers in the future.",
+      "mapUrl": null
+    },
+    {
+      "id": "9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
+      "missionName": "StriX Launch 11",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-07-31T00:00:00Z",
+      "windowStart": "2026-07-31T00:00:00Z",
+      "windowEnd": "2026-07-31T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": null
     }
   ]
