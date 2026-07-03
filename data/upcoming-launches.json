@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T23:01:48.855Z",
+  "generatedAt": "2026-07-03T01:08:26.230Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 9,
+  "total": 10,
   "launches": [
     {
       "id": "9e0f6efb-4742-4ba3-9fd4-4ea218576c71",
@@ -137,6 +137,21 @@
       "missionType": "Human Exploration",
       "description": "Soyuz MS-29 will carry three cosmonauts and one astronaut to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. The crew consists of Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, as well as NASA astronaut Anil Menon.",
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
+    },
+    {
+      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
+      "missionName": "LOXSAT 1",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-07-17T00:00:00Z",
+      "windowStart": "2026-07-17T00:00:00Z",
+      "windowEnd": "2026-07-17T00:00:00Z",
+      "missionType": "Technology",
+      "description": "LOXSAT 1 is a demonstration satellite of a complete cryogenic oxygen fluid management system in orbit, developed by Eta Space and sponsored by NASA's Tipping Point program.\r\n\r\nThe system will be integrated on a Rocket Lab Photon-LEO satellite bus and collect critical cryogenic fluid management data in orbit for 9 months, demonstrating capabilities of in-space cryogenic storage and transferal. Eta Space plans to use technology developed for this mission to develop a truly commercial depot intended to serve multiple customers in the future.",
+      "mapUrl": null
     }
   ]
 }
