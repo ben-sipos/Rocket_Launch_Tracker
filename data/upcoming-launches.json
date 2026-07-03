@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-07-03T08:32:48.856Z",
+  "generatedAt": "2026-07-03T11:29:18.868Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
-      "missionName": "Swift Boost Mission",
-      "rocket": "Pegasus XL",
-      "provider": "Northrop Grumman Space Systems",
-      "launchSite": "Air launch to orbit",
-      "pad": "Kwajalein Atoll",
-      "status": "Go for Launch",
-      "net": "2026-07-03T08:35:00Z",
-      "windowStart": "2026-07-03T08:35:00Z",
-      "windowEnd": "2026-07-03T08:35:00Z",
-      "missionType": "Mission Extension",
-      "description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA’s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission’s science lifetime in gamma ray astronomy.",
-      "mapUrl": "https://www.google.com/maps?q=8.716667,167.733333"
-    },
     {
       "id": "9e0f6efb-4742-4ba3-9fd4-4ea218576c71",
       "missionName": "Unknown Payload",
