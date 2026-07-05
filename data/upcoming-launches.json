@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-07-05T12:49:03.409Z",
+  "generatedAt": "2026-07-05T14:39:10.158Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "888e0de3-ce4d-4daf-8140-bb0d3a4c8245",
-      "missionName": "SpaceSail Polar Group TBD",
-      "rocket": "Long March 8A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-1",
-      "status": "Go for Launch",
-      "net": "2026-07-05T13:40:00Z",
-      "windowStart": "2026-07-05T13:32:00Z",
-      "windowEnd": "2026-07-05T13:57:00Z",
-      "missionType": "Communications",
-      "description": "Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
-      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
-    },
     {
       "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
       "missionName": "Transporter 17 (Dedicated SSO Rideshare)",
