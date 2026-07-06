@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-06T10:12:24.609Z",
+  "generatedAt": "2026-07-06T14:05:06.953Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 12,
   "launches": [
     {
       "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
@@ -152,6 +152,36 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
+    },
+    {
+      "id": "5421e43a-1623-40ac-9dac-201075064e24",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 3B/E",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Xichang Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 2 (LC-2)",
+      "status": "To Be Confirmed",
+      "net": "2026-07-23T11:00:00Z",
+      "windowStart": "2026-07-23T11:00:00Z",
+      "windowEnd": "2026-07-23T14:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=28.245504,102.026768"
+    },
+    {
+      "id": "9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
+      "missionName": "StriX Launch 11",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-07-31T00:00:00Z",
+      "windowStart": "2026-07-31T00:00:00Z",
+      "windowEnd": "2026-07-31T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+      "mapUrl": null
     }
   ]
 }
