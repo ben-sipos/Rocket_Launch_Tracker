@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T19:14:08.821Z",
+  "generatedAt": "2026-07-06T21:08:58.784Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -13,7 +13,7 @@
       "status": "Go for Launch",
       "net": "2026-07-07T07:10:00Z",
       "windowStart": "2026-07-07T07:10:00Z",
-      "windowEnd": "2026-07-07T08:45:00Z",
+      "windowEnd": "2026-07-07T07:28:00Z",
       "missionType": "Dedicated Rideshare",
       "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
