@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T18:29:13.034Z",
+  "generatedAt": "2026-07-07T20:27:14.540Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -124,6 +124,21 @@
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     },
     {
+      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+      "missionName": "Flight 13",
+      "rocket": "Starship V3",
+      "provider": "SpaceX",
+      "launchSite": "SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Pad 2",
+      "status": "To Be Confirmed",
+      "net": "2026-07-14T22:45:00Z",
+      "windowStart": "2026-07-14T22:45:00Z",
+      "windowEnd": "2026-07-15T00:56:00Z",
+      "missionType": "Test Flight",
+      "description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3",
+      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
+    },
+    {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
       "missionName": "LOXSAT 1",
       "rocket": "Electron",
@@ -152,21 +167,6 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
-    },
-    {
-      "id": "5421e43a-1623-40ac-9dac-201075064e24",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 3B/E",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Xichang Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Complex 2 (LC-2)",
-      "status": "To Be Confirmed",
-      "net": "2026-07-23T11:00:00Z",
-      "windowStart": "2026-07-23T11:00:00Z",
-      "windowEnd": "2026-07-23T14:00:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=28.245504,102.026768"
     }
   ]
 }
