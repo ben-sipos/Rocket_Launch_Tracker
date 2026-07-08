@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T18:19:49.765Z",
+  "generatedAt": "2026-07-08T20:02:26.622Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -131,9 +131,9 @@
       "launchSite": "SpaceX Starbase, TX, USA",
       "pad": "Orbital Launch Pad 2",
       "status": "To Be Confirmed",
-      "net": "2026-07-14T22:45:00Z",
-      "windowStart": "2026-07-14T22:45:00Z",
-      "windowEnd": "2026-07-15T00:56:00Z",
+      "net": "2026-07-15T22:45:00Z",
+      "windowStart": "2026-07-15T22:45:00Z",
+      "windowEnd": "2026-07-16T00:56:00Z",
       "missionType": "Test Flight",
       "description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3",
       "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
