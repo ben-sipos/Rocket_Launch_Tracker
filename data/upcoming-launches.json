@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T04:32:01.957Z",
+  "generatedAt": "2026-07-10T08:19:00.582Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
@@ -17,21 +17,6 @@
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
-      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
-      "missionName": "Demo Flight",
-      "rocket": "Vikram-I",
-      "provider": "Skyroot Aerospace",
-      "launchSite": "Satish Dhawan Space Centre, India",
-      "pad": "Satish Dhawan Space Centre First Launch Pad",
-      "status": "To Be Confirmed",
-      "net": "2026-07-12T05:00:00Z",
-      "windowStart": "2026-07-12T05:00:00Z",
-      "windowEnd": "2026-07-12T09:00:00Z",
-      "missionType": "Test Flight",
-      "description": "First launch of Skyroot Aerospace's Vikram-I launch vehicle, with several cubesats on board. Payload identities TBD.",
-      "mapUrl": "https://www.google.com/maps?q=13.733,80.235"
     },
     {
       "id": "e09f254f-18bc-4985-963e-6075fa3d7a1c",
@@ -137,6 +122,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
+    },
+    {
+      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
+      "missionName": "Demo Flight",
+      "rocket": "Vikram-I",
+      "provider": "Skyroot Aerospace",
+      "launchSite": "Satish Dhawan Space Centre, India",
+      "pad": "Satish Dhawan Space Centre First Launch Pad",
+      "status": "To Be Confirmed",
+      "net": "2026-07-18T05:00:00Z",
+      "windowStart": "2026-07-18T05:00:00Z",
+      "windowEnd": "2026-07-18T09:00:00Z",
+      "missionType": "Test Flight",
+      "description": "First launch of Skyroot Aerospace's Vikram-I launch vehicle, with several cubesats on board. Payload identities TBD.",
+      "mapUrl": "https://www.google.com/maps?q=13.733,80.235"
     },
     {
       "id": "5421e43a-1623-40ac-9dac-201075064e24",
