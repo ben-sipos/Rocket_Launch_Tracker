@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T22:43:42.193Z",
+  "generatedAt": "2026-07-11T23:51:52.465Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -49,21 +49,6 @@
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     },
     {
-      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
-      "missionName": "Flight 13",
-      "rocket": "Starship V3",
-      "provider": "SpaceX",
-      "launchSite": "SpaceX Starbase, TX, USA",
-      "pad": "Orbital Launch Pad 2",
-      "status": "To Be Confirmed",
-      "net": "2026-07-15T22:45:00Z",
-      "windowStart": "2026-07-15T22:45:00Z",
-      "windowEnd": "2026-07-16T00:56:00Z",
-      "missionType": "Test Flight",
-      "description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3",
-      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
-    },
-    {
       "id": "d9adedc4-8fa1-4a36-84f9-43b8893a6865",
       "missionName": "SDA Tranche 1 Transport Layer E",
       "rocket": "Falcon 9 Block 5",
@@ -77,6 +62,21 @@
       "missionType": "Government/Top Secret",
       "description": "Tranche 1 Transport Layer E is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+      "missionName": "Flight 13",
+      "rocket": "Starship V3",
+      "provider": "SpaceX",
+      "launchSite": "SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Pad 2",
+      "status": "Go for Launch",
+      "net": "2026-07-16T22:45:00Z",
+      "windowStart": "2026-07-16T22:45:00Z",
+      "windowEnd": "2026-07-17T00:15:00Z",
+      "missionType": "Test Flight",
+      "description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3.\r\n\r\nFor the first time, Starship will carry 20 V3 Starlink satellites to space, which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. \r\n\r\n6 of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.",
+      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
     },
     {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
