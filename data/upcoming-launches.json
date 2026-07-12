@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-12T02:27:39.649Z",
+  "generatedAt": "2026-07-12T05:42:00.593Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "e09f254f-18bc-4985-963e-6075fa3d7a1c",
@@ -167,6 +167,21 @@
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
+      "missionName": "StriX Launch 11",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-07-31T00:00:00Z",
+      "windowStart": "2026-07-31T00:00:00Z",
+      "windowEnd": "2026-07-31T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+      "mapUrl": null
     }
   ]
 }
