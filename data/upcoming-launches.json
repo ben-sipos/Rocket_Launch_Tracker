@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T15:20:04.960Z",
+  "generatedAt": "2026-07-13T17:28:17.773Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -55,12 +55,12 @@
       "provider": "SpaceX",
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
-      "status": "To Be Confirmed",
-      "net": "2026-07-16T20:22:00Z",
+      "status": "Go for Launch",
+      "net": "2026-07-16T20:32:00Z",
       "windowStart": "2026-07-16T20:22:00Z",
       "windowEnd": "2026-07-16T21:09:00Z",
       "missionType": "Government/Top Secret",
-      "description": "Tranche 1 Transport Layer E is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.",
+      "description": "Tranche 1 Transport Layer E is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by York Space Systems.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
@@ -154,21 +154,6 @@
       "mapUrl": "https://www.google.com/maps?q=28.245504,102.026768"
     },
     {
-      "id": "5b2f05d7-9052-49fb-9bd7-2a05d4910576",
-      "missionName": "Starlink Group 17-51",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "net": "2026-07-23T14:00:00Z",
-      "windowStart": "2026-07-23T14:00:00Z",
-      "windowEnd": "2026-07-23T18:00:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
       "id": "12b9454b-d48b-4fd5-9c11-17c18f45dafe",
       "missionName": "Unknown Payload",
       "rocket": "Long March 8A",
@@ -182,6 +167,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
+    },
+    {
+      "id": "5b2f05d7-9052-49fb-9bd7-2a05d4910576",
+      "missionName": "Starlink Group 17-51",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "net": "2026-07-24T14:00:00Z",
+      "windowStart": "2026-07-24T14:00:00Z",
+      "windowEnd": "2026-07-24T18:00:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     }
   ]
 }
