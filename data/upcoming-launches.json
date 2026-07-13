@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T21:27:48.194Z",
+  "generatedAt": "2026-07-13T22:28:42.637Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -15,7 +15,7 @@
       "windowStart": "2026-07-14T01:16:00Z",
       "windowEnd": "2026-07-14T02:16:00Z",
       "missionType": "Communications",
-      "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
