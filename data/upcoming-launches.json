@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T18:37:10.653Z",
+  "generatedAt": "2026-07-14T20:07:30.696Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 9,
   "launches": [
@@ -88,7 +88,7 @@
       "status": "Go for Launch",
       "net": "2026-07-21T21:15:00Z",
       "windowStart": "2026-07-21T21:15:00Z",
-      "windowEnd": "2026-07-22T01:15:00Z",
+      "windowEnd": "2026-07-22T01:04:00Z",
       "missionType": "Mission Extension",
       "description": "The SpaceLogistics MRV-1 is a mission extension payload including a mission robotic vehicle (MRV) and multiple mission extension pods (MEPs).",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
