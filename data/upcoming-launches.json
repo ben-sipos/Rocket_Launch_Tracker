@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T20:31:25.410Z",
+  "generatedAt": "2026-07-15T21:56:08.240Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -11,7 +11,7 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-07-16T20:32:00Z",
+      "net": "2026-07-16T20:32:27Z",
       "windowStart": "2026-07-16T20:22:00Z",
       "windowEnd": "2026-07-16T21:09:00Z",
       "missionType": "Government/Top Secret",
