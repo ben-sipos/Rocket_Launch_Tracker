@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T03:26:31.495Z",
+  "generatedAt": "2026-07-16T05:58:57.922Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -94,6 +94,21 @@
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
+      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+      "missionName": "Unknown Payload",
+      "rocket": "Gravity-1",
+      "provider": "Orienspace Technology",
+      "launchSite": "Haiyang Oriental Spaceport",
+      "pad": "Yellow Sea (launch location 5)",
+      "status": "Go for Launch",
+      "net": "2026-07-22T02:50:00Z",
+      "windowStart": "2026-07-22T02:44:00Z",
+      "windowEnd": "2026-07-22T03:09:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=31.2,123.7"
+    },
+    {
       "id": "5421e43a-1623-40ac-9dac-201075064e24",
       "missionName": "Unknown Payload",
       "rocket": "Long March 3B/E",
@@ -167,21 +182,6 @@
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": null
-    },
-    {
-      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
-      "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Rocket Lab Launch Complex 1A",
-      "status": "To Be Determined",
-      "net": "2026-07-31T00:00:00Z",
-      "windowStart": "2026-07-31T00:00:00Z",
-      "windowEnd": "2026-07-31T00:00:00Z",
-      "missionType": "Earth Science",
-      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-      "mapUrl": "https://www.google.com/maps?q=-39.262833,177.864469"
     }
   ]
 }
