@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T11:59:33.532Z",
+  "generatedAt": "2026-07-16T14:12:20.243Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -34,28 +34,13 @@
       "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
     },
     {
-      "id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 7A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "201",
-      "status": "Go for Launch",
-      "net": "2026-07-17T11:50:00Z",
-      "windowStart": "2026-07-17T11:42:00Z",
-      "windowEnd": "2026-07-17T13:39:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
-    },
-    {
       "id": "10fa7952-f00b-4292-80a2-4207e208844e",
       "missionName": "Demo Flight",
       "rocket": "Vikram-I",
       "provider": "Skyroot Aerospace",
       "launchSite": "Satish Dhawan Space Centre, India",
       "pad": "Satish Dhawan Space Centre First Launch Pad",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "net": "2026-07-18T06:00:00Z",
       "windowStart": "2026-07-18T05:00:00Z",
       "windowEnd": "2026-07-18T09:00:00Z",
@@ -182,6 +167,21 @@
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": null
+    },
+    {
+      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
+      "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Rocket Lab Launch Complex 1A",
+      "status": "To Be Determined",
+      "net": "2026-07-31T00:00:00Z",
+      "windowStart": "2026-07-31T00:00:00Z",
+      "windowEnd": "2026-07-31T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "mapUrl": "https://www.google.com/maps?q=-39.262833,177.864469"
     }
   ]
 }
