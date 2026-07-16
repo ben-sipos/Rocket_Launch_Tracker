@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T14:12:20.243Z",
+  "generatedAt": "2026-07-16T15:54:31.129Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -26,7 +26,7 @@
       "launchSite": "SpaceX Starbase, TX, USA",
       "pad": "Orbital Launch Pad 2",
       "status": "Go for Launch",
-      "net": "2026-07-16T22:45:00Z",
+      "net": "2026-07-16T22:45:18Z",
       "windowStart": "2026-07-16T22:45:00Z",
       "windowEnd": "2026-07-17T00:15:00Z",
       "missionType": "Test Flight",
