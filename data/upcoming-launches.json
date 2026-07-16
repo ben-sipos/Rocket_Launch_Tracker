@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-07-16T22:54:27.889Z",
+  "generatedAt": "2026-07-16T23:55:50.552Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
-    {
-      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
-      "missionName": "Flight 13",
-      "rocket": "Starship V3",
-      "provider": "SpaceX",
-      "launchSite": "SpaceX Starbase, TX, USA",
-      "pad": "Orbital Launch Pad 2",
-      "status": "To Be Confirmed",
-      "net": "2026-07-17T22:45:00Z",
-      "windowStart": "2026-07-17T22:45:00Z",
-      "windowEnd": "2026-07-18T00:15:00Z",
-      "missionType": "Test Flight",
-      "description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3.\r\n\r\nFor the first time, Starship will carry 20 V3 Starlink satellites to space, which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. \r\n\r\n6 of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.",
-      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
-    },
     {
       "id": "10fa7952-f00b-4292-80a2-4207e208844e",
       "missionName": "Demo Flight",
@@ -167,6 +152,21 @@
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": null
+    },
+    {
+      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
+      "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Rocket Lab Launch Complex 1A",
+      "status": "To Be Determined",
+      "net": "2026-07-31T00:00:00Z",
+      "windowStart": "2026-07-31T00:00:00Z",
+      "windowEnd": "2026-07-31T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "mapUrl": "https://www.google.com/maps?q=-39.262833,177.864469"
     }
   ]
 }
