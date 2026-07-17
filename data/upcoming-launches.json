@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T02:30:40.916Z",
+  "generatedAt": "2026-07-17T05:38:54.360Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -70,13 +70,28 @@
       "provider": "China Aerospace Science and Technology Corporation",
       "launchSite": "Xichang Satellite Launch Center, People's Republic of China",
       "pad": "Launch Complex 2 (LC-2)",
-      "status": "To Be Confirmed",
-      "net": "2026-07-23T11:00:00Z",
-      "windowStart": "2026-07-23T11:00:00Z",
-      "windowEnd": "2026-07-23T14:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-07-23T12:00:00Z",
+      "windowStart": "2026-07-23T11:52:00Z",
+      "windowEnd": "2026-07-23T12:54:00Z",
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=28.245504,102.026768"
+    },
+    {
+      "id": "fa42624c-1e30-4b4b-a06b-59b6153bc4e5",
+      "missionName": "Unknown Payload",
+      "rocket": "Kinetica 1",
+      "provider": "CAS Space",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Area 130",
+      "status": "To Be Confirmed",
+      "net": "2026-07-24T02:00:00Z",
+      "windowStart": "2026-07-24T02:00:00Z",
+      "windowEnd": "2026-07-24T08:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=40.8182,100.22514"
     },
     {
       "id": "12b9454b-d48b-4fd5-9c11-17c18f45dafe",
@@ -152,21 +167,6 @@
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": null
-    },
-    {
-      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
-      "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Rocket Lab Launch Complex 1A",
-      "status": "To Be Determined",
-      "net": "2026-07-31T00:00:00Z",
-      "windowStart": "2026-07-31T00:00:00Z",
-      "windowEnd": "2026-07-31T00:00:00Z",
-      "missionType": "Earth Science",
-      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-      "mapUrl": "https://www.google.com/maps?q=-39.262833,177.864469"
     }
   ]
 }
