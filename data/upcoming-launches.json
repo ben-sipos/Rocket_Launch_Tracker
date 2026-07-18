@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-07-18T03:52:05.064Z",
+  "generatedAt": "2026-07-18T06:02:08.970Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
-      "missionName": "Demo Flight",
-      "rocket": "Vikram-I",
-      "provider": "Skyroot Aerospace",
-      "launchSite": "Satish Dhawan Space Centre, India",
-      "pad": "Satish Dhawan Space Centre First Launch Pad",
-      "status": "Go for Launch",
-      "net": "2026-07-18T06:00:00Z",
-      "windowStart": "2026-07-18T05:00:00Z",
-      "windowEnd": "2026-07-18T09:00:00Z",
-      "missionType": "Test Flight",
-      "description": "First launch of Skyroot Aerospace's Vikram-I launch vehicle. \r\n\r\nThis first launch will carry 4 payloads:\r\n- Grahaa Space's SOLARAS S3 satellite\r\n- Cosmoserve Space's in-orbit robotic arm Embrace\r\n- An in-orbit demonstration from DCUBED\r\n- Skyroot's own SCOPE satellite",
-      "mapUrl": "https://www.google.com/maps?q=13.733,80.235"
-    },
     {
       "id": "e1079d3a-c0a6-4b42-bc1d-92e48a5a78fc",
       "missionName": "Starlink Group 17-39",
