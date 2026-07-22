@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-07-22T00:55:48.434Z",
+  "generatedAt": "2026-07-22T04:15:08.693Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 9,
   "launches": [
-    {
-      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
-      "missionName": "Unknown Payload",
-      "rocket": "Gravity-1",
-      "provider": "Orienspace Technology",
-      "launchSite": "Haiyang Oriental Spaceport",
-      "pad": "Yellow Sea (launch location 5)",
-      "status": "Go for Launch",
-      "net": "2026-07-22T02:50:00Z",
-      "windowStart": "2026-07-22T02:44:00Z",
-      "windowEnd": "2026-07-22T03:09:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=31.2,123.7"
-    },
     {
       "id": "5421e43a-1623-40ac-9dac-201075064e24",
       "missionName": "Unknown Payload",
