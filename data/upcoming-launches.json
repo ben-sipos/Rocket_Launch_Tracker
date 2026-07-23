@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-23T00:04:21.395Z",
+  "generatedAt": "2026-07-23T03:52:39.355Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "5421e43a-1623-40ac-9dac-201075064e24",
@@ -167,6 +167,21 @@
       "missionType": "Test Flight",
       "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
       "mapUrl": null
+    },
+    {
+      "id": "12b9454b-d48b-4fd5-9c11-17c18f45dafe",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 8A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-1",
+      "status": "Go for Launch",
+      "net": "2026-08-04T08:50:00Z",
+      "windowStart": "2026-08-04T08:44:00Z",
+      "windowEnd": "2026-08-04T09:09:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
     }
   ]
 }
