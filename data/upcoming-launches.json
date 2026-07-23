@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-07-23T19:54:20.713Z",
+  "generatedAt": "2026-07-23T20:59:25.530Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
-    {
-      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
-      "missionName": "Flight 13",
-      "rocket": "Starship V3",
-      "provider": "SpaceX",
-      "launchSite": "SpaceX Starbase, TX, USA",
-      "pad": "Orbital Launch Pad 2",
-      "status": "Go for Launch",
-      "net": "2026-07-23T22:45:00Z",
-      "windowStart": "2026-07-23T22:45:00Z",
-      "windowEnd": "2026-07-24T00:15:00Z",
-      "missionType": "Test Flight",
-      "description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3.\r\n\r\nFor the first time, Starship will carry 20 V3 Starlink satellites to space, which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. \r\n\r\n6 of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.",
-      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
-    },
     {
       "id": "fa42624c-1e30-4b4b-a06b-59b6153bc4e5",
       "missionName": "Unknown Payload",
@@ -32,6 +17,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=40.8182,100.22514"
+    },
+    {
+      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+      "missionName": "Flight 13",
+      "rocket": "Starship V3",
+      "provider": "SpaceX",
+      "launchSite": "SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Pad 2",
+      "status": "Go for Launch",
+      "net": "2026-07-24T22:45:00Z",
+      "windowStart": "2026-07-24T22:45:00Z",
+      "windowEnd": "2026-07-25T00:15:00Z",
+      "missionType": "Test Flight",
+      "description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3.\r\n\r\nFor the first time, Starship will carry 20 V3 Starlink satellites to space, which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. \r\n\r\n6 of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.",
+      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
     },
     {
       "id": "5b2f05d7-9052-49fb-9bd7-2a05d4910576",
