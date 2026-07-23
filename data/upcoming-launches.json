@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T15:09:41.403Z",
+  "generatedAt": "2026-07-23T16:55:56.059Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -100,10 +100,10 @@
       "provider": "SpaceX",
       "launchSite": "Cape Canaveral SFS, FL, USA",
       "pad": "Space Launch Complex 40",
-      "status": "To Be Confirmed",
-      "net": "2026-07-30T06:37:00Z",
+      "status": "Go for Launch",
+      "net": "2026-07-30T07:09:00Z",
       "windowStart": "2026-07-30T06:37:00Z",
-      "windowEnd": "2026-07-30T08:04:00Z",
+      "windowEnd": "2026-07-30T07:21:00Z",
       "missionType": "Government/Top Secret",
       "description": "Classified payload for the US National Reconnaissance Office.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
