@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-25T21:52:10.986Z",
+  "generatedAt": "2026-07-25T22:51:37.927Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "e7e55b53-6f69-4c22-9fc5-df00df653a3f",
@@ -152,6 +152,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "missionName": "Onward and Upward",
+      "rocket": "Spectrum",
+      "provider": "Isar Aerospace",
+      "launchSite": "Andøya Spaceport",
+      "pad": "Orbital Launch Pad",
+      "status": "To Be Determined",
+      "net": "2026-08-06T00:00:00Z",
+      "windowStart": "2026-08-06T00:00:00Z",
+      "windowEnd": "2026-08-06T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
+      "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
     }
   ]
 }
