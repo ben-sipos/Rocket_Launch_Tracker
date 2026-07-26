@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-26T15:37:11.895Z",
+  "generatedAt": "2026-07-26T16:54:55.859Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "e7e55b53-6f69-4c22-9fc5-df00df653a3f",
@@ -167,6 +167,21 @@
       "missionType": "Test Flight",
       "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
       "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
+    },
+    {
+      "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
+      "missionName": "Michibiki 7 (QZS-7)",
+      "rocket": "H3-22",
+      "provider": "Mitsubishi Heavy Industries",
+      "launchSite": "Tanegashima Space Center, Japan",
+      "pad": "Yoshinobu Launch Complex LP-2",
+      "status": "Go for Launch",
+      "net": "2026-08-06T19:30:00Z",
+      "windowStart": "2026-08-06T19:30:00Z",
+      "windowEnd": "2026-08-06T21:00:00Z",
+      "missionType": "Navigation",
+      "description": "QZSS (Quasi Zenith Satellite System) is a Japanese satellite navigation system operating from inclined, elliptical geosynchronous orbits to achieve optimal high-elevation visibility in urban canyons and mountainous areas. The navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation.\r\n\r\nThe navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation in inclined, elliptical geosynchronous orbits.",
+      "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
     }
   ]
 }
