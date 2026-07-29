@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T04:19:02.946Z",
+  "generatedAt": "2026-07-29T07:16:41.261Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -49,21 +49,6 @@
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "missionName": "Demo Flight",
-      "rocket": "Mir",
-      "provider": "Agency for Defense Development",
-      "launchSite": "Sea Launch",
-      "pad": "ADD Offshore launch platform",
-      "status": "To Be Determined",
-      "net": "2026-07-31T00:00:00Z",
-      "windowStart": "2026-07-31T00:00:00Z",
-      "windowEnd": "2026-07-31T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
-    },
-    {
       "id": "e7e55b53-6f69-4c22-9fc5-df00df653a3f",
       "missionName": "Starlink Group 17-52",
       "rocket": "Falcon 9 Block 5",
@@ -92,6 +77,21 @@
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "d46cab82-dcf5-4d70-b698-d7bead7f638c",
+      "missionName": "Unknown Payload",
+      "rocket": "Smart Dragon 3",
+      "provider": "China Rocket Co. Ltd.",
+      "launchSite": "Haiyang Oriental Spaceport",
+      "pad": "Haiyang offshore launch location",
+      "status": "To Be Confirmed",
+      "net": "2026-08-04T00:00:00Z",
+      "windowStart": "2026-08-04T00:00:00Z",
+      "windowEnd": "2026-08-04T06:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=36.631333,121.198361"
     },
     {
       "id": "12b9454b-d48b-4fd5-9c11-17c18f45dafe",
