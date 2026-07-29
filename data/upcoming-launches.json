@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T14:42:21.548Z",
+  "generatedAt": "2026-07-29T16:18:17.450Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -41,24 +41,9 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-07-31T02:00:00Z",
-      "windowStart": "2026-07-31T02:00:00Z",
-      "windowEnd": "2026-07-31T06:00:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
-      "id": "0448d030-5175-4c1f-bd0b-4f3f87072921",
-      "missionName": "Starlink Group 17-53",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "net": "2026-08-03T14:00:00Z",
-      "windowStart": "2026-08-03T14:00:00Z",
-      "windowEnd": "2026-08-03T18:00:00Z",
+      "net": "2026-08-01T02:00:00Z",
+      "windowStart": "2026-08-01T02:00:00Z",
+      "windowEnd": "2026-08-01T06:00:00Z",
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
@@ -94,6 +79,21 @@
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
     },
     {
+      "id": "0448d030-5175-4c1f-bd0b-4f3f87072921",
+      "missionName": "Starlink Group 17-53",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "net": "2026-08-04T14:00:00Z",
+      "windowStart": "2026-08-04T14:00:00Z",
+      "windowEnd": "2026-08-04T18:00:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
       "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
       "missionName": "BlueBird Block 2 #6-8",
       "rocket": "Falcon 9 Block 5",
@@ -103,7 +103,7 @@
       "status": "Go for Launch",
       "net": "2026-08-05T07:42:00Z",
       "windowStart": "2026-08-05T07:42:00Z",
-      "windowEnd": "2026-08-05T09:10:00Z",
+      "windowEnd": "2026-08-05T09:18:00Z",
       "missionType": "Communications",
       "description": "AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
@@ -146,9 +146,9 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-08-07T14:00:00Z",
-      "windowStart": "2026-08-07T14:00:00Z",
-      "windowEnd": "2026-08-07T18:00:00Z",
+      "net": "2026-08-08T14:00:00Z",
+      "windowStart": "2026-08-08T14:00:00Z",
+      "windowEnd": "2026-08-08T18:00:00Z",
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
