@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-07-29T23:33:39.740Z",
+  "generatedAt": "2026-07-30T02:03:33.546Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "394d2745-610b-409e-b4ea-2071a35f8668",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 6A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Complex 9A",
-      "status": "Go for Launch",
-      "net": "2026-07-30T01:00:00Z",
-      "windowStart": "2026-07-30T00:52:00Z",
-      "windowEnd": "2026-07-30T01:12:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
-    },
     {
       "id": "24675e3d-2458-48a3-8c70-5196e44d4dc3",
       "missionName": "NROL-95",
