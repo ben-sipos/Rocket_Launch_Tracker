@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T20:27:07.425Z",
+  "generatedAt": "2026-08-02T21:25:09.009Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -62,21 +62,6 @@
       "missionType": "Communications",
       "description": "AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "missionName": "Onward and Upward",
-      "rocket": "Spectrum",
-      "provider": "Isar Aerospace",
-      "launchSite": "Andøya Spaceport",
-      "pad": "Orbital Launch Pad",
-      "status": "To Be Determined",
-      "net": "2026-08-06T00:00:00Z",
-      "windowStart": "2026-08-06T00:00:00Z",
-      "windowEnd": "2026-08-06T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
-      "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
     },
     {
       "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
@@ -182,6 +167,21 @@
       "missionType": "Planetary Science",
       "description": "Chang'e 7/CE-7 is scheduled to launch in 2026, including an orbiter, a lander, a mini-hopping probe, and a rover. The mission will land in the South Pole regions of the Moon to study lunar surface environment around the South Pole, especially in looking for water ice in lunar soil.",
       "mapUrl": "https://www.google.com/maps?q=19.614334,110.951011"
+    },
+    {
+      "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
+      "missionName": "MTG-I2",
+      "rocket": "Ariane 62",
+      "provider": "Arianespace",
+      "launchSite": "Guiana Space Centre, French Guiana",
+      "pad": "Ariane Launch Area 4",
+      "status": "To Be Determined",
+      "net": "2026-08-27T00:00:00Z",
+      "windowStart": "2026-08-27T00:00:00Z",
+      "windowEnd": "2026-08-27T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Third of EUMETSAT's third generation of weather satellite.",
+      "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
     }
   ]
 }
