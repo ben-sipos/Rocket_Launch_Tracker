@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-02T01:07:17.752Z",
+  "generatedAt": "2026-08-02T04:51:41.304Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "12b9454b-d48b-4fd5-9c11-17c18f45dafe",
@@ -167,6 +167,21 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
+    },
+    {
+      "id": "9d402fb6-9115-424d-b6f0-bd3b13ee310e",
+      "missionName": "Chang'e 7",
+      "rocket": "Long March 5",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "101",
+      "status": "To Be Confirmed",
+      "net": "2026-08-24T00:00:00Z",
+      "windowStart": "2026-08-24T00:00:00Z",
+      "windowEnd": "2026-08-24T04:00:00Z",
+      "missionType": "Planetary Science",
+      "description": "Chang'e 7/CE-7 is scheduled to launch in 2026, including an orbiter, a lander, a mini-hopping probe, and a rover. The mission will land in the South Pole regions of the Moon to study lunar surface environment around the South Pole, especially in looking for water ice in lunar soil.",
+      "mapUrl": "https://www.google.com/maps?q=19.614334,110.951011"
     }
   ]
 }
