@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T15:24:11.613Z",
+  "generatedAt": "2026-08-03T17:23:56.960Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -175,10 +175,10 @@
       "provider": "Arianespace",
       "launchSite": "Guiana Space Centre, French Guiana",
       "pad": "Ariane Launch Area 4",
-      "status": "To Be Determined",
-      "net": "2026-08-27T00:00:00Z",
-      "windowStart": "2026-08-27T00:00:00Z",
-      "windowEnd": "2026-08-27T00:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-08-27T20:10:00Z",
+      "windowStart": "2026-08-27T20:10:00Z",
+      "windowEnd": "2026-08-27T22:40:00Z",
       "missionType": "Earth Science",
       "description": "Third of EUMETSAT's third generation of weather satellite.",
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
