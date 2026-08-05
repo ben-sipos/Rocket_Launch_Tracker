@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T23:31:58.999Z",
+  "generatedAt": "2026-08-05T02:08:53.298Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
@@ -15,7 +15,7 @@
       "windowStart": "2026-08-05T02:27:00Z",
       "windowEnd": "2026-08-05T02:48:00Z",
       "missionType": "Unknown",
-      "description": "Details TBD.",
+      "description": "Possible ride-share launch to SSO with payload including 2 hyperspectral Earth observation satellites from STAR.VISION. Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=36.631333,121.198361"
     },
     {
@@ -55,10 +55,10 @@
       "provider": "China Aerospace Science and Technology Corporation",
       "launchSite": "Wenchang Space Launch Site, People's Republic of China",
       "pad": "201",
-      "status": "To Be Confirmed",
-      "net": "2026-08-09T11:00:00Z",
-      "windowStart": "2026-08-09T11:00:00Z",
-      "windowEnd": "2026-08-09T14:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-08-10T12:00:00Z",
+      "windowStart": "2026-08-10T11:54:00Z",
+      "windowEnd": "2026-08-10T13:12:00Z",
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
