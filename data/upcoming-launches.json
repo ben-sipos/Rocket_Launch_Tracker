@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-08-05T02:08:53.298Z",
+  "generatedAt": "2026-08-05T05:28:24.577Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 9,
   "launches": [
-    {
-      "id": "d46cab82-dcf5-4d70-b698-d7bead7f638c",
-      "missionName": "Unknown Payload",
-      "rocket": "Smart Dragon 3",
-      "provider": "China Rocket Co. Ltd.",
-      "launchSite": "Haiyang Oriental Spaceport",
-      "pad": "Haiyang offshore launch location",
-      "status": "Go for Launch",
-      "net": "2026-08-05T02:35:00Z",
-      "windowStart": "2026-08-05T02:27:00Z",
-      "windowEnd": "2026-08-05T02:48:00Z",
-      "missionType": "Unknown",
-      "description": "Possible ride-share launch to SSO with payload including 2 hyperspectral Earth observation satellites from STAR.VISION. Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=36.631333,121.198361"
-    },
     {
       "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
       "missionName": "BlueBird 11-13 (Block 2 #6-8)",
