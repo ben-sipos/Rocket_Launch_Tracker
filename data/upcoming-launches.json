@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-08-06T07:14:10.094Z",
+  "generatedAt": "2026-08-06T10:07:25.717Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
-    {
-      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
-      "missionName": "The Grain Goddess Provides (iQPS Launch 7)",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Rocket Lab Launch Complex 1A",
-      "status": "Go for Launch",
-      "net": "2026-08-06T09:00:00Z",
-      "windowStart": "2026-08-06T09:00:00Z",
-      "windowEnd": "2026-08-06T09:00:00Z",
-      "missionType": "Earth Science",
-      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-      "mapUrl": "https://www.google.com/maps?q=-39.262833,177.864469"
-    },
     {
       "id": "e4316d4c-9eb8-4a18-9b0d-4307c3970ef6",
       "missionName": "Starlink Group 17-38",
@@ -167,6 +152,21 @@
       "missionType": "Astrophysics",
       "description": "The Nancy Grace Roman Space Telescope is a NASA infrared space telescope with a 2.4 m (7.9 ft) wide field of view primary mirror and two scientific instruments. The Wide-Field Instrument (WFI) is a 300.8-megapixel multi-band visible and near-infrared camera, providing a sharpness of images comparable to that achieved by the Hubble Space Telescope over a 0.28 square degree field of view, 100 times larger than imaging cameras on the Hubble. The Coronagraphic Instrument (CGI) is a high-contrast, small field of view camera and spectrometer covering visible and near-infrared wavelengths using novel starlight-suppression technology. Roman objectives include a search for extra-solar planets using gravitational microlensing, and probing the expansion history of the Universe and the growth of cosmic structure, with the goal of measuring the effects of dark energy, the consistency of general relativity, and the curvature of spacetime.",
       "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
+    },
+    {
+      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
+      "missionName": "LOXSAT 1",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-08-31T00:00:00Z",
+      "windowStart": "2026-08-31T00:00:00Z",
+      "windowEnd": "2026-08-31T00:00:00Z",
+      "missionType": "Technology",
+      "description": "LOXSAT 1 is a demonstration satellite of a complete cryogenic oxygen fluid management system in orbit, developed by Eta Space and sponsored by NASA's Tipping Point program.\r\n\r\nThe system will be integrated on a Rocket Lab Photon-LEO satellite bus and collect critical cryogenic fluid management data in orbit for 9 months, demonstrating capabilities of in-space cryogenic storage and transferal. Eta Space plans to use technology developed for this mission to develop a truly commercial depot intended to serve multiple customers in the future.",
+      "mapUrl": null
     }
   ]
 }
