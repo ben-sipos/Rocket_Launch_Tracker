@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T04:34:12.667Z",
+  "generatedAt": "2026-08-08T05:39:23.252Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -17,21 +17,6 @@
       "missionType": "Communications",
       "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
-      "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
-      "missionName": "Michibiki 7 (QZS-7)",
-      "rocket": "H3-22",
-      "provider": "Mitsubishi Heavy Industries",
-      "launchSite": "Tanegashima Space Center, Japan",
-      "pad": "Yoshinobu Launch Complex LP-2",
-      "status": "Go for Launch",
-      "net": "2026-08-09T19:00:00Z",
-      "windowStart": "2026-08-09T19:00:00Z",
-      "windowEnd": "2026-08-09T20:30:00Z",
-      "missionType": "Navigation",
-      "description": "QZSS (Quasi Zenith Satellite System) is a Japanese satellite navigation system operating from inclined, elliptical geosynchronous orbits to achieve optimal high-elevation visibility in urban canyons and mountainous areas. The navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation.\r\n\r\nThe navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation in inclined, elliptical geosynchronous orbits.",
-      "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
     },
     {
       "id": "cff704ab-8098-4f65-899e-50adaf908e59",
@@ -62,6 +47,21 @@
       "missionType": "Communications",
       "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
+      "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
+      "missionName": "Michibiki 7 (QZS-7)",
+      "rocket": "H3-22",
+      "provider": "Mitsubishi Heavy Industries",
+      "launchSite": "Tanegashima Space Center, Japan",
+      "pad": "Yoshinobu Launch Complex LP-2",
+      "status": "Go for Launch",
+      "net": "2026-08-10T19:00:00Z",
+      "windowStart": "2026-08-10T19:00:00Z",
+      "windowEnd": "2026-08-10T20:30:00Z",
+      "missionType": "Navigation",
+      "description": "QZSS (Quasi Zenith Satellite System) is a Japanese satellite navigation system operating from inclined, elliptical geosynchronous orbits to achieve optimal high-elevation visibility in urban canyons and mountainous areas. The navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation.\r\n\r\nThe navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation in inclined, elliptical geosynchronous orbits.",
+      "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
     },
     {
       "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
