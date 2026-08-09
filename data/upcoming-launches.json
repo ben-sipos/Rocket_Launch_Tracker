@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T07:30:54.188Z",
+  "generatedAt": "2026-08-09T08:37:17.474Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -41,9 +41,9 @@
       "launchSite": "Tanegashima Space Center, Japan",
       "pad": "Yoshinobu Launch Complex LP-2",
       "status": "Go for Launch",
-      "net": "2026-08-10T19:00:00Z",
-      "windowStart": "2026-08-10T19:00:00Z",
-      "windowEnd": "2026-08-10T20:30:00Z",
+      "net": "2026-08-10T19:23:31Z",
+      "windowStart": "2026-08-10T19:23:31Z",
+      "windowEnd": "2026-08-10T20:23:31Z",
       "missionType": "Navigation",
       "description": "QZSS (Quasi Zenith Satellite System) is a Japanese satellite navigation system operating from inclined, elliptical geosynchronous orbits to achieve optimal high-elevation visibility in urban canyons and mountainous areas. The navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation.\r\n\r\nThe navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation in inclined, elliptical geosynchronous orbits.",
       "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
