@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-08-10T11:29:16.101Z",
+  "generatedAt": "2026-08-10T12:10:10.649Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "cff704ab-8098-4f65-899e-50adaf908e59",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 7A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "201",
-      "status": "Go for Launch",
-      "net": "2026-08-10T12:00:00Z",
-      "windowStart": "2026-08-10T11:54:00Z",
-      "windowEnd": "2026-08-10T13:12:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=19.618452,110.955356"
-    },
     {
       "id": "36ab6924-bb36-416a-b71d-cda9e88004be",
       "missionName": "Starlink Group 10-19",
