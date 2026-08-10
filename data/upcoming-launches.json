@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T17:48:44.583Z",
+  "generatedAt": "2026-08-10T18:52:01.291Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -17,21 +17,6 @@
       "missionType": "Navigation",
       "description": "QZSS (Quasi Zenith Satellite System) is a Japanese satellite navigation system operating from inclined, elliptical geosynchronous orbits to achieve optimal high-elevation visibility in urban canyons and mountainous areas. The navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation.\r\n\r\nThe navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation in inclined, elliptical geosynchronous orbits.",
       "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
-    },
-    {
-      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
-      "missionName": "Flight 2",
-      "rocket": "Zhuque-3",
-      "provider": "LandSpace",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 96B",
-      "status": "Go for Launch",
-      "net": "2026-08-10T23:45:00Z",
-      "windowStart": "2026-08-10T23:37:00Z",
-      "windowEnd": "2026-08-11T00:14:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test launch of LandSpace’s ZQ-3 rocket. Payload identities are TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.92017,100.25129"
     },
     {
       "id": "36ab6924-bb36-416a-b71d-cda9e88004be",
@@ -167,6 +152,21 @@
       "missionType": "Earth Science",
       "description": "Third of EUMETSAT's third generation of weather satellite.",
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
+    },
+    {
+      "id": "521f3a1c-f977-4306-9b7f-495858719adf",
+      "missionName": "Nancy Grace Roman Space Telescope",
+      "rocket": "Falcon Heavy",
+      "provider": "SpaceX",
+      "launchSite": "Kennedy Space Center, FL, USA",
+      "pad": "Launch Complex 39A",
+      "status": "Go for Launch",
+      "net": "2026-08-30T11:25:00Z",
+      "windowStart": "2026-08-30T11:25:00Z",
+      "windowEnd": "2026-08-30T11:25:00Z",
+      "missionType": "Astrophysics",
+      "description": "The Nancy Grace Roman Space Telescope is a NASA infrared space telescope with a 2.4 m (7.9 ft) wide field of view primary mirror and two scientific instruments. The Wide-Field Instrument (WFI) is a 300.8-megapixel multi-band visible and near-infrared camera, providing a sharpness of images comparable to that achieved by the Hubble Space Telescope over a 0.28 square degree field of view, 100 times larger than imaging cameras on the Hubble. The Coronagraphic Instrument (CGI) is a high-contrast, small field of view camera and spectrometer covering visible and near-infrared wavelengths using novel starlight-suppression technology. Roman objectives include a search for extra-solar planets using gravitational microlensing, and probing the expansion history of the Universe and the growth of cosmic structure, with the goal of measuring the effects of dark energy, the consistency of general relativity, and the curvature of spacetime.",
+      "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
     }
   ]
 }
