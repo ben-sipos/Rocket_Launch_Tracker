@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-12T15:55:53.950Z",
+  "generatedAt": "2026-08-12T16:54:59.116Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "55b79515-ddbf-4198-8a59-29a12ed21330",
@@ -92,6 +92,21 @@
       "missionType": "Planetary Science",
       "description": "Chang'e 7/CE-7 is scheduled to launch in 2026, including an orbiter, a lander, a mini-hopping probe, and a rover. The mission will land in the South Pole regions of the Moon to study lunar surface environment around the South Pole, especially in looking for water ice in lunar soil.",
       "mapUrl": "https://www.google.com/maps?q=19.614334,110.951011"
+    },
+    {
+      "id": "ad501ebd-a357-4305-90c1-c46c6feb2ecf",
+      "missionName": "Starlink Group 10-49",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "status": "Go for Launch",
+      "net": "2026-08-25T11:00:00Z",
+      "windowStart": "2026-08-25T11:00:00Z",
+      "windowEnd": "2026-08-25T15:00:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
       "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
