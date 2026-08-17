@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-08-17T02:39:08.760Z",
+  "generatedAt": "2026-08-17T03:46:24.428Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "cb6f4df1-c045-423b-904c-e63bf1ee5168",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 2C",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Complex 9",
-      "status": "Go for Launch",
-      "net": "2026-08-17T03:00:00Z",
-      "windowStart": "2026-08-17T02:53:00Z",
-      "windowEnd": "2026-08-17T03:17:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=38.863128,111.589567"
-    },
     {
       "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
       "missionName": "Flight 2",
