@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T01:02:52.913Z",
+  "generatedAt": "2026-08-17T02:39:08.760Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 9,
+  "total": 11,
   "launches": [
     {
       "id": "cb6f4df1-c045-423b-904c-e63bf1ee5168",
@@ -137,6 +137,36 @@
       "missionType": "Earth Science",
       "description": "Third of EUMETSAT's third generation of weather satellite.",
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
+    },
+    {
+      "id": "521f3a1c-f977-4306-9b7f-495858719adf",
+      "missionName": "Nancy Grace Roman Space Telescope",
+      "rocket": "Falcon Heavy",
+      "provider": "SpaceX",
+      "launchSite": "Kennedy Space Center, FL, USA",
+      "pad": "Launch Complex 39A",
+      "status": "Go for Launch",
+      "net": "2026-08-30T11:26:00Z",
+      "windowStart": "2026-08-30T11:26:00Z",
+      "windowEnd": "2026-08-30T11:26:00Z",
+      "missionType": "Astrophysics",
+      "description": "The Nancy Grace Roman Space Telescope is a NASA infrared space telescope with a 2.4 m (7.9 ft) wide field of view primary mirror and two scientific instruments. The Wide-Field Instrument (WFI) is a 300.8-megapixel multi-band visible and near-infrared camera, providing a sharpness of images comparable to that achieved by the Hubble Space Telescope over a 0.28 square degree field of view, 100 times larger than imaging cameras on the Hubble. The Coronagraphic Instrument (CGI) is a high-contrast, small field of view camera and spectrometer covering visible and near-infrared wavelengths using novel starlight-suppression technology. Roman objectives include a search for extra-solar planets using gravitational microlensing, and probing the expansion history of the Universe and the growth of cosmic structure, with the goal of measuring the effects of dark energy, the consistency of general relativity, and the curvature of spacetime.",
+      "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
+    },
+    {
+      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
+      "missionName": "Kosmos (Unknown Payload)",
+      "rocket": "Angara 1.2",
+      "provider": "Russian Space Forces",
+      "launchSite": "Plesetsk Cosmodrome, Russian Federation",
+      "pad": "35/1",
+      "status": "To Be Determined",
+      "net": "2026-08-31T00:00:00Z",
+      "windowStart": "2026-08-31T00:00:00Z",
+      "windowEnd": "2026-08-31T00:00:00Z",
+      "missionType": "Government/Top Secret",
+      "description": "Unknown classified satellite(s) for the Russian military.",
+      "mapUrl": "https://www.google.com/maps?q=62.927319,40.574897"
     }
   ]
 }
