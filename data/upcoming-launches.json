@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-08-18T23:17:53.665Z",
+  "generatedAt": "2026-08-18T23:45:28.704Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
-      "missionName": "Flight 2",
-      "rocket": "Zhuque-3",
-      "provider": "LandSpace",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 96B",
-      "status": "Go for Launch",
-      "net": "2026-08-18T23:35:00Z",
-      "windowStart": "2026-08-18T23:27:00Z",
-      "windowEnd": "2026-08-19T00:04:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test launch of LandSpace’s ZQ-3 rocket. Payload identities are TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.92017,100.25129"
-    },
     {
       "id": "f6958a77-37bb-4559-a108-40ba0ff9e34a",
       "missionName": "Starlink Group 17-50",
