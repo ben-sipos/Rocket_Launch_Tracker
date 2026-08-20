@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T11:52:12.656Z",
+  "generatedAt": "2026-08-20T12:40:00.015Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -9,14 +9,14 @@
       "rocket": "Electron",
       "provider": "Rocket Lab",
       "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Unknown Pad",
+      "pad": "Rocket Lab Launch Complex 1B",
       "status": "Go for Launch",
-      "net": "2026-08-20T13:00:00Z",
-      "windowStart": "2026-08-20T13:00:00Z",
-      "windowEnd": "2026-08-20T13:00:00Z",
+      "net": "2026-08-20T13:04:45Z",
+      "windowStart": "2026-08-20T13:04:45Z",
+      "windowEnd": "2026-08-20T13:04:45Z",
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-      "mapUrl": null
+      "mapUrl": "https://www.google.com/maps?q=-39.262833,177.864469"
     },
     {
       "id": "bbdc4d47-1de3-428e-9fe1-bbf45d9b1e04",
@@ -55,13 +55,28 @@
       "provider": "China Aerospace Science and Technology Corporation",
       "launchSite": "Wenchang Space Launch Site, People's Republic of China",
       "pad": "101",
-      "status": "To Be Confirmed",
-      "net": "2026-08-24T00:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-08-24T00:05:00Z",
       "windowStart": "2026-08-24T00:00:00Z",
-      "windowEnd": "2026-08-24T04:00:00Z",
+      "windowEnd": "2026-08-24T01:06:00Z",
       "missionType": "Planetary Science",
       "description": "Chang'e 7/CE-7 is scheduled to launch in 2026, including an orbiter, a lander, a mini-hopping probe, and a rover. The mission will land in the South Pole regions of the Moon to study lunar surface environment around the South Pole, especially in looking for water ice in lunar soil.",
       "mapUrl": "https://www.google.com/maps?q=19.614334,110.951011"
+    },
+    {
+      "id": "48c449c2-3c09-4d36-9c2a-d853b3a39289",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 6C",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 9A",
+      "status": "Go for Launch",
+      "net": "2026-08-25T03:20:00Z",
+      "windowStart": "2026-08-25T03:15:00Z",
+      "windowEnd": "2026-08-25T03:40:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
     },
     {
       "id": "ad501ebd-a357-4305-90c1-c46c6feb2ecf",
@@ -167,21 +182,6 @@
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": null
-    },
-    {
-      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
-      "missionName": "Flight 2",
-      "rocket": "Long March 12A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Long March 12 series Pad",
-      "status": "To Be Determined",
-      "net": "2026-08-31T00:00:00Z",
-      "windowStart": "2026-08-31T00:00:00Z",
-      "windowEnd": "2026-08-31T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.891596,100.217289"
     }
   ]
 }
