@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T03:42:15.798Z",
+  "generatedAt": "2026-08-20T04:32:46.903Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "57280454-470e-4c5d-8de1-1bbd0ea41b49",
@@ -167,6 +167,21 @@
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": null
+    },
+    {
+      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
+      "missionName": "Flight 2",
+      "rocket": "Long March 12A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Long March 12 series Pad",
+      "status": "To Be Determined",
+      "net": "2026-08-31T00:00:00Z",
+      "windowStart": "2026-08-31T00:00:00Z",
+      "windowEnd": "2026-08-31T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
+      "mapUrl": "https://www.google.com/maps?q=40.891596,100.217289"
     }
   ]
 }
