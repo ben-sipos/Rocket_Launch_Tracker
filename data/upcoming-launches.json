@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T06:34:38.534Z",
+  "generatedAt": "2026-08-23T07:29:44.256Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "9d402fb6-9115-424d-b6f0-bd3b13ee310e",
@@ -167,6 +167,21 @@
       "missionType": "Test Flight",
       "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
       "mapUrl": null
+    },
+    {
+      "id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
+      "missionName": "Demo Flight",
+      "rocket": "Pallas-1",
+      "provider": "Galactic Energy",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Pallas-1 Launch Pad",
+      "status": "To Be Determined",
+      "net": "2026-08-31T00:00:00Z",
+      "windowStart": "2026-08-31T00:00:00Z",
+      "windowEnd": "2026-08-31T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "First test launch of Galactic Energy’s Pallas-1 rocket.",
+      "mapUrl": "https://www.google.com/maps?q=40.775962,100.107214"
     }
   ]
 }
