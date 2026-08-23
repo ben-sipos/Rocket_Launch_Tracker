@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-08-23T12:32:07.086Z",
+  "generatedAt": "2026-08-23T13:28:33.781Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
-    {
-      "id": "9d402fb6-9115-424d-b6f0-bd3b13ee310e",
-      "missionName": "Chang'e 7",
-      "rocket": "Long March 5",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "101",
-      "status": "Go for Launch",
-      "net": "2026-08-25T00:30:00Z",
-      "windowStart": "2026-08-25T00:24:00Z",
-      "windowEnd": "2026-08-25T01:32:00Z",
-      "missionType": "Planetary Science",
-      "description": "Chang'e 7/CE-7 is scheduled to launch in 2026, including an orbiter, a lander, a mini-hopping probe, and a rover. The mission will land in the South Pole regions of the Moon to study lunar surface environment around the South Pole, especially in looking for water ice in lunar soil.",
-      "mapUrl": "https://www.google.com/maps?q=19.614334,110.951011"
-    },
     {
       "id": "48c449c2-3c09-4d36-9c2a-d853b3a39289",
       "missionName": "Unknown Payload",
@@ -182,6 +167,21 @@
       "missionType": "Test Flight",
       "description": "First test launch of Galactic Energy’s Pallas-1 rocket.",
       "mapUrl": "https://www.google.com/maps?q=40.775962,100.107214"
+    },
+    {
+      "id": "458e2e52-87b0-4707-96d8-6899f92e53ee",
+      "missionName": "Glonass-K1 No. 19",
+      "rocket": "Soyuz 2.1b Fregat",
+      "provider": "Russian Space Forces",
+      "launchSite": "Plesetsk Cosmodrome, Russian Federation",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-08-31T00:00:00Z",
+      "windowStart": "2026-08-31T00:00:00Z",
+      "windowEnd": "2026-08-31T00:00:00Z",
+      "missionType": "Navigation",
+      "description": "Glonass-K are the third generation of satellite design for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and design life. Each satellite is unpressurized and weighs 935 kg,  and has an operational lifetime of 10 years.",
+      "mapUrl": "https://www.google.com/maps?q=62.925556,40.577778"
     }
   ]
 }
