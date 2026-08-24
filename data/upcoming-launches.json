@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T01:04:02.343Z",
+  "generatedAt": "2026-08-24T02:43:31.926Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -94,36 +94,6 @@
       "mapUrl": "https://www.google.com/maps?q=62.927319,40.574897"
     },
     {
-      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
-      "missionName": "LOXSAT 1",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-08-31T00:00:00Z",
-      "windowStart": "2026-08-31T00:00:00Z",
-      "windowEnd": "2026-08-31T00:00:00Z",
-      "missionType": "Technology",
-      "description": "LOXSAT 1 is a demonstration satellite of a complete cryogenic oxygen fluid management system in orbit, developed by Eta Space and sponsored by NASA's Tipping Point program.\r\n\r\nThe system will be integrated on a Rocket Lab Photon-LEO satellite bus and collect critical cryogenic fluid management data in orbit for 9 months, demonstrating capabilities of in-space cryogenic storage and transferal. Eta Space plans to use technology developed for this mission to develop a truly commercial depot intended to serve multiple customers in the future.",
-      "mapUrl": null
-    },
-    {
-      "id": "9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
-      "missionName": "StriX Launch 11",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-08-31T00:00:00Z",
-      "windowStart": "2026-08-31T00:00:00Z",
-      "windowEnd": "2026-08-31T00:00:00Z",
-      "missionType": "Earth Science",
-      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
-      "mapUrl": null
-    },
-    {
       "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
       "missionName": "Flight 2",
       "rocket": "Long March 12A",
@@ -182,6 +152,36 @@
       "missionType": "Navigation",
       "description": "Glonass-K are the third generation of satellite design for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and design life. Each satellite is unpressurized and weighs 935 kg,  and has an operational lifetime of 10 years.",
       "mapUrl": "https://www.google.com/maps?q=62.925556,40.577778"
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "missionName": "Onward and Upward",
+      "rocket": "Spectrum",
+      "provider": "Isar Aerospace",
+      "launchSite": "Andøya Spaceport",
+      "pad": "Orbital Launch Pad",
+      "status": "To Be Determined",
+      "net": "2026-08-31T00:00:00Z",
+      "windowStart": "2026-08-31T00:00:00Z",
+      "windowEnd": "2026-08-31T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
+      "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
+    },
+    {
+      "id": "9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
+      "missionName": "Owl Around The World (StriX Launch 11)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "Go for Launch",
+      "net": "2026-08-31T12:00:00Z",
+      "windowStart": "2026-08-31T12:00:00Z",
+      "windowEnd": "2026-08-31T12:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+      "mapUrl": null
     }
   ]
 }
