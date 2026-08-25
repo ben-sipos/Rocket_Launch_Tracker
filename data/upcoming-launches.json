@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T17:27:37.818Z",
+  "generatedAt": "2026-08-25T17:56:41.728Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
@@ -11,7 +11,7 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-08-26T09:27:09Z",
+      "net": "2026-08-26T09:34:48Z",
       "windowStart": "2026-08-26T09:27:00Z",
       "windowEnd": "2026-08-26T13:27:00Z",
       "missionType": "Communications",
