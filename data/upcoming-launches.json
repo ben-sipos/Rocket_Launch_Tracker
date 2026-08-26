@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:04:50.186Z",
+  "generatedAt": "2026-08-26T11:00:24.900Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -62,21 +62,6 @@
       "missionType": "Test Flight",
       "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
       "mapUrl": "https://www.google.com/maps?q=40.891596,100.217289"
-    },
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "missionName": "Demo Flight",
-      "rocket": "Mir",
-      "provider": "Agency for Defense Development",
-      "launchSite": "Sea Launch",
-      "pad": "ADD Offshore launch platform",
-      "status": "To Be Determined",
-      "net": "2026-08-31T00:00:00Z",
-      "windowStart": "2026-08-31T00:00:00Z",
-      "windowEnd": "2026-08-31T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
     },
     {
       "id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
@@ -167,6 +152,21 @@
       "missionType": "Human Exploration",
       "description": "SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
+      "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+      "missionName": "Sentinel-3C & FLEX",
+      "rocket": "Vega-C",
+      "provider": "Avio S.p.A",
+      "launchSite": "Guiana Space Centre, French Guiana",
+      "pad": "Ariane Launch Area 1 (ELV)",
+      "status": "Go for Launch",
+      "net": "2026-09-15T01:21:07Z",
+      "windowStart": "2026-09-15T01:21:07Z",
+      "windowEnd": "2026-09-15T01:21:07Z",
+      "missionType": "Earth Science",
+      "description": "Sentinel-3C is the third satellite in the Sentinel-3 constellation, which provides high-accuracy optical, radar and altimetry data for marine and land services.\r\n\r\nThe Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer program. The satellite will map vegetation fluorescence to quantify photosynthetic activity.",
+      "mapUrl": "https://www.google.com/maps?q=5.236,-52.775"
     }
   ]
 }
