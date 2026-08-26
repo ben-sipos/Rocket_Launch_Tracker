@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:14:24.113Z",
+  "generatedAt": "2026-08-26T18:12:15.395Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -130,10 +130,10 @@
       "provider": "Russian Federal Space Agency (ROSCOSMOS)",
       "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
       "pad": "31/6",
-      "status": "To Be Confirmed",
-      "net": "2026-09-09T16:10:00Z",
-      "windowStart": "2026-09-09T16:10:00Z",
-      "windowEnd": "2026-09-09T16:10:00Z",
+      "status": "Go for Launch",
+      "net": "2026-09-09T16:15:03Z",
+      "windowStart": "2026-09-09T16:15:03Z",
+      "windowEnd": "2026-09-09T16:15:03Z",
       "missionType": "Resupply",
       "description": "Progress resupply mission to the International Space Station.",
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
