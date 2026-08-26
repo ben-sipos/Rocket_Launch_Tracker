@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T02:45:12.012Z",
+  "generatedAt": "2026-08-26T03:50:46.920Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "95653d52-bb77-4860-a815-dd7141778d17",
@@ -152,6 +152,21 @@
       "missionType": "Communications",
       "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "missionName": "Progress MS-35 (96P)",
+      "rocket": "Soyuz 2.1b",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "31/6",
+      "status": "To Be Confirmed",
+      "net": "2026-09-09T16:10:00Z",
+      "windowStart": "2026-09-09T16:10:00Z",
+      "windowEnd": "2026-09-09T16:10:00Z",
+      "missionType": "Resupply",
+      "description": "Progress resupply mission to the International Space Station.",
+      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     }
   ]
 }
