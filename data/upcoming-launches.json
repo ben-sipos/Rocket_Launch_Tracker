@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-27T00:25:05.537Z",
+  "generatedAt": "2026-08-27T10:06:05.754Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
@@ -49,36 +49,6 @@
       "mapUrl": "https://www.google.com/maps?q=62.927319,40.574897"
     },
     {
-      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
-      "missionName": "Flight 2",
-      "rocket": "Long March 12A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Long March 12 series Pad",
-      "status": "To Be Determined",
-      "net": "2026-08-31T00:00:00Z",
-      "windowStart": "2026-08-31T00:00:00Z",
-      "windowEnd": "2026-08-31T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.891596,100.217289"
-    },
-    {
-      "id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
-      "missionName": "Demo Flight",
-      "rocket": "Pallas-1",
-      "provider": "Galactic Energy",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Pallas-1 Launch Pad",
-      "status": "To Be Determined",
-      "net": "2026-08-31T00:00:00Z",
-      "windowStart": "2026-08-31T00:00:00Z",
-      "windowEnd": "2026-08-31T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "First test launch of Galactic Energy’s Pallas-1 rocket.",
-      "mapUrl": "https://www.google.com/maps?q=40.775962,100.107214"
-    },
-    {
       "id": "9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
       "missionName": "Owl Around The World (StriX Launch 11)",
       "rocket": "Electron",
@@ -94,6 +64,21 @@
       "mapUrl": null
     },
     {
+      "id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
+      "missionName": "Demo Flight",
+      "rocket": "Pallas-1",
+      "provider": "Galactic Energy",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Pallas-1 Launch Pad",
+      "status": "Go for Launch",
+      "net": "2026-09-01T02:00:00Z",
+      "windowStart": "2026-09-01T01:52:00Z",
+      "windowEnd": "2026-09-01T04:09:00Z",
+      "missionType": "Test Flight",
+      "description": "First test launch of Galactic Energy’s Pallas-1 rocket.",
+      "mapUrl": "https://www.google.com/maps?q=40.775962,100.107214"
+    },
+    {
       "id": "63181269-b125-4c36-951c-c9bd9bbc4b55",
       "missionName": "Starlink Group 15-23",
       "rocket": "Falcon 9 Block 5",
@@ -107,6 +92,21 @@
       "missionType": "Communications",
       "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "missionName": "GISAT-1A (EOS-05)",
+      "rocket": "GSLV Mk. II",
+      "provider": "Indian Space Research Organization",
+      "launchSite": "Satish Dhawan Space Centre, India",
+      "pad": "Satish Dhawan Space Centre Second Launch Pad",
+      "status": "To Be Confirmed",
+      "net": "2026-09-03T21:00:00Z",
+      "windowStart": "2026-09-03T21:00:00Z",
+      "windowEnd": "2026-09-04T01:00:00Z",
+      "missionType": "Earth Science",
+      "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
+      "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
     },
     {
       "id": "153ef8ef-b12b-43f4-a4bf-05b225c0cd37",
@@ -167,6 +167,21 @@
       "missionType": "Earth Science",
       "description": "Sentinel-3C is the third satellite in the Sentinel-3 constellation, which provides high-accuracy optical, radar and altimetry data for marine and land services.\r\n\r\nThe Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer program. The satellite will map vegetation fluorescence to quantify photosynthetic activity.",
       "mapUrl": "https://www.google.com/maps?q=5.236,-52.775"
+    },
+    {
+      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
+      "missionName": "LOXSAT 1",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-09-30T00:00:00Z",
+      "windowStart": "2026-09-30T00:00:00Z",
+      "windowEnd": "2026-09-30T00:00:00Z",
+      "missionType": "Technology",
+      "description": "LOXSAT 1 is a demonstration satellite of a complete cryogenic oxygen fluid management system in orbit, developed by Eta Space and sponsored by NASA's Tipping Point program.\r\n\r\nThe system will be integrated on a Rocket Lab Photon-LEO satellite bus and collect critical cryogenic fluid management data in orbit for 9 months, demonstrating capabilities of in-space cryogenic storage and transferal. Eta Space plans to use technology developed for this mission to develop a truly commercial depot intended to serve multiple customers in the future.",
+      "mapUrl": null
     }
   ]
 }
