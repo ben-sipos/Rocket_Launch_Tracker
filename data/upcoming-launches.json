@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T08:05:51.070Z",
+  "generatedAt": "2026-08-29T13:55:17.020Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -11,9 +11,9 @@
       "launchSite": "Kennedy Space Center, FL, USA",
       "pad": "Launch Complex 39A",
       "status": "Go for Launch",
-      "net": "2026-08-30T11:26:00Z",
-      "windowStart": "2026-08-30T11:26:00Z",
-      "windowEnd": "2026-08-30T11:26:00Z",
+      "net": "2026-08-30T11:25:49Z",
+      "windowStart": "2026-08-30T11:25:49Z",
+      "windowEnd": "2026-08-30T11:25:49Z",
       "missionType": "Astrophysics",
       "description": "The Nancy Grace Roman Space Telescope is a NASA infrared space telescope with a 2.4 m (7.9 ft) wide field of view primary mirror and two scientific instruments. The Wide-Field Instrument (WFI) is a 300.8-megapixel multi-band visible and near-infrared camera, providing a sharpness of images comparable to that achieved by the Hubble Space Telescope over a 0.28 square degree field of view, 100 times larger than imaging cameras on the Hubble. The Coronagraphic Instrument (CGI) is a high-contrast, small field of view camera and spectrometer covering visible and near-infrared wavelengths using novel starlight-suppression technology. Roman objectives include a search for extra-solar planets using gravitational microlensing, and probing the expansion history of the Universe and the growth of cosmic structure, with the goal of measuring the effects of dark energy, the consistency of general relativity, and the curvature of spacetime.",
       "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
@@ -70,12 +70,12 @@
       "provider": "Indian Space Research Organization",
       "launchSite": "Satish Dhawan Space Centre, India",
       "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "status": "To Be Confirmed",
-      "net": "2026-09-03T21:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-09-03T21:25:00Z",
       "windowStart": "2026-09-03T21:00:00Z",
       "windowEnd": "2026-09-04T01:00:00Z",
       "missionType": "Earth Science",
-      "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
+      "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.\r\n\r\nEOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.",
       "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
     },
     {
