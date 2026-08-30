@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:06:46.366Z",
+  "generatedAt": "2026-08-30T16:53:37.549Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -109,6 +109,21 @@
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     },
     {
+      "id": "63063b9d-ade9-4448-8717-6f910aa81188",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 8A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-1",
+      "status": "To Be Confirmed",
+      "net": "2026-09-11T16:00:00Z",
+      "windowStart": "2026-09-11T16:00:00Z",
+      "windowEnd": "2026-09-11T20:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
+    },
+    {
       "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
       "missionName": "Sentinel-3C & FLEX",
       "rocket": "Vega-C",
@@ -151,21 +166,6 @@
       "windowEnd": "2026-09-30T00:00:00Z",
       "missionType": "Human Exploration",
       "description": "SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
-    {
-      "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
-      "missionName": "O3b mPower 11-13",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "status": "To Be Determined",
-      "net": "2026-09-30T00:00:00Z",
-      "windowStart": "2026-09-30T00:00:00Z",
-      "windowEnd": "2026-09-30T00:00:00Z",
-      "missionType": "Communications",
-      "description": "3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     }
   ]
