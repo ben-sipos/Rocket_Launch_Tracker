@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-08-30T06:11:53.702Z",
+  "generatedAt": "2026-08-30T12:06:46.366Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "521f3a1c-f977-4306-9b7f-495858719adf",
-      "missionName": "Nancy Grace Roman Space Telescope",
-      "rocket": "Falcon Heavy",
-      "provider": "SpaceX",
-      "launchSite": "Kennedy Space Center, FL, USA",
-      "pad": "Launch Complex 39A",
-      "status": "Go for Launch",
-      "net": "2026-08-30T11:25:49Z",
-      "windowStart": "2026-08-30T11:25:49Z",
-      "windowEnd": "2026-08-30T11:26:19Z",
-      "missionType": "Astrophysics",
-      "description": "The Nancy Grace Roman Space Telescope is a NASA infrared space telescope with a 2.4 m (7.9 ft) wide field of view primary mirror and two scientific instruments. The Wide-Field Instrument (WFI) is a 300.8-megapixel multi-band visible and near-infrared camera, providing a sharpness of images comparable to that achieved by the Hubble Space Telescope over a 0.28 square degree field of view, 100 times larger than imaging cameras on the Hubble. The Coronagraphic Instrument (CGI) is a high-contrast, small field of view camera and spectrometer covering visible and near-infrared wavelengths using novel starlight-suppression technology. Roman objectives include a search for extra-solar planets using gravitational microlensing, and probing the expansion history of the Universe and the growth of cosmic structure, with the goal of measuring the effects of dark energy, the consistency of general relativity, and the curvature of spacetime.",
-      "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
-    },
     {
       "id": "9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
       "missionName": "Owl Around The World (StriX Launch 11)",
