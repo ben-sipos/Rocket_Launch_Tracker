@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T16:57:44.804Z",
+  "generatedAt": "2026-09-02T19:38:57.211Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
@@ -80,17 +80,17 @@
     },
     {
       "id": "3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-      "missionName": "USSF-xxx (\"R-2\")",
+      "missionName": "USSF-153",
       "rocket": "Falcon 9 Block 5",
       "provider": "SpaceX",
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "net": "2026-09-10T15:37:00Z",
       "windowStart": "2026-09-10T15:37:00Z",
-      "windowEnd": "2026-09-10T19:20:00Z",
+      "windowEnd": "2026-09-10T18:37:00Z",
       "missionType": "Government/Top Secret",
-      "description": "Note: Actual USSF launch mission number to be confirmed.\r\n\r\nClassified mission for the United States Space Force. It is possibly a batch of classified LEO satellites for a US government entity based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+      "description": "USSF-153 is a classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites for a US government entity based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
