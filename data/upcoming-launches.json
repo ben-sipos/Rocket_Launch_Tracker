@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T09:51:57.514Z",
+  "generatedAt": "2026-09-04T13:58:17.919Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -11,9 +11,9 @@
       "launchSite": "Andøya Spaceport",
       "pad": "Orbital Launch Pad",
       "status": "To Be Confirmed",
-      "net": "2026-09-04T20:00:00Z",
-      "windowStart": "2026-09-04T20:00:00Z",
-      "windowEnd": "2026-09-04T21:00:00Z",
+      "net": "2026-09-05T20:00:00Z",
+      "windowStart": "2026-09-05T20:00:00Z",
+      "windowEnd": "2026-09-05T21:00:00Z",
       "missionType": "Test Flight",
       "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
       "mapUrl": "https://www.google.com/maps?q=69.1084,15.5895"
