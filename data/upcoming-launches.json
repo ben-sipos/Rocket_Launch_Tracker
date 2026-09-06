@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T19:23:02.192Z",
+  "generatedAt": "2026-09-06T21:31:26.792Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
@@ -152,6 +152,21 @@
       "missionType": "Test Flight",
       "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
       "mapUrl": "https://www.google.com/maps?q=40.891596,100.217289"
+    },
+    {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "missionName": "Flight 14",
+      "rocket": "Starship V3",
+      "provider": "SpaceX",
+      "launchSite": "SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Pad 2",
+      "status": "To Be Determined",
+      "net": "2026-09-30T00:00:00Z",
+      "windowStart": "2026-09-30T00:00:00Z",
+      "windowEnd": "2026-09-30T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3.",
+      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
     }
   ]
 }
