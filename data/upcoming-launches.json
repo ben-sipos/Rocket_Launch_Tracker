@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-09-08T13:17:15.241Z",
+  "generatedAt": "2026-09-08T17:19:10.063Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
-    {
-      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
-      "missionName": "Progress MS-35 (96P)",
-      "rocket": "Soyuz 2.1b",
-      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "pad": "31/6",
-      "status": "Go for Launch",
-      "net": "2026-09-09T16:15:03Z",
-      "windowStart": "2026-09-09T16:15:03Z",
-      "windowEnd": "2026-09-09T16:15:03Z",
-      "missionType": "Resupply",
-      "description": "Progress resupply mission to the International Space Station.",
-      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
-    },
     {
       "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
       "missionName": "Unknown Payload",
@@ -79,6 +64,21 @@
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "missionName": "Flight 14",
+      "rocket": "Starship V3",
+      "provider": "SpaceX",
+      "launchSite": "SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Pad 2",
+      "status": "To Be Determined",
+      "net": "2026-09-15T00:00:00Z",
+      "windowStart": "2026-09-15T00:00:00Z",
+      "windowEnd": "2026-09-15T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
+      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
+    },
+    {
       "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
       "missionName": "Sentinel-3C & FLEX",
       "rocket": "Vega-C",
@@ -92,6 +92,51 @@
       "missionType": "Earth Science",
       "description": "Sentinel-3C is the third satellite in the Sentinel-3 constellation, which provides high-accuracy optical, radar and altimetry data for marine and land services.\r\n\r\nThe Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer program. The satellite will map vegetation fluorescence to quantify photosynthetic activity.",
       "mapUrl": "https://www.google.com/maps?q=5.236,-52.775"
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "missionName": "Progress MS-35 (96P)",
+      "rocket": "Soyuz 2.1b",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "31/6",
+      "status": "To Be Determined",
+      "net": "2026-09-16T00:00:00Z",
+      "windowStart": "2026-09-16T00:00:00Z",
+      "windowEnd": "2026-09-16T00:00:00Z",
+      "missionType": "Resupply",
+      "description": "Progress resupply mission to the International Space Station.",
+      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
+    },
+    {
+      "id": "898f7df0-b6ce-4a5c-80b4-67e81842124e",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 12",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-2",
+      "status": "To Be Confirmed",
+      "net": "2026-09-17T00:00:00Z",
+      "windowStart": "2026-09-17T00:00:00Z",
+      "windowEnd": "2026-09-17T04:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
+    },
+    {
+      "id": "d1471f9d-e9d0-4146-8e97-90863e48bfc8",
+      "missionName": "Starlink Group 15-27",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "net": "2026-09-20T01:47:00Z",
+      "windowStart": "2026-09-20T01:47:00Z",
+      "windowEnd": "2026-09-20T05:47:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
@@ -137,51 +182,6 @@
       "missionType": "Government/Top Secret",
       "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
-      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
-      "missionName": "Flight 2",
-      "rocket": "Long March 12A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Long March 12 series Pad",
-      "status": "To Be Determined",
-      "net": "2026-09-30T00:00:00Z",
-      "windowStart": "2026-09-30T00:00:00Z",
-      "windowEnd": "2026-09-30T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.891596,100.217289"
-    },
-    {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "missionName": "Flight 14",
-      "rocket": "Starship V3",
-      "provider": "SpaceX",
-      "launchSite": "SpaceX Starbase, TX, USA",
-      "pad": "Orbital Launch Pad 2",
-      "status": "To Be Determined",
-      "net": "2026-09-30T00:00:00Z",
-      "windowStart": "2026-09-30T00:00:00Z",
-      "windowEnd": "2026-09-30T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3.",
-      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
-    },
-    {
-      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-      "missionName": "Amazon Leo (LV-01)",
-      "rocket": "Vulcan VC6L",
-      "provider": "United Launch Alliance",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
-      "net": "2026-09-30T00:00:00Z",
-      "windowStart": "2026-09-30T00:00:00Z",
-      "windowEnd": "2026-09-30T00:00:00Z",
-      "missionType": "Communications",
-      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
-      "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
     }
   ]
 }
