@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T07:45:34.104Z",
+  "generatedAt": "2026-09-11T12:33:59.500Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 9,
+  "total": 10,
   "launches": [
     {
       "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
@@ -137,6 +137,21 @@
       "missionType": "Test Flight",
       "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
       "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
+    },
+    {
+      "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 2D",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 9",
+      "status": "Go for Launch",
+      "net": "2026-09-19T10:50:00Z",
+      "windowStart": "2026-09-19T10:43:00Z",
+      "windowEnd": "2026-09-19T11:06:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=38.863128,111.589567"
     }
   ]
 }
