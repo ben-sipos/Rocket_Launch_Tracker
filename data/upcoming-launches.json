@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T19:25:42.380Z",
+  "generatedAt": "2026-09-11T21:51:12.413Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -130,10 +130,10 @@
       "provider": "SpaceX",
       "launchSite": "SpaceX Starbase, TX, USA",
       "pad": "Orbital Launch Pad 2",
-      "status": "To Be Determined",
-      "net": "2026-09-18T00:00:00Z",
-      "windowStart": "2026-09-18T00:00:00Z",
-      "windowEnd": "2026-09-18T00:00:00Z",
+      "status": "To Be Confirmed",
+      "net": "2026-09-18T12:15:00Z",
+      "windowStart": "2026-09-18T12:15:00Z",
+      "windowEnd": "2026-09-18T14:14:00Z",
       "missionType": "Test Flight",
       "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
       "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
