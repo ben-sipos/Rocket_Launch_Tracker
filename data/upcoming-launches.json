@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T11:42:22.425Z",
+  "generatedAt": "2026-09-14T17:36:38.511Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -109,21 +109,6 @@
       "mapUrl": "https://www.google.com/maps?q=40.969117,100.343333"
     },
     {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "missionName": "Flight 14",
-      "rocket": "Starship V3",
-      "provider": "SpaceX",
-      "launchSite": "SpaceX Starbase, TX, USA",
-      "pad": "Orbital Launch Pad 2",
-      "status": "To Be Confirmed",
-      "net": "2026-09-18T12:15:00Z",
-      "windowStart": "2026-09-18T12:15:00Z",
-      "windowEnd": "2026-09-18T14:14:00Z",
-      "missionType": "Test Flight",
-      "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
-      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
-    },
-    {
       "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
       "missionName": "Unknown Payload",
       "rocket": "Long March 2D",
@@ -152,6 +137,21 @@
       "missionType": "Communications",
       "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "missionName": "Flight 14",
+      "rocket": "Starship V3",
+      "provider": "SpaceX",
+      "launchSite": "SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Pad 2",
+      "status": "To Be Confirmed",
+      "net": "2026-09-22T12:15:00Z",
+      "windowStart": "2026-09-22T12:15:00Z",
+      "windowEnd": "2026-09-22T14:14:00Z",
+      "missionType": "Test Flight",
+      "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
+      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
     },
     {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
