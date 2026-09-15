@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-09-14T23:56:12.170Z",
+  "generatedAt": "2026-09-15T03:35:28.523Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
-      "missionName": "Sentinel-3C & FLEX",
-      "rocket": "Vega-C",
-      "provider": "Avio S.p.A",
-      "launchSite": "Guiana Space Centre, French Guiana",
-      "pad": "Ariane Launch Area 1 (ELV)",
-      "status": "Go for Launch",
-      "net": "2026-09-15T01:21:07Z",
-      "windowStart": "2026-09-15T01:21:07Z",
-      "windowEnd": "2026-09-15T01:21:07Z",
-      "missionType": "Earth Science",
-      "description": "Sentinel-3C is the third satellite in the Sentinel-3 constellation, which provides high-accuracy optical, radar and altimetry data for marine and land services.\r\n\r\nThe Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer program. The satellite will map vegetation fluorescence to quantify photosynthetic activity.",
-      "mapUrl": "https://www.google.com/maps?q=5.236,-52.775"
-    },
     {
       "id": "de446468-057f-4c9d-a6a1-af99c93b541e",
       "missionName": "Unknown Payload",
