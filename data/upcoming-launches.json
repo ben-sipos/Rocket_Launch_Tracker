@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-09-15T03:35:28.523Z",
+  "generatedAt": "2026-09-15T09:10:14.917Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "de446468-057f-4c9d-a6a1-af99c93b541e",
-      "missionName": "Unknown Payload",
-      "rocket": "Zhuque-2E Block 2",
-      "provider": "LandSpace",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 96A",
-      "status": "Go for Launch",
-      "net": "2026-09-15T06:25:00Z",
-      "windowStart": "2026-09-15T06:18:00Z",
-      "windowEnd": "2026-09-15T06:40:00Z",
-      "missionType": "Unknown",
-      "description": "Possibly launch of a batch of SpaceSail LEO communication satellites. Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.91491,100.245488"
-    },
     {
       "id": "767f7827-53d8-4621-803b-f456a1e6b512",
       "missionName": "Unknown Payload",
