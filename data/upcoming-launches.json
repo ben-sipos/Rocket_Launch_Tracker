@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T03:34:17.659Z",
+  "generatedAt": "2026-09-16T09:02:34.447Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
@@ -107,6 +107,21 @@
       "missionType": "Communications",
       "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "5af31461-bce5-4cfb-a0ee-b527cf285d90",
+      "missionName": "Unknown Payload",
+      "rocket": "Kinetica 1",
+      "provider": "CAS Space",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Area 130",
+      "status": "Go for Launch",
+      "net": "2026-09-20T04:00:00Z",
+      "windowStart": "2026-09-20T03:54:00Z",
+      "windowEnd": "2026-09-20T04:15:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=40.8182,100.22514"
     },
     {
       "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
