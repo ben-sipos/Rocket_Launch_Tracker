@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T10:14:36.333Z",
+  "generatedAt": "2026-09-17T15:09:31.283Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 8,
+  "total": 9,
   "launches": [
     {
       "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
@@ -122,6 +122,21 @@
       "missionType": "Government/Top Secret",
       "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
+      "missionName": "Flight 2",
+      "rocket": "Long March 12A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Long March 12 series Pad",
+      "status": "To Be Determined",
+      "net": "2026-09-30T00:00:00Z",
+      "windowStart": "2026-09-30T00:00:00Z",
+      "windowEnd": "2026-09-30T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
+      "mapUrl": "https://www.google.com/maps?q=40.891596,100.217289"
     }
   ]
 }
