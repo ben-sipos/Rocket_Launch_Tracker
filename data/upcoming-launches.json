@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-18T05:31:14.137Z",
+  "generatedAt": "2026-09-18T10:30:27.898Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
     {
       "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
@@ -137,21 +137,6 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
-    },
-    {
-      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
-      "missionName": "Kosmos (Unknown Payload)",
-      "rocket": "Soyuz 2.1b Fregat-M",
-      "provider": "Russian Space Forces",
-      "launchSite": "Plesetsk Cosmodrome, Russian Federation",
-      "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-09-30T00:00:00Z",
-      "windowStart": "2026-09-30T00:00:00Z",
-      "windowEnd": "2026-09-30T00:00:00Z",
-      "missionType": "Government/Top Secret",
-      "description": "Note: Launch vehicle and payload identities highly uncertain.\r\n\r\nUnknown classified satellite(s) for the Russian military.",
-      "mapUrl": "https://www.google.com/maps?q=62.925556,40.577778"
     },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
