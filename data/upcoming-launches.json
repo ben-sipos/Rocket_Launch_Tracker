@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T22:19:29.882Z",
+  "generatedAt": "2026-09-18T00:35:35.162Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 9,
+  "total": 10,
   "launches": [
     {
       "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
@@ -137,6 +137,21 @@
       "missionType": "Test Flight",
       "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
       "mapUrl": "https://www.google.com/maps?q=40.891596,100.217289"
+    },
+    {
+      "id": "63063b9d-ade9-4448-8717-6f910aa81188",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 8A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-1",
+      "status": "To Be Determined",
+      "net": "2026-09-30T00:00:00Z",
+      "windowStart": "2026-09-30T00:00:00Z",
+      "windowEnd": "2026-09-30T00:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
     }
   ]
 }
