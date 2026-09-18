@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-18T00:35:35.162Z",
+  "generatedAt": "2026-09-18T05:31:14.137Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 12,
   "launches": [
     {
       "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
@@ -9,14 +9,14 @@
       "rocket": "Electron",
       "provider": "Rocket Lab",
       "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Unknown Pad",
+      "pad": "Rocket Lab Launch Complex 1B",
       "status": "Go for Launch",
       "net": "2026-09-19T03:15:00Z",
       "windowStart": "2026-09-19T03:15:00Z",
       "windowEnd": "2026-09-19T03:15:00Z",
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
-      "mapUrl": null
+      "mapUrl": "https://www.google.com/maps?q=-39.262833,177.864469"
     },
     {
       "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
@@ -109,21 +109,6 @@
       "mapUrl": null
     },
     {
-      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-      "missionName": "SDA Tranche 1 Transport Layer A",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "To Be Determined",
-      "net": "2026-09-30T00:00:00Z",
-      "windowStart": "2026-09-30T00:00:00Z",
-      "windowEnd": "2026-09-30T00:00:00Z",
-      "missionType": "Government/Top Secret",
-      "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
       "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
       "missionName": "Flight 2",
       "rocket": "Long March 12A",
@@ -152,6 +137,51 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
+    },
+    {
+      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
+      "missionName": "Kosmos (Unknown Payload)",
+      "rocket": "Soyuz 2.1b Fregat-M",
+      "provider": "Russian Space Forces",
+      "launchSite": "Plesetsk Cosmodrome, Russian Federation",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-09-30T00:00:00Z",
+      "windowStart": "2026-09-30T00:00:00Z",
+      "windowEnd": "2026-09-30T00:00:00Z",
+      "missionType": "Government/Top Secret",
+      "description": "Note: Launch vehicle and payload identities highly uncertain.\r\n\r\nUnknown classified satellite(s) for the Russian military.",
+      "mapUrl": "https://www.google.com/maps?q=62.925556,40.577778"
+    },
+    {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "missionName": "Amazon Leo (LV-01)",
+      "rocket": "Vulcan VC6L",
+      "provider": "United Launch Alliance",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 41",
+      "status": "To Be Determined",
+      "net": "2026-09-30T00:00:00Z",
+      "windowStart": "2026-09-30T00:00:00Z",
+      "windowEnd": "2026-09-30T00:00:00Z",
+      "missionType": "Communications",
+      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
+      "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
+    },
+    {
+      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
+      "missionName": "6x HawkEye 360",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-09-30T00:00:00Z",
+      "windowStart": "2026-09-30T00:00:00Z",
+      "windowEnd": "2026-09-30T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO).",
+      "mapUrl": null
     }
   ]
 }
