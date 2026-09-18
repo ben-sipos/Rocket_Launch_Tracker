@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:30:27.898Z",
+  "generatedAt": "2026-09-18T14:45:28.367Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -64,6 +64,36 @@
       "mapUrl": "https://www.google.com/maps?q=40.8182,100.22514"
     },
     {
+      "id": "63063b9d-ade9-4448-8717-6f910aa81188",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 8A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-1",
+      "status": "Go for Launch",
+      "net": "2026-09-23T13:30:00Z",
+      "windowStart": "2026-09-23T13:24:00Z",
+      "windowEnd": "2026-09-23T13:49:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
+    },
+    {
+      "id": "aed67837-b567-43e0-8071-c3ccc24aa496",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 6A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 9A",
+      "status": "Go for Launch",
+      "net": "2026-09-24T08:45:00Z",
+      "windowStart": "2026-09-24T08:38:00Z",
+      "windowEnd": "2026-09-24T09:04:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
+    },
+    {
       "id": "7330d83b-c478-426c-8859-f9e3a335876d",
       "missionName": "USSF-385",
       "rocket": "Falcon 9 Block 5",
@@ -124,21 +154,6 @@
       "mapUrl": "https://www.google.com/maps?q=40.891596,100.217289"
     },
     {
-      "id": "63063b9d-ade9-4448-8717-6f910aa81188",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 8A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-1",
-      "status": "To Be Determined",
-      "net": "2026-09-30T00:00:00Z",
-      "windowStart": "2026-09-30T00:00:00Z",
-      "windowEnd": "2026-09-30T00:00:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
-    },
-    {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
       "missionName": "Amazon Leo (LV-01)",
       "rocket": "Vulcan VC6L",
@@ -152,21 +167,6 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
       "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
-    },
-    {
-      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
-      "missionName": "6x HawkEye 360",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-09-30T00:00:00Z",
-      "windowStart": "2026-09-30T00:00:00Z",
-      "windowEnd": "2026-09-30T00:00:00Z",
-      "missionType": "Earth Science",
-      "description": "HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO).",
-      "mapUrl": null
     }
   ]
 }
