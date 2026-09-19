@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-09-19T06:18:54.426Z",
+  "generatedAt": "2026-09-19T11:19:08.515Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 2D",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Complex 9",
-      "status": "Go for Launch",
-      "net": "2026-09-19T10:50:00Z",
-      "windowStart": "2026-09-19T10:43:00Z",
-      "windowEnd": "2026-09-19T11:06:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=38.863128,111.589567"
-    },
     {
       "id": "d1471f9d-e9d0-4146-8e97-90863e48bfc8",
       "missionName": "Starlink Group 15-27",
