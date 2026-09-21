@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T00:23:20.036Z",
+  "generatedAt": "2026-09-21T05:15:00.138Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 12,
   "launches": [
     {
       "id": "63063b9d-ade9-4448-8717-6f910aa81188",
@@ -152,6 +152,36 @@
       "missionType": "Earth Science",
       "description": "NeonSat-2 to 6 are part of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite). The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula.",
       "mapUrl": "https://www.google.com/maps?q=34.431867,127.535069"
+    },
+    {
+      "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
+      "missionName": "Martian Moon eXplorer (MMX)",
+      "rocket": "H3-24",
+      "provider": "Mitsubishi Heavy Industries",
+      "launchSite": "Tanegashima Space Center, Japan",
+      "pad": "Yoshinobu Launch Complex LP-2",
+      "status": "Go for Launch",
+      "net": "2026-10-19T19:41:03Z",
+      "windowStart": "2026-10-19T19:41:03Z",
+      "windowEnd": "2026-10-19T19:41:03Z",
+      "missionType": "Planetary Science",
+      "description": "MMX is a Japanese scientific mission to land on Phobos, one of the two moons of Mars, to collect samples before bringing them back to Earth.\r\n\r\nThe mission includes a small French/German rover to explore the surface of Phobos.",
+      "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
+    },
+    {
+      "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
+      "missionName": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "status": "To Be Determined",
+      "net": "2026-10-31T00:00:00Z",
+      "windowStart": "2026-10-31T00:00:00Z",
+      "windowEnd": "2026-10-31T00:00:00Z",
+      "missionType": "Dedicated Rideshare",
+      "description": "Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
+      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     }
   ]
 }
