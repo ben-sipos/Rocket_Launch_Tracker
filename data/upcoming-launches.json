@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T18:22:13.114Z",
+  "generatedAt": "2026-09-24T21:39:44.823Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -88,7 +88,7 @@
       "status": "Go for Launch",
       "net": "2026-10-02T03:53:00Z",
       "windowStart": "2026-10-02T03:53:00Z",
-      "windowEnd": "2026-10-02T03:53:00Z",
+      "windowEnd": "2026-10-02T04:42:00Z",
       "missionType": "Government/Top Secret",
       "description": "Classified payload for the US National Reconnaissance Office.",
       "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
