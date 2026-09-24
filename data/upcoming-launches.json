@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-09-24T08:38:16.244Z",
+  "generatedAt": "2026-09-24T13:59:15.554Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
-    {
-      "id": "aed67837-b567-43e0-8071-c3ccc24aa496",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 6A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Complex 9A",
-      "status": "Go for Launch",
-      "net": "2026-09-24T08:45:00Z",
-      "windowStart": "2026-09-24T08:38:00Z",
-      "windowEnd": "2026-09-24T09:04:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
-    },
     {
       "id": "9e24bef7-c44b-4fdc-ba52-68545ce9457e",
       "missionName": "Owlright, Owlright, Owlright (StriX Launch 13)",
@@ -167,6 +152,21 @@
       "missionType": "Navigation",
       "description": "This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.",
       "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
+    },
+    {
+      "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
+      "missionName": "Martian Moon eXplorer (MMX)",
+      "rocket": "H3-24",
+      "provider": "Mitsubishi Heavy Industries",
+      "launchSite": "Tanegashima Space Center, Japan",
+      "pad": "Yoshinobu Launch Complex LP-2",
+      "status": "Go for Launch",
+      "net": "2026-10-19T19:41:03Z",
+      "windowStart": "2026-10-19T19:41:03Z",
+      "windowEnd": "2026-10-19T19:41:03Z",
+      "missionType": "Planetary Science",
+      "description": "MMX is a Japanese scientific mission to land on Phobos, one of the two moons of Mars, to collect samples before bringing them back to Earth.\r\n\r\nThe mission includes a small French/German rover to explore the surface of Phobos.",
+      "mapUrl": "https://www.google.com/maps?q=30.400938,130.97564"
     }
   ]
 }
