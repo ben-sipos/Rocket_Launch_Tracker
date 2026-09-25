@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:39:44.823Z",
+  "generatedAt": "2026-09-25T00:14:28.445Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -11,9 +11,9 @@
       "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "pad": "Rocket Lab Launch Complex 1B",
       "status": "Go for Launch",
-      "net": "2026-09-26T00:15:00Z",
-      "windowStart": "2026-09-26T00:15:00Z",
-      "windowEnd": "2026-09-26T00:15:00Z",
+      "net": "2026-09-26T00:26:00Z",
+      "windowStart": "2026-09-26T00:26:00Z",
+      "windowEnd": "2026-09-26T00:26:00Z",
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "mapUrl": "https://www.google.com/maps?q=-39.262833,177.864469"
