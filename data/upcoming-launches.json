@@ -1,38 +1,8 @@
 {
-  "generatedAt": "2026-10-01T13:42:00.202Z",
+  "generatedAt": "2026-10-01T19:14:35.212Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 10,
   "launches": [
-    {
-      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
-      "missionName": "Crew-13",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
-      "net": "2026-10-01T15:10:06Z",
-      "windowStart": "2026-10-01T15:10:06Z",
-      "windowEnd": "2026-10-01T15:10:06Z",
-      "missionType": "Human Exploration",
-      "description": "SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
-    {
-      "id": "67213393-7983-4c06-8b44-b8c785a5ed79",
-      "missionName": "Transporter 18 (Dedicated SSO Rideshare)",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "net": "2026-10-01T18:18:00Z",
-      "windowStart": "2026-10-01T18:18:00Z",
-      "windowEnd": "2026-10-01T19:16:00Z",
-      "missionType": "Dedicated Rideshare",
-      "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
     {
       "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
       "missionName": "NROL-97",
@@ -56,9 +26,9 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-10-05T08:16:00Z",
-      "windowStart": "2026-10-05T08:16:00Z",
-      "windowEnd": "2026-10-05T08:28:00Z",
+      "net": "2026-10-05T08:17:00Z",
+      "windowStart": "2026-10-05T08:17:00Z",
+      "windowEnd": "2026-10-05T08:17:00Z",
       "missionType": "Government/Top Secret",
       "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
@@ -107,6 +77,21 @@
       "missionType": "Communications",
       "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
+      "missionName": "Dragon CRS-2 SpX-35",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "status": "To Be Determined",
+      "net": "2026-10-13T00:00:00Z",
+      "windowStart": "2026-10-13T00:00:00Z",
+      "windowEnd": "2026-10-13T00:00:00Z",
+      "missionType": "Resupply",
+      "description": "35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
+      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
@@ -166,21 +151,6 @@
       "windowEnd": "2026-10-31T00:00:00Z",
       "missionType": "Dedicated Rideshare",
       "description": "Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
-      "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
-    {
-      "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
-      "missionName": "Dragon CRS-2 SpX-35",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "status": "To Be Determined",
-      "net": "2026-10-31T00:00:00Z",
-      "windowStart": "2026-10-31T00:00:00Z",
-      "windowEnd": "2026-10-31T00:00:00Z",
-      "missionType": "Resupply",
-      "description": "35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     }
   ]
