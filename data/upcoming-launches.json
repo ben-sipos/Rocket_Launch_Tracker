@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-10-02T02:25:23.518Z",
+  "generatedAt": "2026-10-02T08:48:08.650Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 9,
   "launches": [
-    {
-      "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
-      "missionName": "NROL-97",
-      "rocket": "Falcon Heavy",
-      "provider": "SpaceX",
-      "launchSite": "Kennedy Space Center, FL, USA",
-      "pad": "Launch Complex 39A",
-      "status": "Go for Launch",
-      "net": "2026-10-02T03:54:00Z",
-      "windowStart": "2026-10-02T03:53:00Z",
-      "windowEnd": "2026-10-02T04:42:00Z",
-      "missionType": "Government/Top Secret",
-      "description": "Classified payload for the US National Reconnaissance Office.",
-      "mapUrl": "https://www.google.com/maps?q=28.60822681,-80.60428186"
-    },
     {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
       "missionName": "SDA Tranche 1 Transport Layer A",
