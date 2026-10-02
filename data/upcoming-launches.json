@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T23:19:25.610Z",
+  "generatedAt": "2026-10-02T02:25:23.518Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
@@ -11,7 +11,7 @@
       "launchSite": "Kennedy Space Center, FL, USA",
       "pad": "Launch Complex 39A",
       "status": "Go for Launch",
-      "net": "2026-10-02T03:53:00Z",
+      "net": "2026-10-02T03:54:00Z",
       "windowStart": "2026-10-02T03:53:00Z",
       "windowEnd": "2026-10-02T04:42:00Z",
       "missionType": "Government/Top Secret",
