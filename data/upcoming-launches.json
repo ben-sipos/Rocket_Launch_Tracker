@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-10-06T23:32:06.560Z",
+  "generatedAt": "2026-10-07T04:09:07.003Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "e0741415-6c63-4236-9736-24a6c04485bc",
-      "missionName": "NeonSat-2 to 6",
-      "rocket": "KSLV-2 Nuri",
-      "provider": "Korea Aerospace Research Institute",
-      "launchSite": "Naro Space Center, South Korea",
-      "pad": "LC-2",
-      "status": "Go for Launch",
-      "net": "2026-10-07T03:23:00Z",
-      "windowStart": "2026-10-07T03:23:00Z",
-      "windowEnd": "2026-10-07T04:23:00Z",
-      "missionType": "Earth Science",
-      "description": "NeonSat-2 to 6 are part of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite). The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula.\r\n\r\n10 ride-sharing small satellites from various Korean institutes and organizations will also fly on this launch:\r\n* SLEDGE\r\n* GBSAT\r\n* PERSAT02\r\n* UEL-Y-Sys\r\n* SD-1 SAT\r\n* E3_TESTER-KARI-2\r\n* DaejonSat-1\r\n* BEE-1012\r\n* JACK-007\r\n* CPSat",
-      "mapUrl": "https://www.google.com/maps?q=34.431867,127.535069"
-    },
     {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
       "missionName": "SDA Tranche 1 Transport Layer A",
