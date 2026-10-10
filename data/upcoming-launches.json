@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T17:37:19.112Z",
+  "generatedAt": "2026-10-10T21:06:43.249Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "97c6f5e1-299e-4652-b72d-9618ac047076",
@@ -152,6 +152,21 @@
       "missionType": "Technology",
       "description": "Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD.",
       "mapUrl": "https://www.google.com/maps?q=13.733,80.235"
+    },
+    {
+      "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
+      "missionName": "Progress MS-36 (97P)",
+      "rocket": "Soyuz 2.1b",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "31/6",
+      "status": "To Be Confirmed",
+      "net": "2026-11-24T05:03:00Z",
+      "windowStart": "2026-11-24T05:03:00Z",
+      "windowEnd": "2026-11-24T05:03:00Z",
+      "missionType": "Resupply",
+      "description": "Progress resupply mission to the International Space Station.",
+      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     }
   ]
 }
