@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T06:08:48.369Z",
+  "generatedAt": "2026-10-11T13:15:14.734Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "97c6f5e1-299e-4652-b72d-9618ac047076",
@@ -167,6 +167,21 @@
       "missionType": "Resupply",
       "description": "Progress resupply mission to the International Space Station.",
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
+    },
+    {
+      "id": "22e117bf-041c-49d5-9d09-7b180036e143",
+      "missionName": "Metop-SG B1",
+      "rocket": "Ariane 62",
+      "provider": "Arianespace",
+      "launchSite": "Guiana Space Centre, French Guiana",
+      "pad": "Ariane Launch Area 4",
+      "status": "To Be Determined",
+      "net": "2026-11-30T00:00:00Z",
+      "windowStart": "2026-11-30T00:00:00Z",
+      "windowEnd": "2026-11-30T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Second of EUMETSAT's second generation of Metop weather satellites.",
+      "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
     }
   ]
 }
