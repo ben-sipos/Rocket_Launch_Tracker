@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:13:10.047Z",
+  "generatedAt": "2026-10-13T21:23:44.482Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
@@ -40,10 +40,10 @@
       "provider": "SpaceX",
       "launchSite": "Cape Canaveral SFS, FL, USA",
       "pad": "Space Launch Complex 40",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "net": "2026-10-19T10:30:00Z",
       "windowStart": "2026-10-19T10:30:00Z",
-      "windowEnd": "2026-10-19T12:13:00Z",
+      "windowEnd": "2026-10-19T11:30:00Z",
       "missionType": "Dedicated Rideshare",
       "description": "Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
@@ -124,21 +124,6 @@
       "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
     },
     {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "missionName": "Amazon Leo (LE-04)",
-      "rocket": "Ariane 64 Block 2",
-      "provider": "Arianespace",
-      "launchSite": "Guiana Space Centre, French Guiana",
-      "pad": "Ariane Launch Area 4",
-      "status": "To Be Determined",
-      "net": "2026-10-31T00:00:00Z",
-      "windowStart": "2026-10-31T00:00:00Z",
-      "windowEnd": "2026-10-31T00:00:00Z",
-      "missionType": "Communications",
-      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
-      "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
-    },
-    {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "missionName": "IRNSS-1L (NVS-03)",
       "rocket": "GSLV Mk. II",
@@ -152,6 +137,21 @@
       "missionType": "Navigation",
       "description": "This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.",
       "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
+    },
+    {
+      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
+      "missionName": "Flight 2",
+      "rocket": "Long March 12A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Long March 12 series Pad",
+      "status": "To Be Determined",
+      "net": "2026-10-31T00:00:00Z",
+      "windowStart": "2026-10-31T00:00:00Z",
+      "windowEnd": "2026-10-31T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
+      "mapUrl": "https://www.google.com/maps?q=40.891596,100.217289"
     }
   ]
 }
