@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-10-14T10:25:08.513Z",
+  "generatedAt": "2026-10-14T15:19:38.931Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
-    {
-      "id": "dfcabb3c-078b-4f5b-a47c-0161f248cee9",
-      "missionName": "Unknown Payload",
-      "rocket": "Zhuque-2E",
-      "provider": "LandSpace",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 96A",
-      "status": "Go for Launch",
-      "net": "2026-10-14T11:40:00Z",
-      "windowStart": "2026-10-14T11:33:00Z",
-      "windowEnd": "2026-10-14T12:19:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.91491,100.245488"
-    },
     {
       "id": "df88cfbf-f504-4e11-8370-e33dd6280b5b",
       "missionName": "USSF-481",
@@ -167,6 +152,21 @@
       "missionType": "Technology",
       "description": "Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD.",
       "mapUrl": "https://www.google.com/maps?q=13.733,80.235"
+    },
+    {
+      "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
+      "missionName": "The Sea God Surveys (iQPS Launch 9)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-11-04T00:00:00Z",
+      "windowStart": "2026-11-04T00:00:00Z",
+      "windowEnd": "2026-11-04T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "mapUrl": null
     }
   ]
 }
