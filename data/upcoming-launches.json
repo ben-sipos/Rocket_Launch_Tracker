@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T16:14:47.236Z",
+  "generatedAt": "2026-10-15T19:57:39.389Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -70,10 +70,10 @@
       "provider": "Rocket Lab",
       "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-10-21T00:00:00Z",
-      "windowStart": "2026-10-21T00:00:00Z",
-      "windowEnd": "2026-10-21T00:00:00Z",
+      "status": "To Be Confirmed",
+      "net": "2026-10-21T05:00:00Z",
+      "windowStart": "2026-10-21T05:00:00Z",
+      "windowEnd": "2026-10-21T08:45:00Z",
       "missionType": "Earth Science",
       "description": "HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO).",
       "mapUrl": null
