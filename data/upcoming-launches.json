@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-10-21T00:00:14.321Z",
+  "generatedAt": "2026-10-21T04:29:20.820Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "c6f8b6b0-6bae-460a-99bb-c12a3d29effd",
-      "missionName": "Unknown Payload",
-      "rocket": "Ceres-1S",
-      "provider": "Galactic Energy",
-      "launchSite": "Haiyang Oriental Spaceport",
-      "pad": "Rizhao offshore launch location",
-      "status": "Go for Launch",
-      "net": "2026-10-21T03:35:00Z",
-      "windowStart": "2026-10-21T03:29:00Z",
-      "windowEnd": "2026-10-21T03:50:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=35.391667,119.598667"
-    },
     {
       "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
       "missionName": "We're Not Hawking Around (3x HawkEye 360)",
