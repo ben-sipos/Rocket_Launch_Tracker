@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-10-23T03:15:26.627Z",
+  "generatedAt": "2026-10-23T08:44:47.939Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
-      "missionName": "We're Not Hawking Around (3x HawkEye 360)",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Rocket Lab Launch Complex 1A",
-      "status": "Go for Launch",
-      "net": "2026-10-23T07:00:00Z",
-      "windowStart": "2026-10-23T07:00:00Z",
-      "windowEnd": "2026-10-23T08:45:00Z",
-      "missionType": "Earth Science",
-      "description": "HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO).",
-      "mapUrl": "https://www.google.com/maps?q=-39.262833,177.864469"
-    },
     {
       "id": "9648124f-8568-46d2-86d7-4b4d6f12187f",
       "missionName": "Unknown Payload",
@@ -130,10 +115,10 @@
       "provider": "Indian Space Research Organization",
       "launchSite": "Satish Dhawan Space Centre, India",
       "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "status": "To Be Determined",
-      "net": "2026-10-30T00:00:00Z",
-      "windowStart": "2026-10-30T00:00:00Z",
-      "windowEnd": "2026-10-30T00:00:00Z",
+      "status": "To Be Confirmed",
+      "net": "2026-10-30T17:00:00Z",
+      "windowStart": "2026-10-30T17:00:00Z",
+      "windowEnd": "2026-10-30T21:00:00Z",
       "missionType": "Navigation",
       "description": "This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.",
       "mapUrl": "https://www.google.com/maps?q=13.7199,80.2304"
@@ -161,9 +146,9 @@
       "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "pad": "Unknown Pad",
       "status": "To Be Determined",
-      "net": "2026-11-04T00:00:00Z",
-      "windowStart": "2026-11-04T00:00:00Z",
-      "windowEnd": "2026-11-04T00:00:00Z",
+      "net": "2026-11-03T00:00:00Z",
+      "windowStart": "2026-11-03T00:00:00Z",
+      "windowEnd": "2026-11-03T00:00:00Z",
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
       "mapUrl": null
