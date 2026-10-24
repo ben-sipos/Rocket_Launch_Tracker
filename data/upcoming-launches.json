@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T09:16:25.331Z",
+  "generatedAt": "2026-10-24T13:27:25.496Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 9,
+  "total": 10,
   "launches": [
     {
       "id": "6b95bcc8-1f88-4539-84fe-f63630138766",
@@ -137,6 +137,21 @@
       "missionType": "Government/Top Secret",
       "description": "Fifteenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
+      "missionName": "The Mountain God Rises (iQPS Launch 10)",
+      "rocket": "Electron",
+      "provider": "Rocket Lab",
+      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-11-10T00:00:00Z",
+      "windowStart": "2026-11-10T00:00:00Z",
+      "windowEnd": "2026-11-10T00:00:00Z",
+      "missionType": "Earth Science",
+      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "mapUrl": null
     }
   ]
 }
