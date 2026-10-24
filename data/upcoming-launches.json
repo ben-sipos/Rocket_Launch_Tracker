@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T19:13:26.598Z",
+  "generatedAt": "2026-10-24T21:43:36.108Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
     {
       "id": "6b95bcc8-1f88-4539-84fe-f63630138766",
@@ -152,6 +152,21 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
+    },
+    {
+      "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
+      "missionName": "Progress MS-36 (97P)",
+      "rocket": "Soyuz 2.1b",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "31/6",
+      "status": "To Be Confirmed",
+      "net": "2026-11-24T05:03:00Z",
+      "windowStart": "2026-11-24T05:03:00Z",
+      "windowEnd": "2026-11-24T05:03:00Z",
+      "missionType": "Resupply",
+      "description": "Progress resupply mission to the International Space Station.",
+      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     }
   ]
 }
