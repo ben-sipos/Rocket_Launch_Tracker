@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:44:22.530Z",
+  "generatedAt": "2026-10-26T12:12:06.487Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -40,8 +40,8 @@
       "provider": "Indian Space Research Organization",
       "launchSite": "Satish Dhawan Space Centre, India",
       "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "status": "To Be Confirmed",
-      "net": "2026-10-30T17:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-10-30T18:21:00Z",
       "windowStart": "2026-10-30T17:00:00Z",
       "windowEnd": "2026-10-30T21:00:00Z",
       "missionType": "Navigation",
