@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T14:46:57.417Z",
+  "generatedAt": "2026-10-27T19:47:36.483Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -71,9 +71,9 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-11-05T05:14:00Z",
-      "windowStart": "2026-11-05T05:14:00Z",
-      "windowEnd": "2026-11-05T09:14:00Z",
+      "net": "2026-11-05T02:35:00Z",
+      "windowStart": "2026-11-05T02:35:00Z",
+      "windowEnd": "2026-11-05T06:35:00Z",
       "missionType": "Communications",
       "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
