@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-10-31T01:58:19.161Z",
+  "generatedAt": "2026-10-31T08:12:02.316Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
-      "missionName": "Starlink Group 15-18",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "net": "2026-10-31T04:02:22Z",
-      "windowStart": "2026-10-31T03:48:00Z",
-      "windowEnd": "2026-10-31T07:48:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "missionName": "The Sea God Surveys (iQPS Launch 9)",
