@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-01T01:48:37.849Z",
+  "generatedAt": "2026-11-01T08:39:10.594Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
@@ -167,6 +167,21 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
       "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
+    },
+    {
+      "id": "a2975167-7c6f-4403-99e1-b40df17c8140",
+      "missionName": "SatNet LEO Group TBD?",
+      "rocket": "Long March 8A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-1",
+      "status": "To Be Confirmed",
+      "net": "2026-11-20T11:00:00Z",
+      "windowStart": "2026-11-20T11:00:00Z",
+      "windowEnd": "2026-11-20T14:00:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+      "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
     }
   ]
 }
