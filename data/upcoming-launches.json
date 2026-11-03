@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-11-03T11:34:53.132Z",
+  "generatedAt": "2026-11-03T18:59:26.478Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 11,
   "launches": [
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "missionName": "Demo Flight",
-      "rocket": "Mir",
-      "provider": "Agency for Defense Development",
-      "launchSite": "Sea Launch",
-      "pad": "ADD Offshore launch platform",
-      "status": "To Be Confirmed",
-      "net": "2026-11-04T05:00:00Z",
-      "windowStart": "2026-11-04T05:00:00Z",
-      "windowEnd": "2026-11-04T09:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
-    },
     {
       "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
       "missionName": "Unknown Payload",
@@ -32,21 +17,6 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=28.247059,102.029008"
-    },
-    {
-      "id": "a2423132-f965-423f-8b03-6891b775dc54",
-      "missionName": "SatNet LEO Group TBD?",
-      "rocket": "Long March 12",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-2",
-      "status": "Go for Launch",
-      "net": "2026-11-05T21:15:00Z",
-      "windowStart": "2026-11-05T21:10:00Z",
-      "windowEnd": "2026-11-05T21:39:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
     },
     {
       "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
@@ -79,6 +49,21 @@
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
+      "id": "a2423132-f965-423f-8b03-6891b775dc54",
+      "missionName": "SatNet LEO Group TBD?",
+      "rocket": "Long March 12",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-2",
+      "status": "Go for Launch",
+      "net": "2026-11-08T20:25:00Z",
+      "windowStart": "2026-11-08T20:17:00Z",
+      "windowEnd": "2026-11-08T20:47:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
+    },
+    {
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
       "missionName": "USSF-xxx (\"R-5\")",
       "rocket": "Falcon 9 Block 5",
@@ -86,9 +71,24 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "To Be Confirmed",
-      "net": "2026-11-09T03:17:00Z",
-      "windowStart": "2026-11-09T03:17:00Z",
-      "windowEnd": "2026-11-09T07:17:00Z",
+      "net": "2026-11-10T03:03:00Z",
+      "windowStart": "2026-11-10T03:03:00Z",
+      "windowEnd": "2026-11-10T07:03:00Z",
+      "missionType": "Government/Top Secret",
+      "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+    },
+    {
+      "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
+      "missionName": "USSF-xxx (\"R-6\")",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "status": "To Be Confirmed",
+      "net": "2026-11-13T04:23:00Z",
+      "windowStart": "2026-11-13T04:23:00Z",
+      "windowEnd": "2026-11-13T08:23:00Z",
       "missionType": "Government/Top Secret",
       "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
@@ -100,10 +100,10 @@
       "provider": "United Launch Alliance",
       "launchSite": "Cape Canaveral SFS, FL, USA",
       "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
-      "net": "2026-11-13T00:00:00Z",
-      "windowStart": "2026-11-13T00:00:00Z",
-      "windowEnd": "2026-11-13T00:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-11-13T17:54:00Z",
+      "windowStart": "2026-11-13T17:54:00Z",
+      "windowEnd": "2026-11-13T18:24:00Z",
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
       "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
@@ -152,6 +152,21 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
+    },
+    {
+      "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
+      "missionName": "Progress MS-36 (97P)",
+      "rocket": "Soyuz 2.1b",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "31/6",
+      "status": "To Be Confirmed",
+      "net": "2026-11-24T05:03:00Z",
+      "windowStart": "2026-11-24T05:03:00Z",
+      "windowEnd": "2026-11-24T05:03:00Z",
+      "missionType": "Resupply",
+      "description": "Progress resupply mission to the International Space Station.",
+      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
     }
   ]
 }
