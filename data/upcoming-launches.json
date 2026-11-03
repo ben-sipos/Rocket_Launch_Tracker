@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T18:59:26.478Z",
+  "generatedAt": "2026-11-03T23:55:53.015Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -65,12 +65,12 @@
     },
     {
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
-      "missionName": "USSF-xxx (\"R-5\")",
+      "missionName": "USSF-627",
       "rocket": "Falcon 9 Block 5",
       "provider": "SpaceX",
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "net": "2026-11-10T03:03:00Z",
       "windowStart": "2026-11-10T03:03:00Z",
       "windowEnd": "2026-11-10T07:03:00Z",
@@ -80,12 +80,12 @@
     },
     {
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
-      "missionName": "USSF-xxx (\"R-6\")",
+      "missionName": "USSF-317",
       "rocket": "Falcon 9 Block 5",
       "provider": "SpaceX",
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "net": "2026-11-13T04:23:00Z",
       "windowStart": "2026-11-13T04:23:00Z",
       "windowEnd": "2026-11-13T08:23:00Z",
