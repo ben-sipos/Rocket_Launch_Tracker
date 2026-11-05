@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T00:58:01.126Z",
+  "generatedAt": "2026-11-05T07:47:18.650Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -79,6 +79,36 @@
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "missionName": "Demo Flight",
+      "rocket": "Mir",
+      "provider": "Agency for Defense Development",
+      "launchSite": "Sea Launch",
+      "pad": "ADD Offshore launch platform",
+      "status": "Go for Launch",
+      "net": "2026-11-10T06:00:00Z",
+      "windowStart": "2026-11-10T06:00:00Z",
+      "windowEnd": "2026-11-10T09:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+      "mapUrl": null
+    },
+    {
+      "id": "d66590ab-b273-47ff-b85a-608b62851b4b",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 2D",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Area 94 (SLS-2 / 603)",
+      "status": "Go for Launch",
+      "net": "2026-11-11T11:40:00Z",
+      "windowStart": "2026-11-11T11:32:00Z",
+      "windowEnd": "2026-11-11T12:05:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=40.960482,100.298059"
+    },
+    {
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
       "missionName": "USSF-317",
       "rocket": "Falcon 9 Block 5",
@@ -152,36 +182,6 @@
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
-    },
-    {
-      "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
-      "missionName": "Progress MS-36 (97P)",
-      "rocket": "Soyuz 2.1b",
-      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-      "launchSite": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "pad": "31/6",
-      "status": "To Be Confirmed",
-      "net": "2026-11-24T05:03:00Z",
-      "windowStart": "2026-11-24T05:03:00Z",
-      "windowEnd": "2026-11-24T05:03:00Z",
-      "missionType": "Resupply",
-      "description": "Progress resupply mission to the International Space Station.",
-      "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
-    },
-    {
-      "id": "5ce59e3a-c343-430f-ae4e-e608ba536754",
-      "missionName": "SatNet LEO Group TBD?",
-      "rocket": "Long March 12",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-2",
-      "status": "To Be Confirmed",
-      "net": "2026-11-24T07:00:00Z",
-      "windowStart": "2026-11-24T07:00:00Z",
-      "windowEnd": "2026-11-24T10:00:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
     }
   ]
 }
