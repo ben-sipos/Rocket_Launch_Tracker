@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T09:35:01.761Z",
+  "generatedAt": "2026-11-07T16:03:31.497Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 10,
+  "total": 9,
   "launches": [
     {
       "id": "a2423132-f965-423f-8b03-6891b775dc54",
@@ -64,21 +64,6 @@
       "mapUrl": "https://www.google.com/maps?q=40.960482,100.298059"
     },
     {
-      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
-      "missionName": "Flight 15",
-      "rocket": "Starship V3",
-      "provider": "SpaceX",
-      "launchSite": "SpaceX Starbase, TX, USA",
-      "pad": "Orbital Launch Pad 2",
-      "status": "To Be Determined",
-      "net": "2026-11-13T00:00:00Z",
-      "windowStart": "2026-11-13T00:00:00Z",
-      "windowEnd": "2026-11-13T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3.",
-      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
-    },
-    {
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
       "missionName": "USSF-317",
       "rocket": "Falcon 9 Block 5",
@@ -109,6 +94,21 @@
       "mapUrl": "https://www.google.com/maps?q=28.58341025,-80.58303644"
     },
     {
+      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
+      "missionName": "Starlink Group 31-2 (Starship Flight 15)",
+      "rocket": "Starship V3",
+      "provider": "SpaceX",
+      "launchSite": "SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Pad 2",
+      "status": "To Be Confirmed",
+      "net": "2026-11-13T22:45:00Z",
+      "windowStart": "2026-11-13T22:45:00Z",
+      "windowEnd": "2026-11-14T00:00:00Z",
+      "missionType": "Communications",
+      "description": "15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3. Second Starship flight to deploy satellites (a group of Starlink satellites known as Starlink Group 31-2) into stable Low Earth Orbit and first ever to attempt returning the Starship 2nd stage back to the launch site.\r\n\r\nThe ship is expected to fly at an altitude approximately 275 km above Earth and complete approximately 14 orbits around the planet for more than 22 hours, with the ship expected to attempt returning back to Starbase, Texas on its launch pad by pad arms catching.\r\n\r\nThe booster’s primary test objective on Flight 15 will be executing a successful launch, ascent, stage separation, boostback burn, and landing by pad arms catching. This will also be the 1st Starship V3 booster to attempt returning to its launch site.\r\n\r\nStarship will deliver 26 Starlink V3 satellites to orbit for the second time, which aim to greatly expand the network's capacity and user speeds. Each Starlink V3 satellite will add 1 Tbps of capacity to the constellation. 3 of the satellites have been modified with a suite of cameras to scan Starship’s heatshield and transmit imagery down to operators.",
+      "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
+    },
+    {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
       "missionName": "The Mountain God Rises (iQPS Launch 10)",
       "rocket": "Electron",
@@ -137,21 +137,6 @@
       "missionType": "Communications",
       "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
-    },
-    {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "missionName": "Amazon Leo (LE-04)",
-      "rocket": "Ariane 64 Block 2",
-      "provider": "Arianespace",
-      "launchSite": "Guiana Space Centre, French Guiana",
-      "pad": "Ariane Launch Area 4",
-      "status": "To Be Determined",
-      "net": "2026-11-23T00:00:00Z",
-      "windowStart": "2026-11-23T00:00:00Z",
-      "windowEnd": "2026-11-23T00:00:00Z",
-      "missionType": "Communications",
-      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
-      "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
     }
   ]
 }
