@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-11-11T09:41:50.334Z",
+  "generatedAt": "2026-11-11T17:40:17.131Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 12,
+  "total": 11,
   "launches": [
-    {
-      "id": "d66590ab-b273-47ff-b85a-608b62851b4b",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 2D",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 94 (SLS-2 / 603)",
-      "status": "Go for Launch",
-      "net": "2026-11-11T11:40:00Z",
-      "windowStart": "2026-11-11T11:32:00Z",
-      "windowEnd": "2026-11-11T12:05:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.960482,100.298059"
-    },
     {
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
       "missionName": "USSF-627",
@@ -26,7 +11,7 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-11-12T02:35:00Z",
+      "net": "2026-11-12T02:36:18Z",
       "windowStart": "2026-11-12T02:35:00Z",
       "windowEnd": "2026-11-12T06:35:00Z",
       "missionType": "Government/Top Secret",
