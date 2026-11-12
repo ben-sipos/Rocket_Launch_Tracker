@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-11-11T23:59:37.730Z",
+  "generatedAt": "2026-11-12T06:57:52.712Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
-      "missionName": "USSF-627",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "net": "2026-11-12T04:36:30Z",
-      "windowStart": "2026-11-12T02:35:00Z",
-      "windowEnd": "2026-11-12T06:35:00Z",
-      "missionType": "Government/Top Secret",
-      "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
     {
       "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
       "missionName": "Unknown Payload",
@@ -32,21 +17,6 @@
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=40.969117,100.343333"
-    },
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "missionName": "Demo Flight",
-      "rocket": "Mir",
-      "provider": "Agency for Defense Development",
-      "launchSite": "Sea Launch",
-      "pad": "ADD Offshore launch platform",
-      "status": "Go for Launch",
-      "net": "2026-11-13T05:00:00Z",
-      "windowStart": "2026-11-13T05:00:00Z",
-      "windowEnd": "2026-11-13T09:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
     },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
@@ -167,6 +137,21 @@
       "missionType": "Resupply",
       "description": "Progress resupply mission to the International Space Station.",
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
+    },
+    {
+      "id": "5ce59e3a-c343-430f-ae4e-e608ba536754",
+      "missionName": "SatNet LEO Group TBD?",
+      "rocket": "Long March 12",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-2",
+      "status": "To Be Confirmed",
+      "net": "2026-11-24T07:00:00Z",
+      "windowStart": "2026-11-24T07:00:00Z",
+      "windowEnd": "2026-11-24T10:00:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
     }
   ]
 }
