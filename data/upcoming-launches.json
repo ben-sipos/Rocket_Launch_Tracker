@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-11-12T15:51:17.725Z",
+  "generatedAt": "2026-11-12T22:01:03.516Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
-    {
-      "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
-      "missionName": "Unknown Payload",
-      "rocket": "Kuaizhou 11",
-      "provider": "ExPace",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 95A",
-      "status": "Go for Launch",
-      "net": "2026-11-12T19:50:00Z",
-      "windowStart": "2026-11-12T19:44:00Z",
-      "windowEnd": "2026-11-12T20:29:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=40.969117,100.343333"
-    },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
       "missionName": "Amazon Leo (LV-01)",
@@ -47,6 +32,21 @@
       "missionType": "Communications",
       "description": "15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3. Second Starship flight to deploy satellites (a group of Starlink satellites known as Starlink Group 31-2) into stable Low Earth Orbit and first ever to attempt returning the Starship 2nd stage back to the launch site.\r\n\r\nThe ship is expected to fly at an altitude approximately 275 km above Earth and complete approximately 14 orbits around the planet for more than 22 hours, with the ship expected to attempt returning back to Starbase, Texas on its launch pad by pad arms catching.\r\n\r\nThe booster’s primary test objective on Flight 15 will be executing a successful launch, ascent, stage separation, boostback burn, and landing by pad arms catching. This will also be the 1st Starship V3 booster to attempt returning to its launch site.\r\n\r\nStarship will deliver 26 Starlink V3 satellites to orbit for the second time, which aim to greatly expand the network's capacity and user speeds. Each Starlink V3 satellite will add 1 Tbps of capacity to the constellation. 3 of the satellites have been modified with a suite of cameras to scan Starship’s heatshield and transmit imagery down to operators.",
       "mapUrl": "https://www.google.com/maps?q=25.996770,-97.157990"
+    },
+    {
+      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
+      "missionName": "MKA Kinosputnik, KOEN and others",
+      "rocket": "Soyuz 2.1b Fregat-M",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "launchSite": "Vostochny Cosmodrome, Siberia, Russian Federation",
+      "pad": "Cosmodrome Site 1S",
+      "status": "Go for Launch",
+      "net": "2026-11-14T00:50:00Z",
+      "windowStart": "2026-11-14T00:50:00Z",
+      "windowEnd": "2026-11-14T01:50:00Z",
+      "missionType": "Technology",
+      "description": "Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems",
+      "mapUrl": "https://www.google.com/maps?q=51.884395,128.333932"
     },
     {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
@@ -94,6 +94,21 @@
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
+      "id": "e0a11eb1-0bda-4872-b36b-140247fd5c60",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 2D",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 9",
+      "status": "Go for Launch",
+      "net": "2026-11-18T22:50:00Z",
+      "windowStart": "2026-11-18T22:43:00Z",
+      "windowEnd": "2026-11-18T23:05:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=38.863128,111.589567"
+    },
+    {
       "id": "a2975167-7c6f-4403-99e1-b40df17c8140",
       "missionName": "SatNet LEO Group TBD?",
       "rocket": "Long March 8A",
@@ -107,6 +122,21 @@
       "missionType": "Communications",
       "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
+    },
+    {
+      "id": "951a341f-236b-42fe-a667-4ab2fcf36eac",
+      "missionName": "NROL-136",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "net": "2026-11-21T12:30:00Z",
+      "windowStart": "2026-11-21T12:30:00Z",
+      "windowEnd": "2026-11-21T13:00:00Z",
+      "missionType": "Government/Top Secret",
+      "description": "Fifteenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.",
+      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
       "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -137,36 +167,6 @@
       "missionType": "Resupply",
       "description": "Progress resupply mission to the International Space Station.",
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
-    },
-    {
-      "id": "5ce59e3a-c343-430f-ae4e-e608ba536754",
-      "missionName": "SatNet LEO Group TBD?",
-      "rocket": "Long March 12",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-2",
-      "status": "To Be Confirmed",
-      "net": "2026-11-24T07:00:00Z",
-      "windowStart": "2026-11-24T07:00:00Z",
-      "windowEnd": "2026-11-24T10:00:00Z",
-      "missionType": "Communications",
-      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
-    },
-    {
-      "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
-      "missionName": "Shenzhou 24",
-      "rocket": "Long March 2F/G",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 91 (SLS-1 / 921)",
-      "status": "To Be Determined",
-      "net": "2026-11-25T00:00:00Z",
-      "windowStart": "2026-11-25T00:00:00Z",
-      "windowEnd": "2026-11-25T00:00:00Z",
-      "missionType": "Human Exploration",
-      "description": "Shenzhou 24 will be the 24th flight of the Shenzhou program.\r\n\r\nThe first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition.",
-      "mapUrl": "https://www.google.com/maps?q=40.957893,100.290944"
     }
   ]
 }
