@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T02:45:19.695Z",
+  "generatedAt": "2026-11-13T10:28:41.965Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
@@ -167,6 +167,21 @@
       "missionType": "Resupply",
       "description": "Progress resupply mission to the International Space Station.",
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
+    },
+    {
+      "id": "5ce59e3a-c343-430f-ae4e-e608ba536754",
+      "missionName": "SatNet LEO Group TBD?",
+      "rocket": "Long March 12",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-2",
+      "status": "To Be Confirmed",
+      "net": "2026-11-24T07:00:00Z",
+      "windowStart": "2026-11-24T07:00:00Z",
+      "windowEnd": "2026-11-24T10:00:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
     }
   ]
 }
