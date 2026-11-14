@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-11-13T23:25:35.558Z",
+  "generatedAt": "2026-11-14T03:26:27.484Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 10,
   "launches": [
-    {
-      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
-      "missionName": "MKA Kinosputnik, KOEN and others",
-      "rocket": "Soyuz 2.1b Fregat-M",
-      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-      "launchSite": "Vostochny Cosmodrome, Siberia, Russian Federation",
-      "pad": "Cosmodrome Site 1S",
-      "status": "Go for Launch",
-      "net": "2026-11-14T01:16:00Z",
-      "windowStart": "2026-11-14T00:50:00Z",
-      "windowEnd": "2026-11-14T01:50:00Z",
-      "missionType": "Technology",
-      "description": "Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems",
-      "mapUrl": "https://www.google.com/maps?q=51.884395,128.333932"
-    },
     {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
       "missionName": "The Mountain God Rises (iQPS Launch 10)",
