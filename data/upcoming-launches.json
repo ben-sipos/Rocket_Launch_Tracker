@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T01:45:31.190Z",
+  "generatedAt": "2026-11-18T09:41:29.982Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 12,
   "launches": [
@@ -40,13 +40,28 @@
       "provider": "China Aerospace Science and Technology Corporation",
       "launchSite": "Wenchang Space Launch Site, People's Republic of China",
       "pad": "Commercial LC-1",
-      "status": "To Be Confirmed",
-      "net": "2026-11-20T11:00:00Z",
-      "windowStart": "2026-11-20T11:00:00Z",
-      "windowEnd": "2026-11-20T14:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-11-20T11:59:00Z",
+      "windowStart": "2026-11-20T11:51:00Z",
+      "windowEnd": "2026-11-20T12:17:00Z",
       "missionType": "Communications",
       "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
       "mapUrl": "https://www.google.com/maps?q=19.597275,110.930753"
+    },
+    {
+      "id": "13270554-4bdb-42ae-916f-1bb54492204f",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 6C",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 9A",
+      "status": "Go for Launch",
+      "net": "2026-11-21T03:50:00Z",
+      "windowStart": "2026-11-21T03:46:00Z",
+      "windowEnd": "2026-11-21T04:15:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
     },
     {
       "id": "951a341f-236b-42fe-a667-4ab2fcf36eac",
@@ -167,21 +182,6 @@
       "missionType": "Resupply",
       "description": "This is the 25th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
-    },
-    {
-      "id": "2093e4fc-ac8c-4296-a1b5-deececee6a72",
-      "missionName": "StriX Launch 14",
-      "rocket": "Electron",
-      "provider": "Rocket Lab",
-      "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "net": "2026-11-30T00:00:00Z",
-      "windowStart": "2026-11-30T00:00:00Z",
-      "windowEnd": "2026-11-30T00:00:00Z",
-      "missionType": "Earth Science",
-      "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
-      "mapUrl": null
     }
   ]
 }
