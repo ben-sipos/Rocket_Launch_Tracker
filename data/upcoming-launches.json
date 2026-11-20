@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:39:45.200Z",
+  "generatedAt": "2026-11-20T22:56:28.057Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
@@ -11,27 +11,12 @@
       "launchSite": "Vandenberg SFB, CA, USA",
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
-      "net": "2026-11-21T02:32:00Z",
+      "net": "2026-11-21T04:20:35Z",
       "windowStart": "2026-11-21T02:32:00Z",
       "windowEnd": "2026-11-21T06:32:00Z",
       "missionType": "Government/Top Secret",
       "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
       "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
-      "id": "13270554-4bdb-42ae-916f-1bb54492204f",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 6C",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Complex 9A",
-      "status": "Go for Launch",
-      "net": "2026-11-21T03:50:00Z",
-      "windowStart": "2026-11-21T03:46:00Z",
-      "windowEnd": "2026-11-21T04:15:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
     },
     {
       "id": "951a341f-236b-42fe-a667-4ab2fcf36eac",
@@ -64,21 +49,6 @@
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
     },
     {
-      "id": "460d9db7-eaf6-4cd9-b095-cff433534c09",
-      "missionName": "USSF-266",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "net": "2026-11-23T16:04:00Z",
-      "windowStart": "2026-11-23T16:04:00Z",
-      "windowEnd": "2026-11-23T20:04:00Z",
-      "missionType": "Government/Top Secret",
-      "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of ascent rocket stage drop zones being fits with previous SDA Transport Layer launches.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
-    },
-    {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
       "missionName": "Progress MS-36 (97P)",
       "rocket": "Soyuz 2.1b",
@@ -92,6 +62,21 @@
       "missionType": "Resupply",
       "description": "Progress resupply mission to the International Space Station.",
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
+    },
+    {
+      "id": "460d9db7-eaf6-4cd9-b095-cff433534c09",
+      "missionName": "USSF-266",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "net": "2026-11-24T15:55:00Z",
+      "windowStart": "2026-11-24T15:55:00Z",
+      "windowEnd": "2026-11-24T19:55:00Z",
+      "missionType": "Government/Top Secret",
+      "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of ascent rocket stage drop zones being fits with previous SDA Transport Layer launches.",
+      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
     },
     {
       "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
@@ -154,19 +139,34 @@
       "mapUrl": null
     },
     {
-      "id": "b0d27def-0a88-44c3-a947-1fd5b8503e2c",
-      "missionName": "USSF-380",
-      "rocket": "Falcon 9 Block 5",
-      "provider": "SpaceX",
-      "launchSite": "Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
+      "id": "a6421db3-7c8a-4cf7-a659-cec195140f7f",
+      "missionName": "Unknown Payload",
+      "rocket": "Long March 6A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 9A",
       "status": "Go for Launch",
-      "net": "2026-11-28T04:53:00Z",
-      "windowStart": "2026-11-28T04:53:00Z",
-      "windowEnd": "2026-11-28T08:53:00Z",
-      "missionType": "Government/Top Secret",
-      "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
-      "mapUrl": "https://www.google.com/maps?q=34.632,-120.611"
+      "net": "2026-11-27T13:00:00Z",
+      "windowStart": "2026-11-27T12:53:00Z",
+      "windowEnd": "2026-11-27T13:15:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
+    },
+    {
+      "id": "8b46d360-6b3b-423f-9036-d5568e485624",
+      "missionName": "Unknown Payload",
+      "rocket": "Kinetica 1",
+      "provider": "CAS Space",
+      "launchSite": "Haiyang Oriental Spaceport",
+      "pad": "South China Sea (launch location 3)",
+      "status": "To Be Confirmed",
+      "net": "2026-11-29T01:00:00Z",
+      "windowStart": "2026-11-29T01:00:00Z",
+      "windowEnd": "2026-11-29T04:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=21.366667,112.116667"
     }
   ]
 }
