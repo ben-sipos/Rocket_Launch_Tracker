@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-11-23T01:55:30.436Z",
+  "generatedAt": "2026-11-23T10:16:45.203Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 11,
   "launches": [
-    {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "missionName": "Amazon Leo (LE-04)",
-      "rocket": "Ariane 64 Block 2",
-      "provider": "Arianespace",
-      "launchSite": "Guiana Space Centre, French Guiana",
-      "pad": "Ariane Launch Area 4",
-      "status": "Go for Launch",
-      "net": "2026-11-23T11:09:00Z",
-      "windowStart": "2026-11-23T11:09:00Z",
-      "windowEnd": "2026-11-23T11:38:00Z",
-      "missionType": "Communications",
-      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
-      "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
-    },
     {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
       "missionName": "Progress MS-36 (97P)",
@@ -32,6 +17,21 @@
       "missionType": "Resupply",
       "description": "Progress resupply mission to the International Space Station.",
       "mapUrl": "https://www.google.com/maps?q=45.996034,63.564003"
+    },
+    {
+      "id": "7bdc412b-c965-4517-a131-f57a01189803",
+      "missionName": "Amazon Leo (LE-04)",
+      "rocket": "Ariane 64 Block 2",
+      "provider": "Arianespace",
+      "launchSite": "Guiana Space Centre, French Guiana",
+      "pad": "Ariane Launch Area 4",
+      "status": "To Be Confirmed",
+      "net": "2026-11-24T11:09:00Z",
+      "windowStart": "2026-11-24T11:09:00Z",
+      "windowEnd": "2026-11-24T11:38:00Z",
+      "missionType": "Communications",
+      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
+      "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
     },
     {
       "id": "460d9db7-eaf6-4cd9-b095-cff433534c09",
