@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T10:16:45.203Z",
+  "generatedAt": "2026-11-23T22:08:41.919Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
@@ -25,10 +25,10 @@
       "provider": "Arianespace",
       "launchSite": "Guiana Space Centre, French Guiana",
       "pad": "Ariane Launch Area 4",
-      "status": "To Be Confirmed",
-      "net": "2026-11-24T11:09:00Z",
-      "windowStart": "2026-11-24T11:09:00Z",
-      "windowEnd": "2026-11-24T11:38:00Z",
+      "status": "Go for Launch",
+      "net": "2026-11-24T10:45:00Z",
+      "windowStart": "2026-11-24T10:45:00Z",
+      "windowEnd": "2026-11-24T11:14:00Z",
       "missionType": "Communications",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
       "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
@@ -109,21 +109,6 @@
       "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
     },
     {
-      "id": "8b46d360-6b3b-423f-9036-d5568e485624",
-      "missionName": "Unknown Payload",
-      "rocket": "Kinetica 1",
-      "provider": "CAS Space",
-      "launchSite": "Haiyang Oriental Spaceport",
-      "pad": "South China Sea (launch location 3)",
-      "status": "To Be Confirmed",
-      "net": "2026-11-29T01:00:00Z",
-      "windowStart": "2026-11-29T01:00:00Z",
-      "windowEnd": "2026-11-29T04:00:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=21.366667,112.116667"
-    },
-    {
       "id": "13270554-4bdb-42ae-916f-1bb54492204f",
       "missionName": "Unknown Payload",
       "rocket": "Long March 6C",
@@ -167,6 +152,36 @@
       "missionType": "Resupply",
       "description": "This is the 25th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
+      "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
+      "missionName": "Unknown Payload",
+      "rocket": "Kuaizhou 11",
+      "provider": "ExPace",
+      "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Area 95A",
+      "status": "To Be Determined",
+      "net": "2026-11-30T00:00:00Z",
+      "windowStart": "2026-11-30T00:00:00Z",
+      "windowEnd": "2026-11-30T00:00:00Z",
+      "missionType": "Unknown",
+      "description": "Details TBD.",
+      "mapUrl": "https://www.google.com/maps?q=40.969117,100.343333"
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "missionName": "Demo Flight",
+      "rocket": "Mir",
+      "provider": "Agency for Defense Development",
+      "launchSite": "Sea Launch",
+      "pad": "ADD Offshore launch platform",
+      "status": "To Be Determined",
+      "net": "2026-11-30T00:00:00Z",
+      "windowStart": "2026-11-30T00:00:00Z",
+      "windowEnd": "2026-11-30T00:00:00Z",
+      "missionType": "Test Flight",
+      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+      "mapUrl": null
     }
   ]
 }
