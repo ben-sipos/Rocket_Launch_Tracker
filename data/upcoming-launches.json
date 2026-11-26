@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T21:53:30.284Z",
+  "generatedAt": "2026-11-26T03:55:19.647Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
-  "total": 11,
+  "total": 12,
   "launches": [
     {
       "id": "b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4",
@@ -24,14 +24,14 @@
       "rocket": "Electron",
       "provider": "Rocket Lab",
       "launchSite": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Unknown Pad",
+      "pad": "Rocket Lab Launch Complex 1B",
       "status": "Go for Launch",
       "net": "2026-11-27T00:05:00Z",
       "windowStart": "2026-11-27T00:00:00Z",
       "windowEnd": "2026-11-27T00:05:00Z",
       "missionType": "Earth Science",
       "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
-      "mapUrl": null
+      "mapUrl": "https://www.google.com/maps?q=-39.262833,177.864469"
     },
     {
       "id": "a6421db3-7c8a-4cf7-a659-cec195140f7f",
@@ -167,6 +167,21 @@
       "missionType": "Earth Science",
       "description": "CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission.\r\n\r\nAlso on board this mission are 2 satellites from ICEYE and PECCY.",
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
+    },
+    {
+      "id": "5ce59e3a-c343-430f-ae4e-e608ba536754",
+      "missionName": "SatNet LEO Group TBD?",
+      "rocket": "Long March 12",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "launchSite": "Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-2",
+      "status": "To Be Confirmed",
+      "net": "2026-12-10T07:00:00Z",
+      "windowStart": "2026-12-10T07:00:00Z",
+      "windowEnd": "2026-12-10T10:00:00Z",
+      "missionType": "Communications",
+      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+      "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
     }
   ]
 }
