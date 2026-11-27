@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-11-27T04:44:57.885Z",
+  "generatedAt": "2026-11-27T14:39:41.323Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=detailed",
   "total": 10,
   "launches": [
-    {
-      "id": "a6421db3-7c8a-4cf7-a659-cec195140f7f",
-      "missionName": "Unknown Payload",
-      "rocket": "Long March 6A",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "launchSite": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Complex 9A",
-      "status": "Go for Launch",
-      "net": "2026-11-27T13:00:00Z",
-      "windowStart": "2026-11-27T12:53:00Z",
-      "windowEnd": "2026-11-27T13:15:00Z",
-      "missionType": "Unknown",
-      "description": "Details TBD.",
-      "mapUrl": "https://www.google.com/maps?q=38.8583,111.5802"
-    },
     {
       "id": "13270554-4bdb-42ae-916f-1bb54492204f",
       "missionName": "Unknown Payload",
@@ -64,21 +49,6 @@
       "mapUrl": "https://www.google.com/maps?q=28.56194122,-80.57735736"
     },
     {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "missionName": "Demo Flight",
-      "rocket": "Mir",
-      "provider": "Agency for Defense Development",
-      "launchSite": "Sea Launch",
-      "pad": "ADD Offshore launch platform",
-      "status": "To Be Determined",
-      "net": "2026-11-30T00:00:00Z",
-      "windowStart": "2026-11-30T00:00:00Z",
-      "windowEnd": "2026-11-30T00:00:00Z",
-      "missionType": "Test Flight",
-      "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mapUrl": null
-    },
-    {
       "id": "8b46d360-6b3b-423f-9036-d5568e485624",
       "missionName": "Unknown Payload",
       "rocket": "Kinetica 1",
@@ -100,10 +70,10 @@
       "provider": "ExPace",
       "launchSite": "Jiuquan Satellite Launch Center, People's Republic of China",
       "pad": "Launch Area 95A",
-      "status": "To Be Confirmed",
-      "net": "2026-12-01T08:00:00Z",
-      "windowStart": "2026-12-01T08:00:00Z",
-      "windowEnd": "2026-12-01T16:00:00Z",
+      "status": "Go for Launch",
+      "net": "2026-12-02T11:55:00Z",
+      "windowStart": "2026-12-02T11:48:00Z",
+      "windowEnd": "2026-12-02T12:33:00Z",
       "missionType": "Unknown",
       "description": "Details TBD.",
       "mapUrl": "https://www.google.com/maps?q=40.969117,100.343333"
@@ -152,6 +122,36 @@
       "missionType": "Communications",
       "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
       "mapUrl": "https://www.google.com/maps?q=19.59755,110.936481"
+    },
+    {
+      "id": "22e117bf-041c-49d5-9d09-7b180036e143",
+      "missionName": "Metop-SG B1",
+      "rocket": "Ariane 62",
+      "provider": "Arianespace",
+      "launchSite": "Guiana Space Centre, French Guiana",
+      "pad": "Ariane Launch Area 4",
+      "status": "Go for Launch",
+      "net": "2026-12-18T00:36:00Z",
+      "windowStart": "2026-12-18T00:36:00Z",
+      "windowEnd": "2026-12-18T00:36:00Z",
+      "missionType": "Earth Science",
+      "description": "Second of EUMETSAT's second generation of Metop weather satellites.",
+      "mapUrl": "https://www.google.com/maps?q=5.256319,-52.786838"
+    },
+    {
+      "id": "9b9db235-8ffb-4569-b09b-0e852ad231a0",
+      "missionName": "Amazon Leo (LF-04)",
+      "rocket": "Falcon 9 Block 5",
+      "provider": "SpaceX",
+      "launchSite": "Cape Canaveral SFS, FL, USA",
+      "pad": "Unknown Pad",
+      "status": "To Be Determined",
+      "net": "2026-12-31T00:00:00Z",
+      "windowStart": "2026-12-31T00:00:00Z",
+      "windowEnd": "2026-12-31T00:00:00Z",
+      "missionType": "Communications",
+      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit designed to offer broadband internet access managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.",
+      "mapUrl": "https://www.google.com/maps?q=28.458,-80.528"
     }
   ]
 }
